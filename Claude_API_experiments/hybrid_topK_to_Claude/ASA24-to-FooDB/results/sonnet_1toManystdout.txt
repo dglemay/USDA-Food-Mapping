@@ -1,0 +1,27 @@
+Loading dataframes
+
+Loading input file
+Number of unique inputs 54
+Loading target file
+Number of unique targets 9913
+Loading truth file
+Number of items in ground truth table 1199
+Dataframes loaded
+
+Length of ground truth table 1199
+
+Length of claude table 54
+
+Check that every input in Claude was also in ground truth
+
+If this next part is 0, we did not hallucinate any inputs
+Number of claude inputs not in ground truth: 0
+
+Check that every output from Claude actually existed in the target database
+
+If this next part is 0, we did not hallucinate any responses not in target database
+Number of claude inputs not in target database: 0
+
+
+Accuracy (whole dataset) 1.0
+

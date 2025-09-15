@@ -1,0 +1,170 @@
+salt, table, iodized	salt, table, iodized
+garlic, raw	garlic, raw
+ginger root, raw	ginger root, raw
+celery, raw	celery, raw
+cassava, raw	cassava, raw
+cookies, animal crackers (includes arrowroot, tea biscuits)	cookies, animal crackers (includes arrowroot, tea biscuits)
+broccoli, raw	broccoli, raw
+peas, green, raw	peas, green, raw
+pancakes, whole wheat, dry mix, incomplete	pancakes, whole-wheat, dry mix, incomplete
+pumpkin, raw	pumpkin, raw
+chard, swiss, raw	chard, swiss, raw
+beverages, almond milk, unsweetened, shelf stable	beverages, almond milk, unsweetened, shelf stable
+honey	honey, mixed varieties (samples obtained in argentina, australia, italy, portugaul and spain)
+cabbage, red, raw	cabbage, red, raw
+rhubarb, raw	rhubarb, raw
+spinach, raw	spinach, raw
+bread, multi-grain (includes whole-grain)	bread, multi-grain (includes whole-grain)
+watermelon, raw	watermelon, raw
+mangos, raw	mangos, raw
+pomegranates, raw	pomegranates, raw
+carrot juice, canned	carrot juice, canned
+chives, raw	chives, raw
+alfalfa seeds, sprouted, raw	alfalfa seeds, sprouted, raw
+brussels sprouts, raw	brussels sprouts, raw
+lemon peel, raw	lemon peel, raw
+figs, raw	figs, raw
+marmalade, orange	marmalade, orange
+potato flour	potato flour
+watercress, raw	watercress, raw
+kumquats, raw	kumquats, raw
+beverages, coconut milk, sweetened, fortified with calcium, vitamins a, b12, d2	beverages, coconut milk, sweetened, fortified with calcium, vitamins a, b12, d2
+chicken breast, deli, rotisserie seasoned, sliced, prepackaged	chicken, breast, boiled, sliced
+chicken, broiler, rotisserie, bbq, drumstick, meat only	chicken, drumstick, flesh and skin, raw
+chicken, broiler, rotisserie, bbq, drumstick, meat and skin	chicken, drumstick, flesh and skin, raw
+chicken, broiler, rotisserie, bbq, breast, meat only	chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised
+cheese, cheddar, reduced fat (includes foods for usda's food distribution program)	usda commodity, cheese, cheddar, reduced fat
+chicken, broiler, rotisserie, bbq, wing, meat and skin	chicken, wing, flesh and skin, raw
+chicken, broiler or fryers, breast, skinless, boneless, meat only, raw	chicken, flesh only, raw
+turkey, whole, meat only, with added solution, roasted	turkey, whole, meat only, raw
+turkey, whole, meat only, cooked, roasted	turkey, whole, meat only, raw
+bread, naan, whole wheat, commercially prepared, refrigerated	bread, whole-wheat, commercially prepared
+chicken, broiler, rotisserie, bbq, thigh, meat only	chicken, hen, flesh only
+orange juice, frozen concentrate, unsweetened, undiluted, with added calcium	orange juice, frozen concentrate, unsweetened, undiluted
+duck, domesticated, meat and skin, cooked, roasted	duck, domesticated, meat and skin, raw
+restaurant, chinese, vegetable chow mein, without meat or noodles	restaurant, chinese, fried rice, without meat
+potatoes, mashed, ready-to-eat	potatoes, mashed, home-prepared, whole milk added
+cabbage, kimchi	cabbage
+guava nectar, with sucralose, canned	guava nectar, canned
+cake, snack cakes, not chocolate, with icing or filling, low-fat, with added fiber	cake, snack cakes, cupcakes, chocolate, with frosting, low-fat
+blueberries, dried, sweetened	cranberries, dried, sweetened
+pizza, cheese topping, thin crust, frozen, cooked	pizza, cheese topping, regular crust, frozen, cooked
+strawberries, frozen, unsweetened (includes foods for usda's food distribution program)	strawberries, frozen, unsweetened
+bread, wheat, sprouted	wheat, sprouted
+fast foods, fried chicken, wing, meat and skin and breading	fast foods, chicken fillet sandwich, plain
+chicken patty, frozen, cooked	bratwurst, chicken, cooked
+crackers, cheese, whole grain	crackers, cheese, regular
+fast foods, chicken tenders	fast foods, chicken fillet sandwich, plain
+turkey breast, sliced, prepackaged	turkey breast, low salt, prepackaged or deli, luncheon meat
+fast foods, fried chicken, drumstick, meat and skin with breading	fast foods, chicken fillet sandwich, plain
+turkey, ground, cooked	turkey, minced, raw
+beef, round, eye of round roast, boneless, separable lean only, trimmed to 0" fat, all grades, raw	beef, round, eye of round, roast, separable lean only, trimmed to 1/8" fat, all grades, raw
+restaurant, chinese, chicken and vegetables	restaurant, chinese, chicken chow mein
+jams, preserves, marmalade, reduced sugar	jams and preserves, dietetic (with sodium saccharin), any flavor
+fast food, biscuit	fast foods, biscuit, with egg
+tortillas, ready-to-bake or -fry, whole wheat	tortillas, ready-to-bake or -fry, flour, refrigerated
+cereals ready-to-eat, nature's path, organic flax plus flakes	cereals ready-to-eat, kashi go lean crunch!, honey almond flax
+bacon, turkey, microwaved	pork, cured, bacon, cooked, microwaved
+cookies, sugar wafer, chocolate-covered	cookies, chocolate wafers
+restaurant, family style, coleslaw	fast foods, coleslaw
+sauce, enchilada, red, mild, ready to serve	sauce, salsa, ready-to-serve
+rolls, dinner, sweet	sweet rolls, cheese
+soup, beef barley, ready to serve	soup, beef with vegetables and barley, canned, condensed, single brand
+restaurant, chinese, orange chicken	restaurant, chinese, sweet and sour chicken
+beverages, chocolate powder, no sugar added	cocoa mix, no sugar added, powder
+snacks, potato chips, lightly salted	snacks, potato chips, plain, salted
+lamb, ground, cooked, broiled	veal, ground, cooked, broiled
+cookies, coconut macaroon	cookies, coconut macaroons, prepared from recipe
+jellies, no sugar (with sodium saccharin), any flavors	jams and preserves, dietetic (with sodium saccharin), any flavor
+peppers, hot pickled, canned	pepper, hot chili, canned
+beef, round, top round roast, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted	beef, round, bottom round, roast, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted
+salad dressing, mayonnaise-type, light	salad dressing, mayonnaise, light
+frankfurter, meat and poultry, unheated	frankfurter, meat
+bread, cinnamon	bread, wheat
+canadian bacon, cooked, pan-fried	pork, cured, canadian-style bacon, grilled
+cookies, brownies, commercially prepared, reduced fat, with added fiber	cookies, brownies, commercially prepared
+mayonnaise, reduced fat, with olive oil	mayonnaise, low fat
+kielbasa, fully cooked, grilled	kielbasa, kolbassy, pork, beef, nonfat dry milk added
+beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0" fat, all grades, raw	beef, short loin, top loin, steak, separable lean only, trimmed to 1/8" fat, all grades, raw
+bread, french or vienna, whole wheat	whole wheat bread
+game meat, bison, separable lean only, cooked, roasted	game meat , bison, ground, raw
+fast foods, submarine sandwich, turkey breast on white bread with lettuce and tomato	fast foods, submarine sandwich, with cold cuts
+macaroni or noodles with cheese, microwaveable, unprepared	macaroni and cheese, canned, microwavable
+sweet potatoes, french fried, frozen as packaged, salt added in processing	potatoes, french fried, all types, salt added in processing, frozen, unprepared
+turkey, all classes, light meat, cooked, roasted	turkey, whole, meat only, raw
+chicken, broilers or fryers, wing, meat and skin, cooked, roasted	chicken, wing, flesh and skin, raw
+chicken, broilers or fryers, thigh, meat and skin, cooked, roasted	chicken, flesh and skin, raw
+chicken, broiler, rotisserie, bbq, thigh, meat and skin	chicken, flesh and skin, grilled
+chicken, broiler, rotisserie, bbq, breast, meat and skin	chicken, flesh and skin, grilled
+chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted	chicken, drumstick, flesh and skin, raw
+chicken, broilers or fryers, thigh, meat only, cooked, roasted	chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised
+chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted	chicken, drumstick, flesh and skin, raw
+chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised	chicken, drumstick, flesh and skin, raw
+syrup, nestle, chocolate	syrups, chocolate, fudge-type
+chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised	chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised
+chicken, broilers or fryers, drumstick, meat only, cooked, braised	chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised
+beverages, tropical punch, ready-to-drink	fruit punch drink, with added nutrients, canned
+chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised	chicken, flesh and skin, grilled
+beverages, aloe vera juice drink, fortified with vitamin c	beverages, fruit juice drink, reduced sugar, with vitamin e added
+chicken, broilers or fryers, thigh, meat and skin, raw	chicken, flesh and skin, raw
+bologna, meat and poultry	bologna, beef and pork
+fast foods, submarine sandwich, sweet onion chicken teriyaki on white bread with lettuce, tomato and sweet onion sauce	fast foods, submarine sandwich, with cold cuts
+lamb, rib, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled	beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/8"fat, choice, cooked, broiled
+turkey, whole, neck, meat only, cooked, simmered	turkey, whole, meat only, raw
+fast foods, fried chicken, breast, meat only, skin and breading removed	chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised
+sausage, egg and cheese breakfast biscuit	fast foods, biscuit, with egg and sausage
+taquitos, frozen, beef and cheese, oven-heated	burrito, beef and bean, frozen
+beverages, coconut water, ready-to-drink, unsweetened	nuts, coconut water (liquid from coconuts)
+reduced sodium: ham, sliced, pre-packaged, deli meat (96%fat free, water added)	ham, sliced, prepackaged (96% fat free, water added)
+beverages, protein powder whey based	protein supplement, milk based, muscle milk, powder
+beverages, the coca-cola company, nos energy drink, original, grape, loaded cherry, charged citrus, fortified with vitamins b6 and b12	energy drink, red bull, with added caffeine, niacin, pantothenic acid, vitamins b6 and b12
+alcoholic beverage, malt beer, hard lemonade	malt beverage
+candies, m&m mars pretzel chocolate candies	candies, mars snackfood us, m&m's peanut chocolate candies
+cookie, with peanut butter filling, chocolate-coated	cookies, peanut butter, commercially prepared, regular
+beverages, abbott, ensure, nutritional shake, ready-to-drink	ensure plus, liquid nutrition
+lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4" fat, choice, cooked, roasted	lamb, leg, defatted, raw
+sweetener, herbal extract powder from stevia leaf	sweeteners, tabletop, sucralose, splenda packets
+beverages, cytosport, muscle milk, ready-to-drink	protein supplement, milk based, muscle milk, powder
+vitamin d as ingredient	whole milk, vitamin d3
+beef, round, top round roast, boneless, separable lean only, trimmed to 0" fat, all grades, raw	beef, round, tip round, roast, separable lean only, trimmed to 0" fat, all grades, raw
+beverages, abbott, eas whey protein powder	protein supplement, milk based, muscle milk, powder
+beverages, nestle, boost plus, nutritional drink, ready-to-drink	nutritional drink
+beverages, protein powder soy based	soy protein isolate
+beverages, slimfast, meal replacement,  high protein shake, ready-to-drink, 3-2-1 plan	formulated bar, slim-fast optima meal bar, milk chocolate peanut
+beverages, whey protein powder isolate	whey, sweet, dried
+beverages, yellow green colored citrus soft drink with caffeine	carbonated beverage, lemon-lime soda, contains caffeine
+bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca	bread, white
+bread, roll, mexican, bollilo	bread, white, roll
+candies, toblerone, milk chocolate with honey and almond nougat	candies, nougat, with almonds
+cereals ready-to-eat, nature's path, organic flax plus, pumpkin granola	cereals ready-to-eat, quaker, 100% natural granola, oats, wheat and honey
+cookie, butter or sugar, with chocolate icing or filling	cookies, sugar wafers with creme filling, regular
+cookie, chocolate, with icing or coating	cookies, marshmallow, chocolate-coated (includes marshmallow pies)
+crackers, multigrain	crackers, saltines, whole wheat (includes multi-grain)
+crackers, water biscuits	crackers, wheat, regular
+dip, bean, original flavor	dip, cheese with chili peppers, ready-to-serve
+fast foods, breadstick, soft, prepared with garlic and parmesan cheese	fast foods, onion rings, breaded and fried
+fast foods, breakfast burrito, with egg, cheese, and sausage	fast foods, bagel, with egg, sausage patty, cheese, and condiments
+fast foods, chicken, breaded and fried, boneless pieces, plain	chicken, meatless, breaded, fried
+fast foods, fried chicken, breast, meat and skin and breading	fast foods, chicken fillet sandwich, plain
+fast foods, fried chicken, drumstick, meat only, skin and breading removed	chicken, drumstick, flesh and skin, raw
+fast foods, fried chicken, thigh, meat and skin and breading	fast foods, chicken fillet sandwich, plain
+fast foods, fried chicken, thigh, meat only, skin and breading removed	fast foods, salad, vegetable, tossed, without dressing, with chicken
+ice cream bar, stick or nugget, with crunch coating	ice cream, bar or stick, chocolate covered
+jams, preserves, marmalades, sweetened with fruit juice	jams and preserves
+lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, cooked	beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8" fat, choice, cooked
+lamb, loin, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled	lamb, loin, raw
+lamb, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4" fat, choice, cooked, roasted	lamb, shoulder, raw
+mango, dried, sweetened	mango
+pizza rolls, frozen, unprepared	pizza napolitana, frozen
+potsticker or wonton, pork and vegetable, frozen, unprepared	vegetables, mixed, frozen, unprepared
+reduced sodium: chicken breast, deli, rotisserie seasoned, sliced, prepackaged	soup, cream of chicken, canned, condensed, reduced sodium
+rice and vermicelli mix, rice pilaf flavor, unprepared	rice, parboiled, raw
+rice crackers	rice cake, cracker (include hain mini rice cakes)
+sauce, horseradish	horseradish, prepared
+sauce, peanut, made from peanut butter, water, soy sauce	peanut butter
+sausage, pork, chorizo, link or ground, cooked, pan-fried	chorizo, pork and beef
+schiff,tiger's milk bar	candies, nestle, butterfinger bar
+syrup, fruit flavored	syrup
+turkey from whole, light meat, meat only, with added solution, cooked, roasted	turkey, breast, boiled/smoked, sliced
+turkey ham, sliced, extra lean, prepackaged or deli-sliced	ham, sliced, prepackaged (96% fat free, water added)
+yellow rice with seasoning, dry packet mix, unprepared	rice, white, long-grain, parboiled, unenriched, dry

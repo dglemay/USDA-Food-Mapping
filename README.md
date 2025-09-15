@@ -1,16 +1,22 @@
-# USDA Food Description Matching
+# USDA Food Matching
 
-This repository contains two experiments that evaluate string-matching methods for the purpose of linking input strings to their most appropriate match in a predefined set of target matches.
+The FoodMapper application can be found at https://richtext-semantic-food-mapper.hf.space/
 
-- **Experiment ASA24** (`asa24/asa24.py`)
+This repository contains benchmark data, evaluation methods, and results for the paper, "From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases," under review. Authors = Danielle G. Lemay, Michael P. Strohmeier, Richard B. Stoker, Jules A. Larke, Stephanie M.G. Wilson
 
-  - Assumes **every** input description *does* have a valid match in the target set.
-  - Goal: Return the single best match for each input description..
+- **Benchmark dataset ASA24-to-FoodB** 
 
-- **Experiment NHANES** (`nhanes/nhanes.py`)
+  - Input food descriptions = Foods reported via ASA24 dietary recall
+  - Target database = FoodB
+  - Assumes **every** input food *does* have a valid match in the target set.
+  - Goal: Return the single best match for each input food.
 
+- **Benchmark dataset  NHANES-to-DFG2** 
+
+  - Input food descriptions = Foods reported via 24-hr dietary recall in NHANES
+  - Target database = Davis Food Glycopedia 2
   - Some input descriptions may have **no suitable match**.
-  - Goal: Return the best match if one exists; otherwise, flag the input as `NO MATCH` if similarity score falls below a predefined threshold.
+  - Goal: Return the best match if one exists; otherwise, flag the input as `NO MATCH`.
 
 ---
 
@@ -20,21 +26,21 @@ This repository contains two experiments that evaluate string-matching methods f
 - [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 ### 1. Clone the Repository and Change Directory
-`git clone https://github.com/mike-str/USDA-Food-Description-Mapping-main`<br>
-`cd USDA-Food-Description-Mapping-main`
+`git clone https://github.com/dglemay/USDA-Food-Mapping-main`<br>
+`cd USDA-Food-Mapping-main/NLP_experiments`
 ### 2. Create the Conda Environment and Activate
 `conda env create -f environment.yml`<br>
-`conda activate USDA-food-database-mapping`
+`conda activate USDA-food-mapping`
 ### 3. Download the SpaCy Language Model
 `python -m spacy download en_core_web_sm`
-### 4. Run All Experiments
+### 4. Run the NLP Experiments
 `python main.py`
 
 This will:
 
 1. Create a results/ directory with subdirectories for accuracy tables and CSV files
-2. Run ASA24 experiments 1 and 2
-3. Run NHANES experiments 1-4
+2. Run the NLP algorithms on the ASA24-to-FoodB dataset 
+3. Run the NLP algorithms on the NHANES-to-DFG2 dataset
 4. Save results to the results/ directory
 
 ---
@@ -54,27 +60,14 @@ In this dataset, each ingredient description (ingred_desc) derived from the diet
 
 ---
 
-## Matching Algorithms (`matching_algorithms/`)
+## NLP Matching Algorithms (`NLP_experiments/matching_algorithms/`)
 
 | Method         | File              | Description                                                                                                                                                                                                                   |
 |----------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Fuzzy          | `fuzzy_match.py` | Selects the best match based on fuzzy string similarity using the RapidFuzz library. For each input, the algorithm chooses the closest target string according to `fuzz.ratio`. Text is cleaned (lowercased, punctuation removed, whitespace collapsed) before matching. |
 | TF‑IDF         | `tfidf_match.py` | Selects the best match by computing cosine similarity between TF‑IDF vectors of cleaned input and target descriptions. Text is cleaned before vectorization (lowercased, punctuation removed, and whitespace collapsed).                                                                                                                              |
-| Embedding      | `embed_match.py` | Selects the best match by computing cosine similarity between dense embeddings generated using `SentenceTransformer("thenlper/gte-large")`. Input and target texts are used **without** cleaning or preprocessing applied.                                                                 |
-| ChatGPT‑o3     | —                | Selects the best match by prompting GPT‑o3 directly with the input and list of possible targets. Prompt file: `llm/prompts/o3_asa24_prompt.txt`. Inputs: `data/llm/asa24_input.csv` and `data/llm/asa24_unique_target.csv`. The model returned a JSON file of predicted matches, which was then evaluated within the respective experiment script.                                                                 |
+| Embedding      | `embed_match.py` | Selects the best match by computing cosine similarity between dense embeddings generated using `SentenceTransformer("thenlper/gte-large")`. Input and target texts are used **without** cleaning or preprocessing applied.                                                                 |                                                                |
 
-## Experiments
-| Title                  | Inputs                                                                                                   | Targets                                                                                                 | Methods                                                                                                                  |
-|------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| asa24_experiment_1     | ASA24_FooDB_codematches_6-26-2025.xlsx (all outputs of ASA24 that are mappable to FoodDB)                 | ASA24_FooDB_codematches_6-26-2025.xlsx (only contains targets from FoodDB that are mappable)            | fuzzy, tf-idf, embed, o3 |
-| asa24_experiment_2     | ASA24_FooDB_codematches_6-26-2025.xlsx (all outputs of ASA24 that are mappable to FoodDB)                 | FooDB_Unique_Descriptions.csv (complete database of FoodDB, uniquified)                                 | fuzzy, tf-idf, embed, o3, top5_llm (hybrid) |
-| asa24_experiment_3     | ASA24_FooDB_codematches_6-26-2025.xlsx (FooDB matches but with non-direct matches removed, inputs and targets don't match) | ASA24_FooDB_codematches_6-26-2025.xlsx (FooDB matches but with non-direct matches removed, inputs and targets don't match) | none |
-| asa24_experiment_4     | ASA24_FooDB_codematches_6-26-2025.xlsx (all outputs of ASA24 that are mappable to FoodDB), with non-direct matches removed, inputs and targets don't match                                                                                                         | FooDB_Unique_Descriptions.csv (complete database of FoodDB, unique)                                                                                                        | fuzzy, tf-idf, embed, *o3, *top5_llm  |
-| nhanes_experiment_1    | nhanes_dfg2_labels.csv and label == 1 (all outputs of ASA24 from NHANES dataset that are mappable to DFG2) | nhanes_dfg2_labels.csv and label == 1 (includes all targets in DFG2 that are mappable)                  | fuzzy, tfidf, embed, o3 |
-| nhanes_experiment_2    | nhanes_dfg2_labels.csv (all outputs of ASA24 from NHANES dataset, whether or not mappable to DFG2)        | nhanes_dfg2_labels.csv (includes all targets in DFG2 that are mappable)                                 | fuzzy, tfidf, embed, o3 |
-| nhanes_experiment_3    | nhanes_dfg2_labels.csv and label == 1 (all outputs of ASA24 from NHANES dataset that are mappable to DFG2) | dfg2_food_descriptions.csv (includes complete list of DFG2 data)                                        | fuzzy, tfidf, embed, o3, top5_llm (hybrid) |
-| nhanes_experiment_4    | nhanes_dfg2_labels.csv (all outputs of ASA24 from NHANES dataset, whether or not mappable to DFG2)        | dfg2_food_descriptions.csv (includes complete list of DFG2 data)                                        | fuzzy, tfidf, embed, o3, claude |
+## Matching with Claude family LLMs (Anthropic) (`Claude_API_experiments/`)
 
-using * to denote the results were derived from filtering a more full results table. I don't see a way to access o3 anymore so cannot run this for asa24 exp 4 (the following applies to that experiment:
-<br>*o3 didn't directly run but filtered, which SHOULD be the same
-<br>*top5_llm (hybrid, filtered but this is 100% fine because it was 1 API call per input on same candidate list as asa24 exp 2)
+## Exploring LLM model size and Prompt Strategy with Gemma3 (`SCINet_Gemma3_experiments/`)

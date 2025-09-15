@@ -1,0 +1,71 @@
+Loading dataframes
+
+Loading input file
+Loading target file
+Loading truth file
+Number of unique inputs 1304
+Number of unique targets 256
+Number of unique input items in ground truth table 1304
+Dataframes loaded
+
+Length of ground truth table 1304
+Length of ground truth table 1304
+Ground truth number of 0s (nones): 611
+Ground truth number of 1s (match exists): 693
+
+Length of claude table 1303
+claude number of predicted 0s (none) 317
+max POSSIBLE accuracy IF every match WAS correct 0.7569018404907976
+
+If this next part is 0, we did not hallucinate any inputs
+Number of claude inputs not in ground truth: 0
+
+Check that every output from Claude actually existed in the target database
+Item canned mushrooms not in target database
+Item egg white, raw, fresh not in target database
+Item brown sugar not in target database
+Item canned pineapple not in target database
+Item chicken drumstick not in target database
+Item chicken thigh not in target database
+Item pinto beans, mature seeds, raw not in target database
+Item papayas, raw not in target database
+Item soy protein powder not in target database
+Item soy protein powder not in target database
+Item chicken thigh not in target database
+Item coconut meat, raw not in target database
+Item cream, fluid, light whipping not in target database
+Item canned apricots not in target database
+Item olive oil not in target database
+Item ginger ale not in target database
+Item whole egg not in target database
+Item swiss cheese not in target database
+Item chicken drumstick not in target database
+Item chicken thigh not in target database
+Item chicken drumstick not in target database
+Item coconut water not in target database
+Item queso fresco not in target database
+Item gatorade g2 not in target database
+Item soy oil not in target database
+Item soy oil not in target database
+Item rice milk not in target database
+Item buttermilk not in target database
+Item chicken thigh not in target database
+Item brie not in target database
+Item chicken drumstick not in target database
+Item cream soda not in target database
+Item chicken thigh not in target database
+Item ground deer not in target database
+Item ground lamb not in target database
+Item soy oil not in target database
+Item parsnips, cooked, boiled, drained, without salt not in target database
+
+If this next part is 0, we did not hallucinate any responses not in target database
+Number of claude outputs not in target database: 37
+
+Percent accuracy from first 100 matches: 89
+Percent accuracy (whole dataset) 65.41411042944786
+
+merged_df_label_0_only number of rows:  611
+Percent accuracy when only checking label == 0 ('None' is the valid match): 46.64484451718494
+merged_df_label_1_only number of rows:  693
+Percent accuracy when only checking label == 1 (a valid match does exist): 81.96248196248196

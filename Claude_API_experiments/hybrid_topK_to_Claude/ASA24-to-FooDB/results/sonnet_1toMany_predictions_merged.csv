@@ -1,0 +1,55 @@
+input_desc,match_claude,input_id,target_desc,target_id,is_match
+"cheese, cheddar (includes foods for usda's food distribution program)","cheese, cheddar",1009,"cheese, cheddar",1009,1
+"yogurt, plain, skim milk","yogurt, plain, skim milk, 13 grams protein per 8 ounce",1118,"yogurt, plain, skim milk, 13 grams protein per 8 ounce",1118,1
+"egg, white, raw, fresh","egg, white, raw, fresh",1124,"egg, white, raw, fresh",1124,1
+"cream, sour, cultured","cream, sour, cultured",1056,"cream, sour, cultured",1056,1
+"milk, buttermilk, dried","milk, buttermilk, dried",1094,"milk, buttermilk, dried",1094,1
+"cheese product, pasteurized process, american, vitamin d fortified","cheese product, pasteurized process, american, vitamin d fortified",1252,"cheese product, pasteurized process, american, vitamin d fortified",1252,1
+"butter, salted","butter, salted",1001,"butter, salted",1001,1
+"yogurt, plain, low fat","yogurt, plain, low fat, 12 grams protein per 8 ounce",1117,"yogurt, plain, low fat, 12 grams protein per 8 ounce",1117,1
+"cheese, monterey","cheese, monterey",1025,"cheese, monterey",1025,1
+"ice cream, bar or stick, chocolate covered","ice cream, bar or stick, chocolate covered",1237,"ice cream, bar or stick, chocolate covered",1237,1
+"yogurt, plain, whole milk","yogurt, plain, whole milk, 8 grams protein per 8 ounce",1116,"yogurt, plain, whole milk, 8 grams protein per 8 ounce",1116,1
+"cream, fluid, heavy whipping","cream, fluid, heavy whipping",1053,"cream, fluid, heavy whipping",1053,1
+"cheese, parmesan, grated","cheese, parmesan, grated",1032,"cheese, parmesan, grated",1032,1
+"milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d","milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d",1079,"milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d",1079,1
+"cream, fluid, half and half","cream, fluid, half and half",1049,"cream, fluid, half and half",1049,1
+"sour cream, light","sour cream, light",1179,"sour cream, light",1179,1
+"milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)","milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)",1085,"milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)",1085,1
+"cream substitute, powdered","cream substitute, powdered",1069,"cream substitute, powdered",1069,1
+"spices, chili powder","spices, chili powder",2009,"spices, chili powder",2009,1
+"cheese, cream","cheese, cream",1017,"cheese, cream",1017,1
+"cheese, blue","cheese, blue",1004,"cheese, blue",1004,1
+"cheese, fresh, queso fresco","cheese, fresh, queso fresco",1228,"cheese, fresh, queso fresco",1228,1
+"cream, whipped, cream topping, pressurized","cream, whipped, cream topping, pressurized",1054,"cream, whipped, cream topping, pressurized",1054,1
+"milk, whole, 3.25% milkfat, with added vitamin d","milk, whole, 3.25% milkfat, with added vitamin d",1077,"milk, whole, 3.25% milkfat, with added vitamin d",1077,1
+"cheese, colby","cheese, colby",1011,"cheese, colby",1011,1
+"cheese, feta","cheese, feta",1019,"cheese, feta",1019,1
+"egg, whole, dried","egg, whole, dried",1133,"egg, whole, dried",1133,1
+"milk, dry, nonfat, regular, without added vitamin a and vitamin d","milk, dry, nonfat, regular, without added vitamin a and vitamin d",1091,"milk, dry, nonfat, regular, without added vitamin a and vitamin d",1091,1
+eggnog,eggnog,1057,eggnog,1057,1
+"cheese, cottage, lowfat, 2% milkfat","cheese, cottage, lowfat, 2% milkfat",1015,"cheese, cottage, lowfat, 2% milkfat",1015,1
+"cheese spread, pasteurized process, american","cheese spread, pasteurized process, american",1048,"cheese spread, pasteurized process, american",1048,1
+"cheese, gouda","cheese, gouda",1022,"cheese, gouda",1022,1
+"cheese, swiss","cheese, swiss",1040,"cheese, swiss",1040,1
+"protein supplement, milk based, muscle milk light, powder","protein supplement, milk based, muscle milk light, powder",1224,"protein supplement, milk based, muscle milk light, powder",1224,1
+"cheese, brick","cheese, brick",1005,"cheese, brick",1005,1
+"milk, chocolate, fluid, commercial, reduced fat, with added vitamin a and vitamin d","milk, chocolate, fluid, commercial, reduced fat, with added vitamin a and vitamin d",1103,"milk, chocolate, fluid, commercial, reduced fat, with added vitamin a and vitamin d",1103,1
+"cheese, pasteurized process, american, without added vitamin d","cheese, pasteurized process, american, without added vitamin d",1253,"cheese, pasteurized process, american, without added vitamin d",1253,1
+"cheese, ricotta, part skim milk","cheese, ricotta, part skim milk",1037,"cheese, ricotta, part skim milk",1037,1
+"cheese, gruyere","cheese, gruyere",1023,"cheese, gruyere",1023,1
+"cheese, cottage, nonfat, uncreamed, dry, large or small curd","cheese, cottage, nonfat, uncreamed, dry, large or small curd",1014,"cheese, cottage, nonfat, uncreamed, dry, large or small curd",1014,1
+"cream substitute, liquid, with hydrogenated vegetable oil and soy protein","cream substitute, liquid, with hydrogenated vegetable oil and soy protein",1067,"cream substitute, liquid, with hydrogenated vegetable oil and soy protein",1067,1
+"cheese, brie","cheese, brie",1006,"cheese, brie",1006,1
+"cheese, muenster","cheese, muenster",1030,"cheese, muenster",1030,1
+"cheese, cottage, creamed, large or small curd","cheese, cottage, creamed, large or small curd",1012,"cheese, cottage, creamed, large or small curd",1012,1
+"milk, dry, nonfat, regular, with added vitamin a and vitamin d","milk, dry, nonfat, regular, with added vitamin a and vitamin d",1154,"milk, dry, nonfat, regular, with added vitamin a and vitamin d",1154,1
+"cream, fluid, light (coffee cream or table cream)","cream, fluid, light (coffee cream or table cream)",1050,"cream, fluid, light (coffee cream or table cream)",1050,1
+"dessert topping, semi solid, frozen","dessert topping, semi solid, frozen",1073,"dessert topping, semi solid, frozen",1073,1
+"cheese, mexican, queso asadero","cheese, mexican, queso asadero",1166,"cheese, mexican, queso asadero",1166,1
+"cheese, goat, semisoft type","cheese, goat, semisoft type",1157,"cheese, goat, semisoft type",1157,1
+"milk, chocolate, lowfat, with added vitamin a and vitamin d","milk, chocolate, fluid, commercial, lowfat, with added vitamin a and vitamin d",1104,"milk, chocolate, fluid, commercial, lowfat, with added vitamin a and vitamin d",1104,1
+"milk, canned, condensed, sweetened","milk, canned, condensed, sweetened",1095,"milk, canned, condensed, sweetened",1095,1
+"butter oil, anhydrous","butter oil, anhydrous",1003,"butter oil, anhydrous",1003,1
+"spices, celery seed","spices, celery seed",2007,"spices, celery seed",2007,1
+"milk, buttermilk, fluid, cultured, lowfat","milk, buttermilk, fluid, cultured, lowfat",1088,"milk, buttermilk, fluid, cultured, lowfat",1088,1

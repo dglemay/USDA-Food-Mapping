@@ -1,0 +1,58 @@
+Loading dataframes
+
+Loading input file
+Number of unique inputs 170
+Loading target file
+Number of unique targets 9913
+Loading truth file
+Number of items in ground truth table 1199
+Dataframes loaded
+
+Length of ground truth table 1199
+
+Length of claude table 170
+
+Check that every input in Claude was also in ground truth
+
+If this next part is 0, we did not hallucinate any inputs
+Number of claude inputs not in ground truth: 0
+
+Check that every output from Claude actually existed in the target database
+Item chicken, broiler or fryers, breast, skinless, boneless, meat only, raw not in target database
+Item turkey, whole, meat only, cooked, roasted not in target database
+Item restaurant, chinese, vegetable chow mein, without meat or noodles not in target database
+Item potatoes, mashed, ready-to-eat not in target database
+Item pizza, cheese topping, thin crust, frozen, cooked not in target database
+Item bread, wheat, sprouted not in target database
+Item turkey, ground, cooked not in target database
+Item beef, round, eye of round roast, separable lean only, trimmed to 0" fat, all grades, raw not in target database
+Item restaurant, chinese, chicken and vegetables not in target database
+Item tortillas, ready-to-bake or -fry, whole wheat not in target database
+Item cereals ready-to-eat, nature's path, organic flax plus flakes not in target database
+Item beef, round, top round roast, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted not in target database
+Item salad dressing, mayonnaise-type, light not in target database
+Item cookies, brownies, commercially prepared, reduced fat, with added fiber not in target database
+Item game meat, bison, cooked, roasted not in target database
+Item fast foods, submarine sandwich, with turkey breast not in target database
+Item chicken, broiler or fryers, drumstick, meat and skin, cooked, roasted not in target database
+Item chicken, broiler or fryers, drumstick, meat only, cooked, braised not in target database
+Item chicken, broiler or fryers, thigh, meat and skin, raw not in target database
+Item beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/8" fat, choice, cooked, broiled not in target database
+Item beef, round, top round roast, separable lean only, trimmed to 0" fat, all grades, raw not in target database
+Item whey protein powder isolate not in target database
+Item bread, roll, mexican, bollilo not in target database
+Item cereals ready-to-eat, nature's path, organic flax plus, pumpkin granola not in target database
+Item crackers, water biscuits not in target database
+Item fast foods, breadstick, soft, prepared with garlic and parmesan cheese not in target database
+Item fast foods, chicken, breaded and fried, boneless pieces, plain not in target database
+Item beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, cooked not in target database
+Item lamb, shoulder, whole (arm and blade), separable lean only, cooked, roasted not in target database
+Item mango, dried not in target database
+Item rice crackers not in target database
+
+If this next part is 0, we did not hallucinate any responses not in target database
+Number of claude inputs not in target database: 31
+
+
+Accuracy (whole dataset) 0.4588235294117647
+

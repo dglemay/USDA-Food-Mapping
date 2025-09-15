@@ -1,0 +1,88 @@
+input_desc,input_id,target_desc,label,match_claude,is_match
+"beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",23563,beef round tip steak,1,ground pork,0
+"beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",23568,beef round tip steak,1,ground pork,0
+"beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",23573,beef round tip steak,1,ground pork,0
+"beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",23578,beef round tip steak,1,ground pork,0
+"sugars, brown",19334,table sugar,1,none,0
+"spinach, canned, regular pack, drained solids",11461,spinach leaves,1,frozen chopped spinach (green giant),0
+"cheese, cream, low fat",43274,cream cheese,1,sour cream,0
+"potatoes, boiled, cooked without skin, flesh, without salt",11367,steamed russet potato flesh only,1,steamed whole russet potato,0
+"potatoes, baked, flesh, without salt",11363,steamed russet potato flesh only,1,steamed whole russet potato,0
+"beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",23570,beef round tip steak,1,ground pork,0
+"beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",23575,beef round tip steak,1,ground pork,0
+"pears, raw",9252,whole bartlett pear w/o seed,1,whole bartlett pear flesh only,0
+"cheese, cream",1017,cream cheese,1,sour cream,0
+"bacon, turkey, microwaved",7973,ground turkey,1,plant based bacon strip,0
+"beans, snap, green, frozen, cooked, boiled, drained without salt",11061,frozen whole green beans,1,steamed green beans,0
+"tomato products, canned, puree, with salt added",11888,hunt's tomato sauce,1,hunt's tomato paste,0
+"beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",23580,beef round tip steak,1,ground pork,0
+"chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5672,chicken breast,1,none,0
+"beef, cured, breakfast strips, cooked",13345,beef round tip steak,1,plant based bacon strip,0
+"alfalfa seeds, sprouted, raw",11001,alfalfa,1,bean sprouts,0
+"beef, ground, 95% lean meat / 5% fat, raw",23557,beef round tip steak,1,ground pork,0
+"beef, ground, 90% lean meat / 10% fat, raw",23562,beef round tip steak,1,ground pork,0
+"beef, ground, 80% lean meat / 20% fat, raw",23572,beef round tip steak,1,ground pork,0
+"beef, ground, 75% lean meat / 25% fat, raw",23577,beef round tip steak,1,ground pork,0
+"frankfurter, turkey",7025,ground turkey,1,plant based hot dog,0
+"milk, chocolate, fat free, with added vitamin a and vitamin d",1292,lowfat chocolate milk,1,whole milk,0
+"spinach, cooked, boiled, drained, without salt",11458,spinach leaves,1,frozen chopped spinach (green giant),0
+"wild rice, raw",20088,wild blend rice,1,enriched long white rice (mahatma),0
+"mango, dried, sweetened",9178,freeze dried mango flesh,1,dried philippines mango (mariani),0
+"beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked",23581,beef round tip steak,1,ground pork,0
+"wild rice, cooked",20089,wild blend rice,1,enriched long white rice (mahatma),0
+"egg, whole, cooked, fried",1128,whole brown egg,1,brown egg yolk,0
+"egg, whole, cooked, scrambled",1132,whole brown egg,1,brown egg yolk,0
+"turkey, retail parts, breast, meat and skin, with added solution, raw",5727,ground turkey,1,chicken breast,0
+"babyfood, cereal, barley, dry fortified",3181,whole grain pearl barley,1,rice cereal (gerber),0
+"babyfood, cookies",3213,vanilla cookies,1,chocolate chip cookies,0
+"pork, cured, bacon, pre-sliced, cooked, pan-fried",10862,ground pork,1,plant based bacon strip,0
+"peppers, hot chili, red, raw",11819,jalapeno,1,steamed whole red bell pepper w/o seed,0
+"corn flour, masa, unenriched, white",20019,dried corn grits/polenta,1,cornmeal,0
+"frankfurter, beef, unheated",7022,beef round tip steak,1,plant based hot dog,0
+"beans, white, mature seeds, cooked, boiled, without salt",16050,cannellini beans,1,navy beans,0
+"snacks, potato chips, plain, salted",19411,steamed russet potato flesh only,1,vegetable chips,0
+"rice flour, white, unenriched",20061,rice cereal (gerber),1,all purpose flour,0
+"pasta, cooked, enriched, without added salt",20121,spaghetti,1,whole wheat spaghetti,0
+"ham, sliced, pre-packaged, deli meat (96%fat free, water added)",7028,ground pork,1,none,0
+"sausage, turkey, breakfast links, mild, raw",7919,ground turkey,1,beyond sausage,0
+"beans, baked, canned, plain or vegetarian",16006,navy beans,1,canned black beans (s&w),0
+"broccoli, raw",11090,steamed crown broccoli florets and stalk,1,frozen broccoli florets,0
+"peanut butter, smooth style, with salt (includes foods for usda's food distribution program)",16098,creamy peanut butter (skippy),1,peanut butter (laura scudder's),0
+"beef, ground, patties, frozen, cooked, broiled",13317,beef round tip steak,1,ground pork,0
+"sausage, breakfast sausage, beef, pre-cooked, unprepared",7954,beef round tip steak,1,none,0
+"pasta, dry, enriched",20120,spaghetti,1,whole wheat spaghetti,0
+"beef, cured, corned beef, brisket, cooked",13347,beef round tip steak,1,none,0
+"pears, canned, water pack, solids and liquids",9253,whole bartlett pear w/o seed,1,whole bartlett pear flesh only,0
+"potato puffs, frozen, unprepared",11398,steamed russet potato flesh only,1,none,0
+"nuts, coconut meat, raw",12104,dried coconut chips,1,dried coconut strips,0
+"turkey breast, sliced, prepackaged",7081,ground turkey,1,none,0
+"roast beef, deli style, prepackaged, sliced",7043,beef round tip steak,1,none,0
+"corn flour, masa, enriched, white",20017,dried corn grits/polenta,1,cornmeal,0
+"peppers, hot chili, green, raw",11670,jalapeno,1,steamed whole green bell pepper w/o seed,0
+"beef, ground, 85% lean meat / 15% fat, raw (includes foods for usda's food distribution program)",23567,beef round tip steak,1,ground pork,0
+"beef, cured, corned beef, canned",13348,beef round tip steak,1,none,0
+"peas, edible-podded, raw",11300,steamed whole snow peas,1,whole snow peas,0
+"broccoli, chinese, raw",11994,steamed crown broccoli florets and stalk,1,frozen broccoli florets,0
+"kielbasa, fully cooked, grilled",7968,ground pork,1,beyond sausage,0
+"milk, imitation, non-soy",43543,unsweetened almond milk,1,coconut milk,0
+"pork, cured, bacon, unprepared",10123,ground pork,1,plant based bacon strip,0
+"beef, cured, pastrami",13355,beef round tip steak,1,none,0
+"canadian bacon, cooked, pan-fried",10998,ground pork,1,plant based bacon strip,0
+"beef, cured, dried",13350,beef round tip steak,1,none,0
+"apples, raw, without skin, cooked, microwave",9006,whole golden del apple w/o seed,1,freeze dried apple rings,0
+"turkey, whole, breast, meat only, cooked, roasted",5220,ground turkey,1,chicken breast,0
+"peppers, hot chili, red, canned, excluding seeds, solids and liquids",11820,jalapeno,1,steamed whole red bell pepper w/o seed,0
+"apricots, canned, light syrup pack, with skin, solids and liquids",9026,whole apricot,1,dried apricots,0
+"apricots, canned, heavy syrup pack, with skin, solids and liquids",9027,whole apricot,1,dried apricots,0
+"ham, sliced, regular (approximately 11% fat)",7029,ground pork,1,none,0
+"tofu, fried",16129,firm tofu (wildwood),1,soft silken tofu,0
+"beverages, coca-cola, powerade, lemon-lime flavored, ready-to-drink",14461,gatorade,1,coca cola,0
+"chicken, canned, no broth",5311,chicken breast,1,albacore white tuna,0
+"pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",43378,ground pork,1,plant based bacon strip,0
+"chicken patty, frozen, cooked",5324,chicken strips,1,none,0
+"nuts, coconut meat, dried (desiccated), sweetened, shredded",12179,dried coconut strips,1,dried coconut chips,0
+"beans, baked, canned, no salt added",43449,navy beans,1,canned black beans (s&w),0
+"sausage, chicken or turkey, italian style,  lower sodium",7976,chicken breast,1,beyond sausage,0
+"bacon, turkey, low sodium",7974,ground turkey,1,plant based bacon strip,0
+"beverages, tea, ready-to-drink, lemon, diet",14207,black tea,1,none,0
+"potatoes, canned, drained solids, no salt added",43311,steamed russet potato flesh only,1,steamed whole russet potato,0

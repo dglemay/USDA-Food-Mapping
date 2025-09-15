@@ -1,0 +1,55 @@
+input_id	input_desc
+1009	cheese, cheddar (includes foods for usda's food distribution program)
+1118	yogurt, plain, skim milk
+1124	egg, white, raw, fresh
+1056	cream, sour, cultured
+1094	milk, buttermilk, dried
+1252	cheese product, pasteurized process, american, vitamin d fortified
+1001	butter, salted
+1117	yogurt, plain, low fat
+1025	cheese, monterey
+1237	ice cream, bar or stick, chocolate covered
+1116	yogurt, plain, whole milk
+1053	cream, fluid, heavy whipping
+1032	cheese, parmesan, grated
+1079	milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d
+1049	cream, fluid, half and half
+1179	sour cream, light
+1085	milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)
+1069	cream substitute, powdered
+2009	spices, chili powder
+1017	cheese, cream
+1004	cheese, blue
+1228	cheese, fresh, queso fresco
+1054	cream, whipped, cream topping, pressurized
+1077	milk, whole, 3.25% milkfat, with added vitamin d
+1011	cheese, colby
+1019	cheese, feta
+1133	egg, whole, dried
+1091	milk, dry, nonfat, regular, without added vitamin a and vitamin d
+1057	eggnog
+1015	cheese, cottage, lowfat, 2% milkfat
+1048	cheese spread, pasteurized process, american
+1022	cheese, gouda
+1040	cheese, swiss
+1224	protein supplement, milk based, muscle milk light, powder
+1005	cheese, brick
+1103	milk, chocolate, fluid, commercial, reduced fat, with added vitamin a and vitamin d
+1253	cheese, pasteurized process, american, without added vitamin d
+1037	cheese, ricotta, part skim milk
+1023	cheese, gruyere
+1014	cheese, cottage, nonfat, uncreamed, dry, large or small curd
+1067	cream substitute, liquid, with hydrogenated vegetable oil and soy protein
+1006	cheese, brie
+1030	cheese, muenster
+1012	cheese, cottage, creamed, large or small curd
+1154	milk, dry, nonfat, regular, with added vitamin a and vitamin d
+1050	cream, fluid, light (coffee cream or table cream)
+1073	dessert topping, semi solid, frozen
+1166	cheese, mexican, queso asadero
+1157	cheese, goat, semisoft type
+1104	milk, chocolate, lowfat, with added vitamin a and vitamin d
+1095	milk, canned, condensed, sweetened
+1003	butter oil, anhydrous
+2007	spices, celery seed
+1088	milk, buttermilk, fluid, cultured, lowfat

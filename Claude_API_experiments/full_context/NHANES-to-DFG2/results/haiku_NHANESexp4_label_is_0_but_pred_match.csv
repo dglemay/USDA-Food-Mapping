@@ -1,0 +1,275 @@
+input_desc,input_id,target_desc,label,match_claude,is_match
+"cream substitute, powdered",1069,protein powder,0,half and half,0
+"milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d",1082,lowfat chocolate milk,0,whole milk,0
+"oil, sunflower, linoleic, (approx. 65%)",4506,sunflower seeds,0,sunflower seeds,0
+"margarine, regular, 80% fat, composite, stick, with salt",4610,whole green house (large) tomato,0,unsalted butter,0
+"margarine-like, vegetable oil spread, 60% fat, tub, with salt",4613,vegetable chips,0,unsalted butter,0
+"margarine, regular, 80% fat, composite, stick, with salt, with added vitamin d",4691,steamed red chard leaves and stalk (cal-organic),0,unsalted butter,0
+"margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin d",4694,vegetable chips,0,unsalted butter,0
+"alcoholic beverage, beer, light",14006,righteous rye bread,0,budweiser,0
+"water, tap, drinking",14411,freeze dried apple rings,0,seedless watermelon,0
+"leavening agents, baking powder, double-acting, sodium aluminum sulfate",18369,canned low sodium pinto bean,0,whole original english muffin (thomas),0
+"noodles, egg, enriched, cooked",20110,chicken noodle soup,0,stir fry rice noodle,0
+"cream substitute, liquid, with hydrogenated vegetable oil and soy protein",1067,vegetable juice,0,half and half,0
+"spices, basil, dried",2003,basil,0,basil,0
+"spices, onion powder",2026,onion,0,onion,0
+"spices, sage, ground",2038,ground pork,0,beyond sausage,0
+potato flour,11413,potato bread,0,cornmeal,0
+"alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",14037,whole wheat tortilla,0,budweiser,0
+lard,4002,steamed collard greens leaves and stalk,0,steamed collard greens leaves and stalk,0
+"oil, peanut, salad or cooking",4042,peanuts,0,peanuts,0
+"fat, turkey",4575,ground turkey,0,ground pork,0
+"beverages, tea, instant, lemon, sweetened, powder",14370,unsweetened almond milk,0,steamed whole green bell pepper w/o seed,0
+"fat, chicken",4542,chicken breast,0,low sodium chicken broth,0
+"grape juice, canned or bottled, unsweetened, with added ascorbic acid",9130,unsweetened pitted prunes,0,pulp free orange juice,0
+"waterchestnuts, chinese, (matai), raw",11588,commercial mac and cheese,0,steamed whole snow peas,0
+"beverages, lemonade fruit juice drink light, fortified with vitamin e and c",14174,vegetable juice,0,pulp free orange juice,0
+"oil, coconut",4047,coconut milk,0,dried coconut strips,0
+"juice, apple and grape blend, with added ascorbic acid",9443,apple juice,0,pulp free orange juice,0
+"leavening agents, yeast, baker's, active dry",18375,chives,0,whole wheat bread,0
+"fish, haddock, raw",15033,plant based fish fillet,0,albacore white tuna,0
+"noodles, egg, dry, enriched",20109,stir fry rice noodle,0,stir fry rice noodle,0
+"beverages, yellow green colored citrus soft drink with caffeine",14079,whole yellow nectarine,0,sprite,0
+"beverages, carbonated, root beer",14157,"peeled, steamed beetroot",0,coca cola,0
+"cranberry juice, unsweetened",43382,cranberry,0,cranberry,0
+"beverages, carbonated, low calorie, cola or pepper-type, with aspartame, without caffeine",14146,steamed whole red bell pepper w/o seed,0,sprite,0
+"beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine",14416,steamed whole red bell pepper w/o seed,0,coca cola,0
+"grape juice, canned or bottled, unsweetened, without added ascorbic acid",9135,unsweetened pitted prunes,0,pulp free orange juice,0
+"alcoholic beverage, wine, dessert, sweet",14057,whole sweet cherry,0,cabernet sauvignon wine,0
+"beverages, chocolate-flavor beverage mix for milk, powder, with added nutrients",14557,lowfat chocolate milk,0,chocolate,0
+"milk, buttermilk, fluid, whole",1230,whole milk,0,whole milk,0
+"grapefruit juice, white, canned or bottled, unsweetened",9123,deep red grapefruit,0,deep red grapefruit,0
+"tangerine juice, raw",9221,pixie tangerine,0,pulp free orange juice,0
+"fish, pollock, raw",15066,plant based fish fillet,0,albacore white tuna,0
+"fish, tilapia, raw",15261,plant based fish fillet,0,albacore white tuna,0
+"cereals ready-to-eat, post, honey bunches of oats, honey roasted",43570,honey nut oat cereal,0,honey nut oat cereal,0
+"margarine,spread, 35-39% fat, tub",4128,tahini spread (365 whole foods market),0,unsalted butter,0
+"margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin d",4690,vegetable chips,0,unsalted butter,0
+"apricot nectar, canned, with added ascorbic acid",9036,dried apricots,0,pulp free orange juice,0
+"boysenberries, frozen, unsweetened",9057,frozen whole blueberry,0,frozen whole sweet green peas (flav r pac),0
+"lemons, raw, without peel",9150,"peeled, steamed beetroot",0,yellow banana flesh only,0
+"passion-fruit juice, purple, raw",9232,apple juice,0,tai nung papaya,0
+"pineapple juice, canned or bottled, unsweetened, without added ascorbic acid",9273,unsweetened pitted prunes,0,pulp free orange juice,0
+"babyfood, juice, pear",43408,apple juice,0,whole bartlett pear flesh only,0
+"tomatoes, green, raw",11527,whole green house (large) tomato,0,muir's diced tomatoes,0
+"hominy, canned, white",20030,white bread,0,canned black beans (s&w),0
+"soup, beef broth or bouillon canned, ready-to-serve",6008,canned black beans (s&w),0,chunky vegetable soup,0
+"yogurt, plain, skim milk",1118,yogurt,0,yogurt,0
+"tomato juice, canned, with salt added",11540,muir's diced tomatoes,0,muir's diced tomatoes,0
+"alcoholic beverage, malt beer, hard lemonade",14239,steamed red chard leaves and stalk (cal-organic),0,budweiser,0
+"mollusks, clam, mixed species, canned, drained solids",15160,canned black beans (s&w),0,albacore white tuna,0
+"leavening agents, yeast, baker's, compressed",18374,chicken breast tender,0,whole original english muffin (thomas),0
+"gravy, chicken, canned or bottled, ready-to-serve",6119,chicken breast,0,canned black beans (s&w),0
+"gravy, beef, canned, ready-to-serve",6116,navy beans,0,canned black beans (s&w),0
+"yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener",1235,lowfat chocolate milk,0,yogurt,0
+"spices, garlic powder",2020,garlic,0,garlic,0
+"beverages, coconut water, ready-to-drink, unsweetened",14090,unsweetened pitted prunes,0,dried coconut strips,0
+"fish, cod, pacific, raw (may have been previously frozen)",15019,frozen whole sweet green peas (flav r pac),0,albacore white tuna,0
+"fish, sea bass, mixed species, raw",15091,plant based fish fillet,0,shrimp,0
+"figs, dried, uncooked",9094,dried apricots,0,dried coconut strips,0
+"waterchestnuts, chinese, canned, solids and liquids",11590,pine nut,0,canned black beans (s&w),0
+"fish, perch, mixed species, raw",15060,pecan,0,albacore white tuna,0
+"olives, ripe, canned (small-extra large)",9193,whole green house (large) tomato,0,canned black beans (s&w),0
+"yogurt, frozen, flavors other than chocolate, lowfat",1298,lowfat chocolate milk,0,yogurt,0
+"persimmons, japanese, raw",9263,orange jam (bonne maman),0,tai nung papaya,0
+"soup, beef broth or bouillon, powder, dry",6075,protein powder,0,low sodium chicken broth,0
+"beverages, orange breakfast drink, ready-to-drink, with added nutrients",14436,dried orange slices,0,pulp free orange juice,0
+"oil, industrial, coconut, confection fat, typical basis for ice cream coatings",4659,dried coconut strips,0,dried coconut strips,0
+"beverages, carbonated, low calorie, other than cola or pepper,  without caffeine",14143,steamed whole red bell pepper w/o seed,0,sprite,0
+"frozen yogurts, chocolate, nonfat milk, sweetened without sugar",42185,lowfat chocolate milk,0,yogurt,0
+"prune juice, canned",9294,unsweetened pitted prunes,0,unsweetened pitted prunes,0
+"margarine-like, vegetable oil spread, fat-free, tub",4631,vegetable chips,0,plant based bacon strip,0
+"crustaceans, crayfish, mixed species, wild, cooked, moist heat",15146,low moisture part skim mozarella cheese,0,shrimp,0
+"beverages, pepsico quaker, gatorade g2, low calorie",14644,gatorade,0,gatorade,0
+"alcoholic beverage, liqueur, coffee with cream, 34 proof",14415,brewed coffee,0,budweiser,0
+"fluid replacement, electrolyte solution (include pedialyte)",43075,frozen golden corn kernels (siganture select),0,low sodium chicken broth,0
+"oil, industrial, soy, low linolenic",4699,soy milk,0,soy flour,0
+"oil, industrial, soy, ultra low linolenic",4700,whole grain brown lentils,0,soy flour,0
+"oil, industrial, soy, fully hydrogenated",4701,soy milk,0,soy flour,0
+"cream, whipped, cream topping, pressurized",1054,frozen chopped spinach (green giant),0,sour cream,0
+"milk, buttermilk, fluid, cultured, reduced fat",42189,buttermilk pancake/waffle flour,0,sour cream,0
+"fish, ocean perch, atlantic, raw",15057,plant based fish fillet,0,albacore white tuna,0
+"fish, whiting, mixed species, raw",15132,white bread,0,shrimp,0
+orange pineapple juice blend,9452,apple juice,0,pulp free orange juice,0
+"veal, loin, separable lean and fat, raw",17104,whole grain oat cereal,0,beef round tip steak,0
+"margarine-like, vegetable oil spread, 20% fat, with salt",4633,vegetable chips,0,unsalted butter,0
+"milk, buttermilk, fluid, cultured, lowfat",1088,lowfat chocolate milk,0,sour cream,0
+"beverages, orange-flavor drink, breakfast type, powder",14407,dried orange slices,0,pulp free orange juice,0
+"bamboo shoots, raw",11026,"peeled, steamed beetroot",0,steamed whole snow peas,0
+"noodles, flat, crunchy, chinese restaurant",20118,chicken noodle soup,0,stir fry rice noodle,0
+"mollusks, clam, mixed species, raw",15157,mixed vegetable burger patty,0,shrimp,0
+"fish, salmon, chum, canned, drained solids with bone",15080,roasted almonds,0,albacore white tuna,0
+"pigeonpeas, immature seeds, cooked, boiled, drained, without salt",11345,steamed whole red bell pepper w/o seed,0,steamed whole snow peas,0
+"mollusks, squid, mixed species, raw",15175,steamed yellow neck squash,0,shrimp,0
+"cream, half and half, fat free",1199,half and half,0,half and half,0
+"spices, parsley, dried",2029,parsley,0,parsley,0
+"pineapple juice, canned or bottled, unsweetened, with added ascorbic acid",9409,apple juice,0,pulp free orange juice,0
+"lamb, ground, raw",17224,ground pork,0,ground pork,0
+"braunschweiger (a liver sausage), pork",7014,beyond sausage,0,ground pork,0
+"turnip greens, canned, no salt added",43387,steamed green beans,0,steamed collard greens leaves and stalk,0
+"margarine-like spread with yogurt, approximately 40% fat, tub, with salt",4627,yogurt,0,yogurt,0
+"veal, loin, separable lean only, cooked, roasted",17109,roasted seaweed,0,beef round tip steak,0
+"fish, cod, atlantic, dried and salted",15018,plant based fish fillet,0,albacore white tuna,0
+"pepper, banana, raw",11976,banana chips,0,yellow banana flesh only,0
+"fish, snapper, mixed species, raw",15101,steamed whole red bell pepper w/o seed,0,shrimp,0
+"papaya nectar, canned",9229,tai nung papaya,0,tai nung papaya,0
+"carbonated beverage, cream soda",14130,sour cream,0,coca cola,0
+"fish, cod, atlantic, canned, solids and liquid",15017,plant based fish fillet,0,albacore white tuna,0
+"fish, croaker, atlantic, raw",15020,plant based fish fillet,0,albacore white tuna,0
+"fish, shark, mixed species, raw",15095,sharp chedder cheese,0,shrimp,0
+"lemon juice from concentrate, canned or bottled",9153,carrot juice,0,pulp free orange juice,0
+"beverage, instant breakfast powder, chocolate, not reconstituted",43205,chocolate,0,protein powder,0
+"beans, pink, mature seeds, raw",16040,steamed green beans,0,canned kidney beans,0
+"fish, cod, atlantic, cooked, dry heat",15016,plant based fish fillet,0,albacore white tuna,0
+"mollusks, scallop, mixed species, raw",15172,mixed vegetable burger patty,0,shrimp,0
+"cheese, goat, semisoft type",1157,cream cheese,0,sharp chedder cheese,0
+"pear nectar, canned, without added ascorbic acid",9262,whole yellow nectarine,0,whole bartlett pear flesh only,0
+"cheese, cottage, nonfat, uncreamed, dry, large or small curd",1014,cottage cheese,0,cottage cheese,0
+"cheese, cream, fat free",1186,cream cheese,0,sour cream,0
+"beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine",14151,steamed whole red bell pepper w/o seed,0,sprite,0
+"oil, flaxseed, cold pressed",42231,golden flaxseed,0,golden flaxseed,0
+"frozen yogurts, chocolate",42186,chocolate,0,yogurt,0
+"pears, dried, sulfured, uncooked",9259,dried apricots,0,whole bartlett pear flesh only,0
+"fish, scup, raw",15090,plant based fish fillet,0,albacore white tuna,0
+"beans, pink, mature seeds, cooked, boiled, without salt",16041,cooked oat bran,0,canned black beans (s&w),0
+"soybeans, mature seeds, roasted, salted",16110,roasted seaweed,0,peanuts,0
+"noodles, chinese, chow mein",20113,chicken noodle soup,0,stir fry rice noodle,0
+"mollusks, clam, mixed species, canned, liquid",15162,pecan,0,albacore white tuna,0
+"fish, cod, pacific, cooked, dry heat (may contain additives to retain moisture)",15192,cream of mushroom soup (pacific foods),0,albacore white tuna,0
+"malt beverage, includes non-alcoholic beer",14305,whole grain oat cereal,0,budweiser,0
+"game meat, deer, ground, raw",17343,ground pork,0,ground pork,0
+"margarine, regular, 80% fat, composite, stick, without salt",4617,whole green house (large) tomato,0,unsalted butter,0
+"margarine, regular, 80% fat, composite, stick, without salt, with added vitamin d",4696,whole green house (large) tomato,0,unsalted butter,0
+"peaches, dried, sulfured, uncooked",9246,dried coconut chips,0,unsweetened pitted prunes,0
+"margarine-like, margarine-butter blend, soybean oil and butter",4585,peanut butter crackers,0,unsalted butter,0
+"mung beans, mature seeds, cooked, boiled, without salt",16081,cooked oat bran,0,green split peas,0
+"leavening agents, baking powder, double-acting, straight phosphate",18370,rainbow morning o's cereals,0,whole wheat flour,0
+"beverages, propel zero, fruit-flavored, non-carbonated",14462,frozen whole sweet green peas (flav r pac),0,pulp free orange juice,0
+"frozen yogurts, flavors other than chocolate",42187,chocolate,0,yogurt,0
+"bamboo shoots, canned, drained solids",11028,canned black beans (s&w),0,steamed whole snow peas,0
+"guava nectar, with sucralose, canned",9519,whole yellow nectarine,0,pulp free orange juice,0
+"baking chocolate, unsweetened, squares",19078,chocolate,0,chocolate,0
+"onions, dehydrated flakes",11284,onion,0,onion,0
+"milk, dry, whole, with added vitamin d",1090,whole milk,0,whole milk,0
+"fish, salmon, sockeye, canned, drained solids",15087,roasted almonds,0,albacore white tuna,0
+"grapefruit juice, white, frozen concentrate, unsweetened, undiluted",9125,deep red grapefruit,0,deep red grapefruit,0
+"margarine-like vegetable-oil spread, stick/tub/bottle, 60% fat, with added vitamin d",4695,vegetable juice,0,unsalted butter,0
+"sour cream, fat free",1180,sour cream,0,sour cream,0
+"cereals ready-to-eat, wheat germ, toasted, plain",8084,wheat bran cereal,0,honey nut oat cereal,0
+"oil, almond",4529,roasted almonds,0,almond butter (justin's),0
+"fish, mackerel, atlantic, raw",15046,plant based fish fillet,0,albacore white tuna,0
+"fish, mackerel, pacific and jack, mixed species, raw",15050,cream of mushroom soup (pacific foods),0,albacore white tuna,0
+"milk, goat, fluid, with added vitamin d",1106,whole milk,0,whole milk,0
+"spices, celery seed",2007,steamed celery stalk,0,steamed celery stalk,0
+"crustaceans, crayfish, mixed species, wild, raw",15145,wild blend rice,0,shrimp,0
+"yam, cooked, boiled, drained, or baked, without salt",11602,cooked oat bran,0,steamed whole sweet potato,0
+"celeriac, raw",11141,steamed celery stalk,0,steamed celery stalk,0
+"candies, confectioner's coating, yogurt",19079,yogurt,0,yogurt,0
+"margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, with salt",4614,vegetable juice,0,unsalted butter,0
+"fish, sardine, atlantic, canned in oil, drained solids with bone",15088,canned low sodium pinto bean,0,albacore white tuna,0
+"nuts, coconut cream, canned, sweetened",12116,coconut milk,0,dried coconut strips,0
+"seeds, sesame seed kernels, dried (decorticated)",12201,frozen golden corn kernels (siganture select),0,peanuts,0
+"cheese, cottage, lowfat, 1% milkfat",1016,cottage cheese,0,cottage cheese,0
+"alcoholic beverage, liqueur, coffee, 53 proof",14414,brewed coffee,0,budweiser,0
+"turnips, cooked, boiled, drained, without salt",11565,cooked oat bran,0,steamed whole carrots,0
+"nuts, chestnuts, european, roasted",12167,peanuts,0,peanuts,0
+"fish, herring, atlantic, raw",15039,plant based fish fillet,0,albacore white tuna,0
+"beverages, coffee substitute, cereal grain beverage, prepared with water",14237,whole grain oat cereal,0,brewed coffee,0
+"fish, mackerel, jack, canned, drained solids",15048,canned black beans (s&w),0,albacore white tuna,0
+"alcoholic beverage, wine, light",43155,whole grain oat cereal,0,cabernet sauvignon wine,0
+"turtle, green, raw",93600,whole bartlett pear w/o seed,0,green split peas,0
+"lamb, ground, cooked, broiled",17225,ground pork,0,ground pork,0
+"milk, dry, whole, without added vitamin d",1212,whole milk,0,whole milk,0
+"balsam-pear (bitter gourd), pods, cooked, boiled, drained, without salt",11025,unsalted butter,0,steamed whole snow peas,0
+"fish, mullet, striped, raw",15055,plant based fish fillet,0,albacore white tuna,0
+"margarine, regular, 80% fat, composite, tub, with salt",4611,whole green house (large) tomato,0,unsalted butter,0
+"margarine, regular, 80% fat, composite, tub, with salt, with added vitamin d",4692,steamed red chard leaves and stalk (cal-organic),0,unsalted butter,0
+"candies, soft fruit and nut squares",19866,steamed butternut squash,0,peanuts,0
+"blackberry juice, canned",9043,whole blackberry,0,canned black beans (s&w),0
+"fish, roe, mixed species, raw",15072,mixed vegetable burger patty,0,shrimp,0
+"babyfood, fruit, apple and raspberry, strained",3152,whole raspberry,0,original apple sauce (tree top),0
+"beverages, coffee, instant, mocha, sweetened",14224,brewed coffee,0,brewed coffee,0
+"whipped cream substitute, dietetic, made from powdered mix",43268,steamed whole red bell pepper w/o seed,0,sour cream,0
+"beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted",43260,chocolate,0,protein powder,0
+"alcoholic beverage, wine, table, white",14106,white bread,0,cabernet sauvignon wine,0
+"waxgourd, (chinese preserving melon), cooked, boiled, drained, without salt",11594,seedless watermelon,0,steamed whole snow peas,0
+"water, non-carbonated, bottles, natural fruit flavors, sweetened with low calorie sweetener",14604,unsweetened pitted prunes,0,pulp free orange juice,0
+"grapefruit juice, white, raw",9128,deep red grapefruit,0,deep red grapefruit,0
+"game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17179,steamed whole sweet potato,0,ground pork,0
+"cream substitute, flavored, liquid",1205,sour cream,0,half and half,0
+"broadbeans (fava beans), mature seeds, cooked, boiled, without salt",16053,bean sprouts,0,whole grain brown lentils,0
+"beverages, water with added vitamins and minerals, bottles, sweetened, assorted fruit flavors",14605,frozen whole sweet green peas (flav r pac),0,pulp free orange juice,0
+"fish, halibut, atlantic and pacific, raw",15036,plant based fish fillet,0,albacore white tuna,0
+"parsnips, cooked, boiled, drained, without salt",11299,cooked oat bran,0,steamed whole carrots,0
+"beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners",14149,table sugar,0,coca cola,0
+"veal, ground, cooked, broiled",17143,ground pork,0,ground pork,0
+"spices, mustard seed, ground",2024,steamed curely mustard greens,0,garlic,0
+"carbonated beverage, chocolate-flavored soda",14552,chocolate,0,coca cola,0
+"babyfood, apple-banana juice",3167,banana chips,0,pulp free orange juice,0
+"rhubarb, frozen, uncooked",9309,frozen whole green beans,0,frozen whole okra,0
+"fish, eel, mixed species, raw",15025,mixed vegetable burger patty,0,shrimp,0
+"radishes, oriental, cooked, boiled, drained, without salt",11431,dried corn grits/polenta,0,steamed whole red bell pepper w/o seed,0
+"yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)",1256,yogurt,0,yogurt,0
+"milk dessert bar, frozen, made from lowfat milk",1244,lowfat chocolate milk,0,vanilla bean ice cream,0
+"soymilk, original and vanilla, light, with added calcium, vitamins a and d",16225,vanilla bean ice cream,0,soy milk,0
+"cream substitute, powdered, light",42136,protein powder,0,half and half,0
+"cream substitute, liquid, light",42141,sour cream,0,half and half,0
+"beverages, orange juice, light, no pulp",14064,pulp free orange juice,0,pulp free orange juice,0
+"cream substitute, flavored, powdered",1206,cocoa powder,0,half and half,0
+"fennel, bulb, raw",11957,red whole grain bulgur,0,steamed celery stalk,0
+"pomegranate juice, bottled",9442,pomegranate w/ seeds,0,pomegranate w/ seeds,0
+"macaroni, vegetable, enriched, cooked",20106,vegetable chips,0,enriched long white rice (mahatma),0
+"beverages, coffee, instant, with whitener, reduced calorie",43401,brewed coffee,0,brewed coffee,0
+"veal, composite of trimmed retail cuts, separable lean only, cooked",17091,steamed collard greens leaves and stalk,0,ground pork,0
+"pokeberry shoots, (poke), cooked, boiled, drained, without salt",11351,cooked oat bran,0,steamed whole green bell pepper w/o seed,0
+"babyfood, fruit, bananas with tapioca, strained",3129,banana chips,0,yellow banana flesh only,0
+"babyfood, fruit, bananas with tapioca, junior",3280,banana chips,0,yellow banana flesh only,0
+"soymilk, chocolate and other flavors, light, with added calcium, vitamins a and d",16227,lowfat chocolate milk,0,soy milk,0
+"fish, sturgeon, mixed species, raw",15104,mixed vegetable burger patty,0,albacore white tuna,0
+"millet, cooked",20032,plant based fish fillet,0,whole grain brown lentils,0
+"fish, herring, atlantic, kippered",15042,plant based fish fillet,0,albacore white tuna,0
+"veal, composite of trimmed retail cuts, separable lean and fat, cooked",17089,cooked oat bran,0,ground pork,0
+"potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added",11379,steamed whole sweet potato,0,steamed whole russet potato,0
+"beverages, acai berry drink, fortified",14056,cranberry,0,coconut milk,0
+"snacks, peas, roasted, wasabi-flavored",25066,roasted seaweed,0,steamed whole snow peas,0
+"beverages, water, bottled, yumberry, pomegranate with anti-oxidants, zero calories",14031,pomegranate w/ seeds,0,pomegranate w/ seeds,0
+"sweetener, syrup, agave",19912,maple syrup,0,honey,0
+"pears, dried, sulfured, stewed, without added sugar",9260,table sugar,0,whole bartlett pear flesh only,0
+"peanut flour, defatted",16099,peanuts,0,peanuts,0
+"cheese, cheddar, nonfat or fat free",1265,sharp chedder cheese,0,sharp chedder cheese,0
+"broccoli raab, raw",11096,frozen broccoli florets,0,frozen broccoli florets,0
+"loganberries, frozen",9167,cranberry,0,frozen whole sweet green peas (flav r pac),0
+"sour cream, imitation, cultured",1074,sour cream,0,sour cream,0
+"blueberries, dried, sweetened",9163,whole blueberry,0,whole blueberry,0
+"babyfood, dessert, peach yogurt",43536,yogurt,0,yogurt,0
+"babyfood, dinner, pasta with vegetables",3077,vegetable chips,0,whole wheat spaghetti,0
+"yogurt, greek, strawberry, lowfat",1284,whole strawberry,0,yogurt,0
+"yogurt, greek, fruit, whole milk",1294,yogurt,0,yogurt,0
+"grapefruit juice, pink or red, with added calcium",9127,deep red grapefruit,0,deep red grapefruit,0
+"grape juice, canned or bottled, unsweetened, with added ascorbic acid and calcium",9512,unsweetened pitted prunes,0,pulp free orange juice,0
+"alcoholic beverages, beer, higher alcohol",14251,whole sweet cherry,0,budweiser,0
+"egg, quail, whole, fresh, raw",1140,whole brown egg,0,brown egg yolk,0
+"yogurt, greek, strawberry, nonfat",1285,whole strawberry,0,yogurt,0
+"alcoholic beverage, beer, light, higher alcohol",14248,whole wheat spaghetti,0,budweiser,0
+"beans, yellow, mature seeds, cooked, boiled, without salt",16048,yellow mango,0,canned black beans (s&w),0
+"yogurt, greek, vanilla, nonfat",1286,yogurt,0,yogurt,0
+"beverages, coffee, ready to drink, milk based, sweetened",14179,brewed coffee,0,brewed coffee,0
+"kefir, lowfat, plain, lifeway",1289,lowfat chocolate milk,0,yogurt,0
+"alcoholic beverage, beer, light, low carb",14013,rice cereal (gerber),0,budweiser,0
+"alcoholic beverages, wine, rose",14253,organic frosted flakes cereals,0,cabernet sauvignon wine,0
+"succotash, (corn and limas), frozen, cooked, boiled, drained, without salt",11502,frozen broccoli florets,0,frozen whole sweet green peas (flav r pac),0
+"margarine-like, vegetable oil-butter spread, reduced calorie, tub, with salt",42309,vegetable juice,0,unsalted butter,0
+"mollusks, octopus, common, raw",15166,commercial mac and cheese,0,shrimp,0
+"beverages, apple juice drink, light, fortified with vitamin c",14162,apple juice,0,pulp free orange juice,0
+"beverages, kellogg's special k20 protein powder",14068,protein powder,0,protein powder,0
+"mollusks, abalone, mixed species, raw",15155,mixed vegetable burger patty,0,shrimp,0
+"potatoes, mashed, home-prepared, whole milk added",11657,steamed whole sweet potato,0,steamed whole russet potato,0
+"beverages,  energy drink, citrus",14021,rice cereal (gerber),0,pulp free orange juice,0
+"cereals ready-to-eat, barbara's puffins, original",8657,whole original english muffin (thomas),0,honey nut oat cereal,0
+"passion-fruit, (granadilla), purple, raw",9231,purple cabbage,0,tai nung papaya,0
+"noodles, egg, spinach, enriched, cooked",20112,chicken noodle soup,0,stir fry rice noodle,0
+"sweet potato leaves, cooked, steamed, without salt",11506,steamed whole sweet potato,0,steamed whole sweet potato,0
+"beverages, ocean spray, cran-energy, cranberry energy juice drink",14038,cranberry,0,cranberry,0
+"mollusks, octopus, common, cooked, moist heat",15230,low moisture part skim mozarella cheese,0,shrimp,0
+carob flour,16055,soy flour,0,soy flour,0
+"soup, beef broth, less/reduced sodium, ready to serve",6188,low sodium chicken broth,0,chunky vegetable soup,0

@@ -1,0 +1,45 @@
+Loading dataframes
+
+Loading input file
+Number of unique inputs 170
+Loading target file
+Number of unique targets 9913
+Loading truth file
+Number of items in ground truth table 1199
+Dataframes loaded
+
+Length of ground truth table 1199
+
+Length of claude table 170
+
+Check that every input in Claude was also in ground truth
+
+If this next part is 0, we did not hallucinate any inputs
+Number of claude inputs not in ground truth: 0
+
+Check that every output from Claude actually existed in the target database
+Item chicken, broiler or fryers, breast, skinless, boneless, meat only, raw not in target database
+Item restaurant, chinese, vegetable chow mein, without meat or noodles not in target database
+Item bread, wheat, sprouted not in target database
+Item beef, round, eye of round roast, separable lean only, trimmed to 0" fat, all grades, raw not in target database
+Item tortillas, ready-to-bake or -fry, whole wheat not in target database
+Item cereals ready-to-eat, nature's path, organic flax plus flakes not in target database
+Item restaurant, family style, coleslaw not in target database
+Item beef, round, top round roast, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted not in target database
+Item frankfurter, meat, unheated not in target database
+Item fast foods, submarine sandwich, with turkey breast on white bread with lettuce and tomato not in target database
+Item beef, round, top round roast, boneless, separable lean only, trimmed to 0" fat, all grades, raw not in target database
+Item bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca not in target database
+Item bread, roll, mexican, bollilo not in target database
+Item cereals ready-to-eat, nature's path, organic flax plus, pumpkin granola not in target database
+Item fast foods, burrito, with egg, cheese, and sausage not in target database
+Item fast foods, fried chicken, breast, meat and skin and breading not in target database
+Item lamb, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4" fat, choice, cooked, roasted not in target database
+Item syrup, fruit flavored not in target database
+
+If this next part is 0, we did not hallucinate any responses not in target database
+Number of claude inputs not in target database: 18
+
+
+Accuracy (whole dataset) 0.45294117647058824
+

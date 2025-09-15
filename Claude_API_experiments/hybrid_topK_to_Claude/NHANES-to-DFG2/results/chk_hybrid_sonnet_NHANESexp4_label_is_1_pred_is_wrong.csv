@@ -1,0 +1,71 @@
+input_desc,input_id,target_desc,label,match_claude,is_match
+"butter, salted",1001,unsalted butter,1,,0
+"beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",23563,beef round tip steak,1,ground pork,0
+"beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",23568,beef round tip steak,1,ground pork,0
+"beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",23573,beef round tip steak,1,ground pork,0
+"beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",23578,beef round tip steak,1,ground pork,0
+"spinach, canned, regular pack, drained solids",11461,spinach leaves,1,frozen chopped spinach (green giant),0
+"beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",23570,beef round tip steak,1,none,0
+"beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",23575,beef round tip steak,1,none,0
+"pears, raw",9252,whole bartlett pear w/o seed,1,whole bartlett pear flesh only,0
+"squash, summer, zucchini, includes skin, raw",11477,steamed green zuchini,1,steamed yellow neck squash,0
+"tangerines, (mandarin oranges), canned, juice pack",9219,pixie tangerine,1,pulp free orange juice,0
+"beans, snap, green, raw",11052,steamed green beans,1,frozen whole green beans,0
+"squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, without salt",11480,steamed green zuchini,1,steamed yellow neck squash,0
+"tomato products, canned, puree, with salt added",11888,hunt's tomato sauce,1,hunt's tomato paste,0
+"beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",23580,beef round tip steak,1,none,0
+"beef, ground, 80% lean meat / 20% fat, raw",23572,beef round tip steak,1,none,0
+"beef, ground, 75% lean meat / 25% fat, raw",23577,beef round tip steak,1,none,0
+"mango, dried, sweetened",9178,freeze dried mango flesh,1,dried philippines mango (mariani),0
+"beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked",23581,beef round tip steak,1,ground pork,0
+soy protein isolate,16122,protein powder,1,soy flour,0
+"tangerines, (mandarin oranges), canned, juice pack, drained",9383,pixie tangerine,1,none,0
+"babyfood, fruit, applesauce, strained",3116,original apple sauce (tree top),1,apple juice,0
+"babyfood, cookies",3213,vanilla cookies,1,chocolate chip cookies,0
+"apples, raw, without skin",9004,whole golden del apple w/o seed,1,golden del apple flesh only,0
+"corn flour, masa, unenriched, white",20019,dried corn grits/polenta,1,cornmeal,0
+"frankfurter, beef, unheated",7022,beef round tip steak,1,none,0
+"beans, white, mature seeds, cooked, boiled, without salt",16050,cannellini beans,1,refried beans,0
+"snacks, potato chips, plain, salted",19411,steamed russet potato flesh only,1,tortilla chips,0
+"rice flour, white, unenriched",20061,rice cereal (gerber),1,all purpose flour,0
+"lettuce, green leaf, raw",11253,steamed iceberg lettuce,1,romaine lettuce,0
+"cereals, oats, regular and quick, not fortified, dry",8120,rolled oats,1,whole grain oat cereal,0
+"ham, sliced, pre-packaged, deli meat (96%fat free, water added)",7028,ground pork,1,none,0
+"potatoes, boiled, cooked in skin, flesh, without salt",11365,steamed whole russet potato,1,steamed russet potato flesh only,0
+"nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",12109,dried coconut strips,1,dried coconut chips,0
+"beans, baked, canned, plain or vegetarian",16006,navy beans,1,canned kidney beans,0
+"wheat flour, white, bread, enriched",20083,all purpose flour,1,white bread,0
+"broccoli, raw",11090,steamed crown broccoli florets and stalk,1,frozen broccoli florets,0
+"peanut butter, smooth style, with salt (includes foods for usda's food distribution program)",16098,creamy peanut butter (skippy),1,peanut butter (laura scudder's),0
+"cream, fluid, heavy whipping",1053,half and half,1,sour cream,0
+"beans, snap, green, canned, regular pack, drained solids",11056,steamed green beans,1,frozen whole green beans,0
+"sausage, breakfast sausage, beef, pre-cooked, unprepared",7954,beef round tip steak,1,ground pork,0
+"pears, canned, water pack, solids and liquids",9253,whole bartlett pear w/o seed,1,whole bartlett pear flesh only,0
+"beans, snap, green, canned, no salt added, drained solids",11729,steamed green beans,1,frozen whole green beans,0
+"peas, green, raw",11304,frozen whole sweet green peas (flav r pac),1,whole snow peas,0
+"nuts, coconut meat, raw",12104,dried coconut chips,1,dried coconut strips,0
+"turkey breast, sliced, prepackaged",7081,ground turkey,1,chicken breast,0
+"cream, fluid, light (coffee cream or table cream)",1050,half and half,1,sour cream,0
+"corn flour, masa, enriched, white",20017,dried corn grits/polenta,1,cornmeal,0
+"beef, ground, 85% lean meat / 15% fat, raw (includes foods for usda's food distribution program)",23567,beef round tip steak,1,ground pork,0
+"peas, green, cooked, boiled, drained, without salt",11305,frozen whole sweet green peas (flav r pac),1,steamed whole snow peas,0
+"beef, cured, corned beef, canned",13348,beef round tip steak,1,none,0
+"peas, edible-podded, raw",11300,steamed whole snow peas,1,whole snow peas,0
+"broccoli, chinese, raw",11994,steamed crown broccoli florets and stalk,1,frozen broccoli florets,0
+"kielbasa, fully cooked, grilled",7968,ground pork,1,beyond sausage,0
+"milk, imitation, non-soy",43543,unsweetened almond milk,1,whole milk,0
+"beef, cured, pastrami",13355,beef round tip steak,1,ground pork,0
+"apples, raw, without skin, cooked, microwave",9006,whole golden del apple w/o seed,1,golden del apple flesh only,0
+"cheese, brick",1005,sharp chedder cheese,1,american cheese,0
+"apricots, canned, light syrup pack, with skin, solids and liquids",9026,whole apricot,1,dried apricots,0
+"apricots, canned, heavy syrup pack, with skin, solids and liquids",9027,whole apricot,1,dried apricots,0
+"apricots, canned, juice pack, with skin, solids and liquids",9024,whole apricot,1,dried apricots,0
+"cream, fluid, light whipping",1052,half and half,1,sour cream,0
+"tofu, fried",16129,firm tofu (wildwood),1,soft silken tofu,0
+"chicken patty, frozen, cooked",5324,chicken strips,1,chicken breast,0
+"apricots, canned, water pack, with skin, solids and liquids",9022,whole apricot,1,dried apricots,0
+"nuts, coconut meat, dried (desiccated), sweetened, shredded",12179,dried coconut strips,1,dried coconut chips,0
+"beans, snap, yellow, canned, regular pack, drained solids",11932,steamed green beans,1,none,0
+"ham, chopped, not canned",7027,ground pork,1,none,0
+"beans, baked, canned, no salt added",43449,navy beans,1,canned kidney beans,0
+"sausage, chicken or turkey, italian style,  lower sodium",7976,chicken breast,1,ground turkey,0

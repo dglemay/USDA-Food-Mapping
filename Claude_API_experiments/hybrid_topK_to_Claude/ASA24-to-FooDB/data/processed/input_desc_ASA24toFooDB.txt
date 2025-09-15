@@ -1,0 +1,171 @@
+input_id	input_desc
+2047	salt, table, iodized
+11215	garlic, raw
+11216	ginger root, raw
+11143	celery, raw
+11134	cassava, raw
+28399	cookies, animal crackers (includes arrowroot, tea biscuits)
+11090	broccoli, raw
+11304	peas, green, raw
+28324	pancakes, whole wheat, dry mix, incomplete
+11422	pumpkin, raw
+11147	chard, swiss, raw
+14091	beverages, almond milk, unsweetened, shelf stable
+19296	honey
+11112	cabbage, red, raw
+9307	rhubarb, raw
+11457	spinach, raw
+28397	bread, multi-grain (includes whole-grain)
+9326	watermelon, raw
+9176	mangos, raw
+9286	pomegranates, raw
+11655	carrot juice, canned
+11156	chives, raw
+11001	alfalfa seeds, sprouted, raw
+11098	brussels sprouts, raw
+9156	lemon peel, raw
+9089	figs, raw
+19303	marmalade, orange
+11413	potato flour
+11591	watercress, raw
+9149	kumquats, raw
+14171	beverages, coconut milk, sweetened, fortified with calcium, vitamins a, b12, d2
+7961	chicken breast, deli, rotisserie seasoned, sliced, prepackaged
+5319	chicken, broiler, rotisserie, bbq, drumstick, meat only
+5359	chicken, broiler, rotisserie, bbq, drumstick, meat and skin
+5000	chicken, broiler, rotisserie, bbq, breast, meat only
+1260	cheese, cheddar, reduced fat (includes foods for usda's food distribution program)
+5362	chicken, broiler, rotisserie, bbq, wing, meat and skin
+5062	chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+5705	turkey, whole, meat only, with added solution, roasted
+5168	turkey, whole, meat only, cooked, roasted
+28287	bread, naan, whole wheat, commercially prepared, refrigerated
+5334	chicken, broiler, rotisserie, bbq, thigh, meat only
+9213	orange juice, frozen concentrate, unsweetened, undiluted, with added calcium
+5140	duck, domesticated, meat and skin, cooked, roasted
+36624	restaurant, chinese, vegetable chow mein, without meat or noodles
+31036	potatoes, mashed, ready-to-eat
+11118	cabbage, kimchi
+9519	guava nectar, with sucralose, canned
+28297	cake, snack cakes, not chocolate, with icing or filling, low-fat, with added fiber
+9163	blueberries, dried, sweetened
+21505	pizza, cheese topping, thin crust, frozen, cooked
+9318	strawberries, frozen, unsweetened (includes foods for usda's food distribution program)
+28316	bread, wheat, sprouted
+21472	fast foods, fried chicken, wing, meat and skin and breading
+5324	chicken patty, frozen, cooked
+28303	crackers, cheese, whole grain
+21401	fast foods, chicken tenders
+7081	turkey breast, sliced, prepackaged
+21470	fast foods, fried chicken, drumstick, meat and skin with breading
+5306	turkey, ground, cooked
+23360	beef, round, eye of round roast, boneless, separable lean only, trimmed to 0" fat, all grades, raw
+36626	restaurant, chinese, chicken and vegetables
+43344	jams, preserves, marmalade, reduced sugar
+21142	fast food, biscuit
+28295	tortillas, ready-to-bake or -fry, whole wheat
+8656	cereals ready-to-eat, nature's path, organic flax plus flakes
+7973	bacon, turkey, microwaved
+28311	cookies, sugar wafer, chocolate-covered
+36035	restaurant, family style, coleslaw
+27063	sauce, enchilada, red, mild, ready to serve
+28348	rolls, dinner, sweet
+27062	soup, beef barley, ready to serve
+36629	restaurant, chinese, orange chicken
+14063	beverages, chocolate powder, no sugar added
+25064	snacks, potato chips, lightly salted
+17225	lamb, ground, cooked, broiled
+28309	cookies, coconut macaroon
+43027	jellies, no sugar (with sodium saccharin), any flavors
+31034	peppers, hot pickled, canned
+23348	beef, round, top round roast, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted
+4709	salad dressing, mayonnaise-type, light
+7962	frankfurter, meat and poultry, unheated
+28315	bread, cinnamon
+10998	canadian bacon, cooked, pan-fried
+28298	cookies, brownies, commercially prepared, reduced fat, with added fiber
+4708	mayonnaise, reduced fat, with olive oil
+7968	kielbasa, fully cooked, grilled
+23369	beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0" fat, all grades, raw
+28318	bread, french or vienna, whole wheat
+17157	game meat, bison, separable lean only, cooked, roasted
+21155	fast foods, submarine sandwich, turkey breast on white bread with lettuce and tomato
+32016	macaroni or noodles with cheese, microwaveable, unprepared
+31023	sweet potatoes, french fried, frozen as packaged, salt added in processing
+5186	turkey, all classes, light meat, cooked, roasted
+5103	chicken, broilers or fryers, wing, meat and skin, cooked, roasted
+5094	chicken, broilers or fryers, thigh, meat and skin, cooked, roasted
+5361	chicken, broiler, rotisserie, bbq, thigh, meat and skin
+5358	chicken, broiler, rotisserie, bbq, breast, meat and skin
+5069	chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted
+5098	chicken, broilers or fryers, thigh, meat only, cooked, roasted
+5073	chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted
+5676	chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised
+19924	syrup, nestle, chocolate
+5672	chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised
+5671	chicken, broilers or fryers, drumstick, meat only, cooked, braised
+14276	beverages, tropical punch, ready-to-drink
+5677	chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised
+14216	beverages, aloe vera juice drink, fortified with vitamin c
+5091	chicken, broilers or fryers, thigh, meat and skin, raw
+7971	bologna, meat and poultry
+21151	fast foods, submarine sandwich, sweet onion chicken teriyaki on white bread with lettuce, tomato and sweet onion sauce
+17033	lamb, rib, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled
+5180	turkey, whole, neck, meat only, cooked, simmered
+21464	fast foods, fried chicken, breast, meat only, skin and breading removed
+32032	sausage, egg and cheese breakfast biscuit
+32007	taquitos, frozen, beef and cheese, oven-heated
+14090	beverages, coconut water, ready-to-drink, unsweetened
+907028	reduced sodium: ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+14066	beverages, protein powder whey based
+14030	beverages, the coca-cola company, nos energy drink, original, grape, loaded cherry, charged citrus, fortified with vitamins b6 and b12
+14239	alcoholic beverage, malt beer, hard lemonade
+19917	candies, m&m mars pretzel chocolate candies
+28290	cookie, with peanut butter filling, chocolate-coated
+14062	beverages, abbott, ensure, nutritional shake, ready-to-drink
+17014	lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+19918	sweetener, herbal extract powder from stevia leaf
+14036	beverages, cytosport, muscle milk, ready-to-drink
+999328	vitamin d as ingredient
+23357	beef, round, top round roast, boneless, separable lean only, trimmed to 0" fat, all grades, raw
+14033	beverages, abbott, eas whey protein powder
+14041	beverages, nestle, boost plus, nutritional drink, ready-to-drink
+14067	beverages, protein powder soy based
+14044	beverages, slimfast, meal replacement,  high protein shake, ready-to-drink, 3-2-1 plan
+14058	beverages, whey protein powder isolate
+14079	beverages, yellow green colored citrus soft drink with caffeine
+28337	bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca
+28288	bread, roll, mexican, bollilo
+19001	candies, toblerone, milk chocolate with honey and almond nougat
+8571	cereals ready-to-eat, nature's path, organic flax plus, pumpkin granola
+28293	cookie, butter or sugar, with chocolate icing or filling
+28294	cookie, chocolate, with icing or coating
+28292	crackers, multigrain
+28327	crackers, water biscuits
+27065	dip, bean, original flavor
+21520	fast foods, breadstick, soft, prepared with garlic and parmesan cheese
+21519	fast foods, breakfast burrito, with egg, cheese, and sausage
+21229	fast foods, chicken, breaded and fried, boneless pieces, plain
+21469	fast foods, fried chicken, breast, meat and skin and breading
+21465	fast foods, fried chicken, drumstick, meat only, skin and breading removed
+21471	fast foods, fried chicken, thigh, meat and skin and breading
+21466	fast foods, fried chicken, thigh, meat only, skin and breading removed
+1264	ice cream bar, stick or nugget, with crunch coating
+19920	jams, preserves, marmalades, sweetened with fruit juice
+17002	lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, cooked
+17027	lamb, loin, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled
+17042	lamb, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+9178	mango, dried, sweetened
+32012	pizza rolls, frozen, unprepared
+32013	potsticker or wonton, pork and vegetable, frozen, unprepared
+907961	reduced sodium: chicken breast, deli, rotisserie seasoned, sliced, prepackaged
+32002	rice and vermicelli mix, rice pilaf flavor, unprepared
+25071	rice crackers
+27066	sauce, horseradish
+27059	sauce, peanut, made from peanut butter, water, soy sauce
+100173	sausage, pork, chorizo, link or ground, cooked, pan-fried
+19000	schiff,tiger's milk bar
+19030	syrup, fruit flavored
+5697	turkey from whole, light meat, meat only, with added solution, cooked, roasted
+42128	turkey ham, sliced, extra lean, prepackaged or deli-sliced
+32011	yellow rice with seasoning, dry packet mix, unprepared

@@ -1,0 +1,976 @@
+input_id	input_desc
+11291	onions, spring or scallions (includes tops and bulb), raw
+23578	beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled
+23573	beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled
+23568	beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled
+23563	beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled
+9094	figs, dried, uncooked
+11819	peppers, hot chili, red, raw
+11979	peppers, jalapeno, raw
+7057	pepperoni, beef and pork, sliced
+19056	snacks, tortilla chips, plain, white corn, salted
+11052	beans, snap, green, raw
+12201	seeds, sesame seed kernels, dried (decorticated)
+2031	spices, pepper, red or cayenne
+16123	soy sauce made from soy and wheat (shoyu)
+2053	vinegar, distilled
+4636	salad dressing, italian dressing, fat-free
+43100	breakfast bars, oats, sugar, raisins, coconut (include granola bar)
+13355	beef, cured, pastrami
+18159	cookies, chocolate chip, commercially prepared, regular, higher fat, enriched
+19263	frozen novelties, fruit and juice bars
+43346	frozen novelties, juice type, orange
+19335	sugars, granulated
+22959	macaroni and cheese dinner with dry sauce mix, boxed, uncooked
+14411	beverages, water, tap, drinking
+11333	peppers, sweet, green, raw
+11644	squash, winter, all varieties, cooked, baked, without salt
+8020	cereals ready-to-eat, kellogg, kellogg's corn flakes
+12063	nuts, almonds, dry roasted, without salt added
+7064	pork sausage, link/patty, cooked, pan-fried
+11167	corn, sweet, yellow, raw
+19833	snacks, tortilla chips, low fat, unsalted
+18350	rolls, hamburger or hotdog, plain
+13317	beef, ground, patties, frozen, cooked, broiled
+19415	snacks, potato sticks
+14355	beverages, tea, black, brewed, prepared with tap water
+19411	snacks, potato chips, plain, salted
+4025	salad dressing, mayonnaise, regular
+2029	spices, parsley, dried
+1123	egg, whole, raw, fresh
+11061	beans, snap, green, frozen, cooked, boiled, drained without salt
+25033	snacks, granola bar, kashi tlc bar, chewy, mixed flavors
+8120	cereals, oats, regular and quick, not fortified, dry
+8144	cereals, whole wheat hot natural cereal, dry
+20037	rice, brown, long-grain, cooked (includes foods for usda's food distribution program)
+11464	spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt
+8272	cereals ready-to-eat, general mills, cinnamon toast crunch
+16015	beans, black, mature seeds, cooked, boiled, without salt
+42283	snacks, potato chips, white, restructured, baked
+20045	rice, white, long-grain, regular, enriched, cooked
+12085	nuts, cashew nuts, dry roasted, without salt added
+12078	nuts, brazilnuts, dried, unblanched
+12120	nuts, hazelnuts or filberts
+12142	nuts, pecans
+12152	nuts, pistachio nuts, dry roasted, without salt added
+12155	nuts, walnuts, english
+25038	snacks, granola bars, soft, almond, confectioners coating
+6150	sauce, barbecue
+9054	blueberries, frozen, unsweetened (includes foods for usda's food distribution program)
+9040	bananas, raw
+25017	formulated bar, power bar, chocolate
+8122	cereals, oats, instant, fortified, plain, dry
+6194	soup, chicken broth, ready-to-serve
+11282	onions, raw
+11124	carrots, raw
+11297	parsley, fresh
+20109	noodles, egg, dry, enriched
+11174	corn, sweet, yellow, canned, cream style, regular pack
+20121	pasta, cooked, enriched, without added salt
+6931	sauce, pasta, spaghetti/marinara, ready-to-serve
+11584	vegetables, mixed, frozen, cooked, boiled, drained, without salt
+1164	cheese sauce, prepared from recipe
+4615	shortening, vegetable, household, composite
+18375	leavening agents, yeast, baker's, active dry
+20080	wheat flour, whole-grain (includes foods for usda's food distribution program)
+42259	snacks, popcorn, home-prepared, oil-popped, unsalted
+7083	sausage, vienna, canned, chicken, beef, pork
+11531	tomatoes, red, ripe, canned, packed in tomato juice
+20029	couscous, cooked
+11477	squash, summer, zucchini, includes skin, raw
+11467	squash, summer, crookneck and straightneck, raw
+18364	tortillas, ready-to-bake or -fry, flour, refrigerated
+6164	sauce, salsa, ready-to-serve
+6119	gravy, chicken, canned or bottled, ready-to-serve
+18141	cake, yellow, commercially prepared, with vanilla frosting
+11549	tomato products, canned, sauce
+14429	beverages, water, tap, municipal
+19360	syrups, table blends, pancake, with 2% maple
+20055	rice, white, glutinous, unenriched, cooked
+11446	seaweed, laver, raw
+9037	avocados, raw, all commercial varieties
+11205	cucumber, with peel, raw
+11674	potatoes, baked, flesh and skin, without salt
+6169	sauce, ready-to-serve, pepper, tabasco
+43205	beverage, instant breakfast powder, chocolate, not reconstituted
+18142	cake, pudding-type, yellow, dry mix
+8031	cereals ready-to-eat, kellogg's frosted mini-wheats, big bite
+1029	cheese, mozzarella, low moisture, part-skim
+18069	bread, white, commercially prepared (includes soft bread crumbs)
+16043	beans, pinto, mature seeds, cooked, boiled, without salt
+14645	beverages, fruit flavored drink, less than 3% juice, not fortified with vitamin c
+6043	soup, cream of mushroom, canned, condensed
+9316	strawberries, raw
+9050	blueberries, raw
+42204	rice cake, cracker (include hain mini rice cakes)
+4659	oil, industrial, coconut, confection fat, typical basis for ice cream coatings
+18235	crackers, whole-wheat
+18232	crackers, wheat, regular
+11529	tomatoes, red, ripe, raw, year round average
+20044	rice, white, long-grain, regular, raw, enriched
+2010	spices, cinnamon, ground
+19336	sugars, powdered
+18228	crackers, saltines (includes oyster, soda, soup)
+18042	bread, pita, whole-wheat
+11569	turnip greens, cooked, boiled, drained, without salt
+11023	balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt
+15138	crustaceans, crab, alaska king, imitation, made from surimi
+20134	rice noodles, cooked
+19095	ice creams, vanilla
+11008	artichokes, (globe or french), cooked, boiled, drained, without salt
+21225	pizza, cheese topping, rising crust, frozen, cooked
+11663	seaweed, agar, dried
+11667	seaweed, spirulina, dried
+20022	cornmeal, degermed, enriched, yellow
+42187	frozen yogurts, flavors other than chocolate
+11260	mushrooms, white, raw
+14210	beverages, coffee, brewed, espresso, restaurant-prepared
+4518	oil, corn, industrial and retail, all purpose salad or cooking
+11233	kale, raw
+11363	potatoes, baked, flesh, without salt
+1211	milk, whole, 3.25% milkfat, without added vitamin a and vitamin d
+4542	fat, chicken
+20481	wheat flour, white, all-purpose, unenriched
+20110	noodles, egg, enriched, cooked
+18075	bread, whole-wheat, commercially prepared
+19270	ice creams, chocolate
+11109	cabbage, raw
+18216	crackers, crispbread, rye
+11080	beets, raw
+11086	beet greens, raw
+19088	ice creams, vanilla, light
+19260	ice creams, vanilla, light, no sugar added
+19047	snacks, pretzels, hard, plain, salted
+18271	ice cream cones, cake or wafer-type
+11172	corn, sweet, yellow, canned, whole kernel, drained solids
+22900	ravioli, meat-filled, with tomato sauce or meat sauce, canned
+16063	cowpeas, common (blackeyes, crowder, southern), mature seeds, cooked, boiled, without salt
+11493	squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt
+14381	beverages, tea, herb, other than chamomile, brewed
+11011	asparagus, raw
+21299	fast food, pizza chain, 14" pizza, cheese topping, regular crust
+11283	onions, cooked, boiled, drained, without salt
+11334	peppers, sweet, green, cooked, boiled, drained, without salt
+11261	mushrooms, white, cooked, boiled, drained, without salt
+9193	olives, ripe, canned (small-extra large)
+12037	seeds, sunflower seed kernels, dry roasted, without salt
+25013	snacks, fritolay, sunchips, multigrain snack, original flavor
+10862	pork, cured, bacon, pre-sliced, cooked, pan-fried
+14196	beverages, cocoa mix, no sugar added, powder
+18950	crackers, wheat, reduced fat
+8028	cereals ready-to-eat, kellogg, kellogg's all-bran complete wheat flakes
+6075	soup, beef broth or bouillon, powder, dry
+20027	cornstarch
+42136	cream substitute, powdered, light
+7070	salami, cooked, turkey
+6976	sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium
+11378	potatoes, mashed, dehydrated, flakes without milk, dry form
+6112	sauce, teriyaki, ready-to-serve
+21130	fast foods, onion rings, breaded and fried
+11296	onion rings, breaded, par fried, frozen, prepared, heated in oven
+8148	cereals ready-to-eat, post, shredded wheat, original spoon-size
+16081	mung beans, mature seeds, cooked, boiled, without salt
+20030	hominy, canned, white
+1082	milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d
+14557	beverages, chocolate-flavor beverage mix for milk, powder, with added nutrients
+15027	fish, fish sticks, frozen, prepared
+18157	cookies, chocolate wafers
+2028	spices, paprika
+27047	sauce, salsa, verde, ready-to-serve
+6116	gravy, beef, canned, ready-to-serve
+4021	salad dressing, italian dressing, commercial, reduced fat
+16117	soy flour, defatted
+12061	nuts, almonds
+16087	peanuts, all types, raw
+9079	cranberries, dried, sweetened (includes foods for usda's food distribution program)
+20061	rice flour, white, unenriched
+18272	ice cream cones, sugar, rolled-type
+19348	syrups, chocolate, fudge-type
+16090	peanuts, all types, dry-roasted, with salt
+18347	rolls, dinner, wheat
+16041	beans, pink, mature seeds, cooked, boiled, without salt
+8090	cereals, corn grits, white, regular and quick, enriched, dry
+19009	snacks, kraft, cornnuts, plain
+8286	cereals ready-to-eat, kellogg, kellogg's mueslix
+11510	sweet potato, cooked, boiled, without skin
+11398	potato puffs, frozen, unprepared
+4016	salad dressing, sesame seed dressing, regular
+8019	cereals ready-to-eat, general mills, corn chex
+8013	cereals ready-to-eat, general mills, cheerios
+15149	crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)
+15121	fish, tuna, light, canned in water, drained solids
+11945	pickle relish, sweet
+11313	peas, green, frozen, cooked, boiled, drained, without salt
+11131	carrots, frozen, cooked, boiled, drained, without salt
+11093	broccoli, frozen, chopped, cooked, boiled, drained, without salt
+42161	bologna, beef, low fat
+9003	apples, raw, with skin (includes foods for usda's food distribution program)
+20081	wheat flour, white, all-purpose, enriched, bleached
+18369	leavening agents, baking powder, double-acting, sodium aluminum sulfate
+18079	bread, crumbs, dry, grated, plain
+11821	peppers, sweet, red, raw
+11429	radishes, raw
+8049	cereals ready-to-eat, quaker, quaker oat life, plain
+19201	puddings, vanilla, ready-to-eat
+19183	puddings, chocolate, ready-to-eat
+18140	cake, yellow, commercially prepared, with chocolate frosting, in-store bakery
+18096	cake, chocolate, commercially prepared with chocolate frosting, in-store bakery
+42265	cereals ready-to-eat, post, great grains, raisin, date & pecan
+11527	tomatoes, green, raw
+19280	frozen novelties, ice type, lime
+16034	beans, kidney, red, mature seeds, canned, solids and liquids
+14209	beverages, coffee, brewed, prepared with tap water
+11508	sweet potato, cooked, baked in skin, flesh, without salt
+12117	nuts, coconut milk, raw (liquid expressed from grated meat and water)
+42135	whipped topping, frozen, low fat
+1240	ice cream cone, chocolate covered, with nuts, flavors other than chocolate
+19165	cocoa, dry powder, unsweetened
+11038	lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, without salt
+14096	alcoholic beverage, wine, table, red
+14121	beverages, carbonated, club soda
+9153	lemon juice from concentrate, canned or bottled
+16072	lima beans, large, mature seeds, cooked, boiled, without salt
+42141	cream substitute, liquid, light
+9020	applesauce, canned, sweetened, without salt
+9071	cherries, sweet, canned, water pack, solids and liquids
+42186	frozen yogurts, chocolate
+43276	cheese spread, cream cheese base
+9279	plums, raw
+19334	sugars, brown
+11135	cauliflower, raw
+11732	beans, snap, yellow, frozen, cooked, boiled, drained, without salt
+8087	cereals ready-to-eat, general mills, multi-grain cheerios
+7022	frankfurter, beef, unheated
+2046	mustard, prepared, yellow
+11935	catsup
+14037	alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof
+10183	pork, cured, ham, boneless, extra lean and regular, roasted
+10136	pork, cured, ham, boneless, regular (approximately 11% fat), roasted
+10917	pork, cured, ham -- water added, whole, boneless, separable lean and fat, heated, roasted
+10922	pork, cured, ham and water product, whole, boneless, separable lean and fat, heated, roasted
+10928	pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted
+11253	lettuce, green leaf, raw
+11439	sauerkraut, canned, solids and liquids
+11364	potatoes, baked, skin, without salt
+9218	tangerines, (mandarin oranges), raw
+19081	candies, sweet chocolate
+19905	candies, chocolate, dark, nfs (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)
+12695	nuts, almond butter, plain, with salt added
+13327	beef, variety meats and by-products, liver, cooked, pan-fried
+11300	peas, edible-podded, raw
+19312	pie fillings, apple, canned
+14352	beverages, tea, black, brewed, prepared with tap water, decaffeinated
+4703	salad dressing, honey mustard, regular
+11252	lettuce, iceberg (includes crisphead types), raw
+14106	alcoholic beverage, wine, table, white
+13893	beef, round, top round steak, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, broiled
+6008	soup, beef broth or bouillon canned, ready-to-serve
+11125	carrots, cooked, boiled, drained, without salt
+9236	peaches, yellow, raw
+1151	milk, nonfat, fluid, without added vitamin a and vitamin d (fat free or skim)
+2030	spices, pepper, black
+11943	pimento, canned
+18363	tortillas, ready-to-bake or -fry, corn
+9152	lemon juice, raw
+16103	refried beans, canned, traditional style
+18133	cake, sponge, commercially prepared
+19230	frostings, vanilla, creamy, ready-to-eat
+14028	beverages, whiskey sour mix, bottled
+21304	fast food, pizza chain, 14" pizza, meat and vegetable topping, regular crust
+14003	alcoholic beverage, beer, regular, all
+21301	fast food, pizza chain, 14" pizza, cheese topping, thin crust
+14555	water, bottled, generic
+2055	horseradish, prepared
+4639	salad dressing, ranch dressing, regular
+18372	leavening agents, baking soda
+2052	vanilla extract, imitation, no alcohol
+19080	candies, semisweet chocolate
+19297	jams and preserves
+21302	fast food, pizza chain, 14" pizza, pepperoni topping, regular crust
+19134	candies, milk chocolate, with rice cereal
+19120	candies, milk chocolate
+18255	doughnuts, yeast-leavened, glazed, enriched (includes honey buns)
+9184	melons, honeydew, raw
+11435	rutabagas, raw
+10062	pork, fresh, loin, top loin (chops), boneless, separable lean and fat, raw
+10949	pork, fresh, loin, top loin (chops), boneless, separable lean and fat, with added solution, raw
+9016	apple juice, canned or bottled, unsweetened, without added ascorbic acid
+8220	cereals ready-to-eat, quaker, low fat 100% natural granola with raisins
+8218	cereals ready-to-eat, quaker, quaker 100% natural granola with oats, wheat, honey, and raisins
+8054	cereals ready-to-eat, quaker, 100% natural granola, oats, wheat and honey
+18170	cookies, fig bars
+16398	peanut butter, smooth style, without salt
+16149	peanut spread, reduced sugar
+9087	dates, deglet noor
+9132	grapes, red or green (european type, such as thompson seedless), raw
+7072	salami, dry or hard, pork, beef
+21138	fast foods, potato, french fried in vegetable oil
+16098	peanut butter, smooth style, with salt (includes foods for usda's food distribution program)
+19300	jellies
+4017	salad dressing, thousand island, commercial, regular
+14651	beverages, fruit juice drink, greater than 3% juice, high vitamin c
+11179	corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt
+18173	cookies, graham crackers, plain or honey (includes cinnamon)
+19116	candies, marshmallows
+18264	muffins, english, wheat
+19337	sweeteners, tabletop, aspartame, equal, packets
+7050	mortadella, beef, pork
+4610	margarine, regular, 80% fat, composite, stick, with salt
+1129	egg, whole, cooked, hard-boiled
+2003	spices, basil, dried
+11165	coriander (cilantro) leaves, raw
+1205	cream substitute, flavored, liquid
+36602	restaurant, chinese, fried rice, without meat
+9130	grape juice, canned or bottled, unsweetened, with added ascorbic acid
+21124	fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato
+14147	beverages, carbonated, cola, without caffeine
+9298	raisins, dark, seedless (includes foods for usda's food distribution program)
+22955	egg rolls, vegetable, frozen, prepared
+9160	lime juice, raw
+9042	blackberries, raw
+18029	bread, french or vienna (includes sourdough)
+19002	snacks, beef jerky, chopped and formed
+16070	lentils, mature seeds, cooked, boiled, without salt
+4053	oil, olive, salad or cooking
+2048	vinegar, cider
+12016	seeds, pumpkin and squash seed kernels, roasted, without salt
+18213	cookies, vanilla wafers, higher fat
+18230	crackers, standard snack-type, sandwich, with cheese filling
+9266	pineapple, raw, all varieties
+11603	yambean (jicama), raw
+6972	sauce, tomato chili sauce, bottled, with salt
+2044	basil, fresh
+12147	nuts, pine nuts, dried
+9181	melons, cantaloupe, raw
+14296	beverages, lemonade-flavor drink, powder
+13912	beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8" fat, choice, cooked, grilled
+23197	beef, rib eye steak, boneless, lip-on, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, grilled
+13959	beef, round, top round steak, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled
+13451	beef, top sirloin, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled
+16112	miso
+11445	seaweed, kelp, raw
+11269	mushrooms, shiitake, cooked, without salt
+15018	fish, cod, atlantic, dried and salted
+16127	tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)
+18246	danish pastry, fruit, enriched (includes apple, cinnamon, raisin, lemon, raspberry, strawberry)
+9032	apricots, dried, sulfured, uncooked
+14006	alcoholic beverage, beer, light
+16057	chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt
+12166	seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)
+1035	cheese, provolone
+7028	ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+6053	soup, cream of potato, canned, condensed
+8045	cereals ready-to-eat, general mills, honey nut cheerios
+8069	cereals ready-to-eat, kellogg, kellogg's frosted flakes
+18319	pie, fried pies, fruit
+4058	oil, sesame, salad or cooking
+14416	beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine
+19083	candies, sweet chocolate coated fondant
+13382	beef, chuck, blade roast, separable lean only, trimmed to 0" fat, all grades, cooked, braised
+14214	beverages, coffee, instant, regular, powder
+18064	bread, wheat
+18964	cinnamon buns, frosted (includes honey buns)
+9200	oranges, raw, all commercial varieties
+19868	sweeteners, tabletop, sucralose, splenda packets
+4613	margarine-like, vegetable oil spread, 60% fat, tub, with salt
+4694	margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin d
+9443	juice, apple and grape blend, with added ascorbic acid
+20011	buckwheat flour, whole-groat
+9150	lemons, raw, without peel
+43158	sweeteners, tabletop, saccharin (sodium saccharin)
+20083	wheat flour, white, bread, enriched
+18204	cookies, sugar, commercially prepared, regular (includes vanilla)
+11257	lettuce, red leaf, raw
+4120	salad dressing, french dressing, commercial, regular
+18326	pie, pumpkin, commercially prepared
+18356	sweet rolls, cinnamon, commercially prepared with raisins
+11209	eggplant, raw
+15083	fish, salmon, pink, raw
+18258	muffins, english, plain, enriched, with ca prop (includes sourdough)
+21227	pizza, meat and vegetable topping, rising crust, frozen, cooked
+9328	maraschino cherries, canned, drained
+43212	bacon bits, meatless
+43015	salad dressing, caesar dressing, regular
+18324	pie, pecan, commercially prepared
+19132	candies, milk chocolate, with almonds
+10089	pork, fresh, spareribs, separable lean and fat, cooked, braised
+11937	pickles, cucumber, dill or kosher dill
+4114	salad dressing, italian dressing, commercial, regular
+12109	nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged
+9143	guava sauce, cooked
+19279	candies, milk chocolate coated coffee beans
+16147	veggie burgers or soyburgers, unprepared
+19125	chocolate-flavored hazelnut spread
+18151	cookies, brownies, commercially prepared
+19226	frostings, chocolate, creamy, ready-to-eat
+11056	beans, snap, green, canned, regular pack, drained solids
+16033	beans, kidney, red, mature seeds, cooked, boiled, without salt
+20077	wheat bran, crude
+9302	raspberries, raw
+9426	candied fruit
+6019	soup, chicken noodle, canned, condensed
+11043	mung beans, mature seeds, sprouted, raw
+16129	tofu, fried
+16390	peanuts, all types, dry-roasted, without salt
+6179	sauce, fish, ready-to-serve
+14151	beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine
+11977	peppers, serrano, raw
+9209	orange juice, chilled, includes from concentrate
+18360	taco shells, baked
+18971	bread, potato
+11367	potatoes, boiled, cooked without skin, flesh, without salt
+23590	beef, round, bottom round , roast, separable lean only, trimmed to 1/8" fat, select, cooked, roasted
+11547	tomato products, canned, puree, without salt added
+18243	croutons, seasoned
+14146	beverages, carbonated, low calorie, cola or pepper-type, with aspartame, without caffeine
+6071	soup, vegetable beef, canned, condensed
+14143	beverages, carbonated, low calorie, other than cola or pepper,  without caffeine
+18214	crackers, cheese, regular
+10027	pork, fresh, loin, whole, separable lean only, cooked, roasted
+4539	salad dressing, blue or roquefort cheese dressing, commercial, regular
+6030	soup, clam chowder, new england, canned, condensed
+15230	mollusks, octopus, common, cooked, moist heat
+19107	candies, hard
+13892	beef, round, top round, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, braised
+6175	sauce, hoisin, ready-to-serve
+18127	cake, snack cakes, creme-filled, chocolate with frosting
+9139	guavas, common, raw
+9004	apples, raw, without skin
+9112	grapefruit, raw, pink and red, all areas
+12104	nuts, coconut meat, raw
+16139	soymilk, original and vanilla, with added calcium, vitamins a and d
+20013	bulgur, cooked
+19039	snacks, popcorn, caramel-coated, without peanuts
+42116	creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie
+43016	salad dressing, coleslaw
+14057	alcoholic beverage, wine, dessert, sweet
+9252	pears, raw
+6192	split pea soup, canned, reduced sodium, prepared with water or ready-to serve
+16017	beans, black turtle, mature seeds, cooked, boiled, without salt
+19438	snacks, kellogg, kellogg's rice krispies treats squares
+4679	oil, pam cooking spray, original
+19150	candies, reese's peanut butter cups
+13345	beef, cured, breakfast strips, cooked
+6040	soup, minestrone, canned, condensed
+25045	formulated bar, high fiber, chewy, oats and chocolate
+20137	quinoa, cooked
+14136	beverages, carbonated, ginger ale
+11959	arugula, raw
+18291	pancakes, plain, dry mix, incomplete (includes buttermilk)
+9226	papayas, raw
+14201	beverages, coffee, brewed, prepared with tap water, decaffeinated
+4018	salad dressing, mayonnaise type, regular, with salt
+18001	bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)
+8037	cereals ready-to-eat, granola, homemade
+18274	muffins, blueberry, commercially prepared (includes mini-muffins)
+7089	sausage, italian, pork, mild, cooked, pan-fried
+23570	beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned
+1002	butter, whipped, with salt
+19147	candies, peanut bar
+9409	pineapple juice, canned or bottled, unsweetened, with added ascorbic acid
+9070	cherries, sweet, raw
+1208	cheese, provolone, reduced fat
+9191	nectarines, raw
+4601	butter, light, stick, with salt
+14460	beverages, pepsico quaker, gatorade, g performance o 2, ready-to-drink.
+6963	fish broth
+15192	fish, cod, pacific, cooked, dry heat (may contain additives to retain moisture)
+11352	potatoes, flesh and skin, raw
+10935	pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted
+10185	pork, cured, ham, extra lean and regular, canned, roasted
+11270	mustard greens, raw
+20033	oat bran, raw
+1230	milk, buttermilk, fluid, whole
+19304	molasses
+25040	snacks, vegetable chips, made from garden vegetables
+25030	snacks, vegetable chips, hain celestial group, terra chips
+7013	bratwurst, pork, cooked
+1251	cheese, mexican blend
+11161	collards, raw
+42055	beverages, fruit-flavored drink, dry powdered mix, low calorie, with aspartame
+18967	bread, white wheat
+14119	beverages, mixed vegetable and fruit juice drink, with added nutrients
+18231	crackers, standard snack-type, sandwich, with peanut butter filling
+6128	soup, chicken noodle, dry, mix
+22957	turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwaved
+19141	candies, mars snackfood us, m&m's milk chocolate candies
+15175	mollusks, squid, mixed species, raw
+20118	noodles, flat, crunchy, chinese restaurant
+19364	toppings, butterscotch or caramel
+25031	formulated bar, zone perfect classic crunch bar, mixed flavors
+18210	cookies, vanilla sandwich with creme filling
+8001	cereals ready-to-eat, kellogg, kellogg's all-bran original
+15088	fish, sardine, atlantic, canned in oil, drained solids with bone
+6583	soup, ramen noodle, any flavor, dry
+7919	sausage, turkey, breakfast links, mild, raw
+18349	rolls, french
+8393	cereals ready-to-eat, kashi golean
+19015	snacks, granola bars, hard, plain
+8318	cereals ready-to-eat, kellogg, kellogg's smart start strong heart antioxidants cereal
+14157	beverages, carbonated, root beer
+18041	bread, pita, white, enriched
+8067	cereals ready-to-eat, kellogg, kellogg's special k
+22954	egg rolls, chicken, refrigerated, heated
+27050	sauce, sweet and sour, ready-to-serve
+20113	noodles, chinese, chow mein
+27001	soup, hot and sour, chinese restaurant
+36619	restaurant, chinese, kung pao chicken
+23612	beef, chuck, arm pot roast, separable lean only, trimmed to 1/8" fat, choice, raw
+19156	candies, mars snackfood us, starburst fruit chews, original fruits
+19068	candies, nestle, bit-o'-honey candy chews
+19294	fruit butters, apple
+23606	beef, short loin, top loin, steak, separable lean only, trimmed to 1/8" fat, all grades, cooked, broiled
+23100	beef, rib eye steak, boneless, lip-on, separable lean only, trimmed to 1/8" fat, all grades, cooked, grilled
+13491	beef, round, top round steak, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, grilled
+13454	beef, top sirloin, steak, separable lean only, trimmed to 0" fat, all grades, cooked, broiled
+15019	fish, cod, pacific, raw (may have been previously frozen)
+9183	melons, casaba, raw
+42240	cereals ready-to-eat, post, honey bunches of oats, with almonds
+16006	beans, baked, canned, plain or vegetarian
+11424	pumpkin, canned, without salt
+10218	pork, fresh, loin, tenderloin, separable lean and fat, raw
+10951	pork, fresh, loin, tenderloin, separable lean and fat, with added solution, raw
+18080	bread, sticks, plain
+12220	seeds, flaxseed
+25051	snacks, clif bar, mixed flavors
+9159	limes, raw
+18370	leavening agents, baking powder, double-acting, straight phosphate
+1036	cheese, ricotta, whole milk
+8543	cereals ready-to-eat, kellogg's, special k vanilla almond
+9263	persimmons, japanese, raw
+18955	bread, pan dulce, sweet yeast bread
+14630	beverages, energy drink, rockstar, sugar free
+9019	applesauce, canned, unsweetened, without added ascorbic acid (includes foods for usda's food distribution program)
+8214	cereals ready-to-eat, quaker, oatmeal squares
+18968	bagels, wheat
+18147	cake, cheesecake, commercially prepared
+14347	shake, fast food, vanilla
+1223	protein supplement, milk based, muscle milk, powder
+18239	croissants, butter
+6015	soup, chicken, canned, chunky, ready-to-serve
+22904	chili con carne with beans, canned entree
+15261	fish, tilapia, raw
+21300	fast food, pizza chain, 14" pizza, cheese topping, thick crust
+18972	bread, cheese
+18185	cookies, peanut butter, commercially prepared, regular
+15147	crustaceans, lobster, northern, raw
+9148	kiwifruit, green, raw
+15080	fish, salmon, chum, canned, drained solids with bone
+43369	beverages, chocolate-flavored drink, whey and milk based
+43026	syrups, sugar free
+19078	baking chocolate, unsweetened, squares
+19074	candies, caramels
+19099	candies, fondant, prepared-from-recipe
+16089	peanuts, all types, oil-roasted, with salt
+2042	spices, thyme, dried
+21303	fast food, pizza chain, 14" pizza, pepperoni topping, thick crust
+19152	candies, rolo caramels in milk chocolate
+25052	snacks, granola bar, quaker, chewy, 90 calorie bar
+43595	breakfast bar, corn flake crust with fruit
+42139	granola bar, soft, milk chocolate coated, peanut butter
+14156	beverages, energy drink, red bull, sugar free, with added caffeine, niacin, pantothenic acid, vitamins b6 and b12
+8039	cereals ready-to-eat, post, grape-nuts flakes
+8029	cereals ready-to-eat, post bran flakes
+42193	salad dressing, mayonnaise-like, fat-free
+9291	plums, dried (prunes), uncooked
+10093	pork, fresh, composite of trimmed retail cuts (leg, loin, and shoulder), separable lean only, cooked
+17134	veal, sirloin, separable lean and fat, raw
+10153	pork, cured, ham, whole, separable lean only, roasted
+12632	nuts, macadamia nuts, dry roasted, with salt added
+42117	imitation cheese, american or cheddar, low cholesterol
+11403	potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated
+8106	cereals, cream of wheat, instant, dry
+1185	parmesan cheese topping, fat free
+9021	apricots, raw
+19871	frozen novelties, no sugar added, fudgsicle pops
+25055	snacks, granola bar, general mills, nature valley, chewy trail mix
+9211	orange juice, chilled, includes from concentrate, with added calcium
+9210	orange juice, chilled, includes from concentrate, with added calcium and vitamin d
+9096	fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids
+9017	apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid
+9400	apple juice, canned or bottled, unsweetened, with added ascorbic acid
+18081	bread, stuffing, dry mix
+7007	bologna, beef
+18158	cookies, chocolate chip, commercially prepared, regular, lower fat
+13148	beef, rib, shortribs, separable lean and fat, choice, cooked, braised
+11308	peas, green (includes baby and lesuer types), canned, drained solids, unprepared
+1199	cream, half and half, fat free
+11976	pepper, banana, raw
+22916	lasagna with meat & sauce, frozen entree
+18039	bread, oatmeal
+4641	salad dressing, mayonnaise, light
+4704	salad dressing, poppyseed, creamy
+19176	gelatin desserts, dry mix, reduced calorie, with aspartame, prepared with water
+18301	pie, apple, commercially prepared, enriched flour
+43214	butter replacement, without fat, powder
+18120	cake, pound, commercially prepared, butter (includes fresh and frozen)
+22973	corn dogs, frozen, prepared
+6068	soup, vegetarian vegetable, canned, condensed
+14145	beverages, carbonated, sprite, lemon-lime, without caffeine
+23575	beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned
+21484	fast food, pizza chain, 14" pizza, sausage topping, regular crust
+18178	cookies, oatmeal, commercially prepared, regular
+25056	snacks, granola bar, quaker, dipps, all flavors
+25039	snacks, granola bars, quaker oatmeal to go, all flavors
+15127	fish, tuna, fresh, yellowfin, raw
+19128	syrups, table blends, pancake, reduced-calorie
+21061	fast foods, burrito, with beans and cheese
+21486	fast foods, taco with beef, cheese and lettuce, soft
+19193	puddings, rice, ready-to-eat
+10220	pork, fresh, ground, cooked
+18060	bread, rye
+16389	peanuts, all types, oil-roasted, without salt
+18209	cookies, sugar wafers with creme filling, regular
+15151	crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture)
+21026	fast foods, potatoes, hash browns, round pieces or patty
+15039	fish, herring, atlantic, raw
+11609	beets, pickled, canned, solids and liquids
+2023	spices, marjoram, dried
+19441	snacks, kellogg, kellogg's, nutri-grain cereal bars, fruit
+11940	pickles, cucumber, sweet (includes bread and butter pickles)
+8060	cereals ready-to-eat, kellogg, kellogg's raisin bran
+8071	cereals ready-to-eat, kellogg, kellogg's honey smacks
+18177	cookies, molasses
+6067	soup, chunky vegetable, canned, ready-to-serve
+13367	beef, brisket, whole, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised
+20006	barley, pearled, cooked
+15028	fish, flatfish (flounder and sole species), raw
+13150	beef, rib, shortribs, separable lean only, choice, cooked, braised
+6980	soup, beef stroganoff, canned, chunky style, ready-to-serve
+9340	pears, asian, raw
+1145	butter, without salt
+6170	soup, stock, beef, home-prepared
+6584	soup, broccoli cheese, canned, condensed, commercial
+11299	parsnips, cooked, boiled, drained, without salt
+15066	fish, pollock, raw
+15234	fish, catfish, channel, farmed, raw
+14644	beverages, pepsico quaker, gatorade g2, low calorie
+18166	cookies, chocolate sandwich, with creme filling, regular
+6449	soup, pea, green, canned, prepared with equal volume water
+19069	candies, nestle, butterfinger bar
+19155	candies, mars snackfood us, snickers bar
+18211	puff pastry, frozen, ready-to-bake, baked
+18244	danish pastry, cinnamon, enriched
+19400	snacks, banana chips
+22971	potato salad with egg
+15140	crustaceans, crab, blue, cooked, moist heat
+16082	noodles, chinese, cellophane or long rice (mung beans), dehydrated
+18940	muffin, blueberry, commercially prepared, low-fat
+21082	fast foods, taco with beef, cheese and lettuce, hard shell
+21021	fast foods, english muffin, with egg, cheese, and canadian bacon
+9214	orange juice, frozen concentrate, unsweetened, undiluted
+42304	cheese, mozzarella, nonfat
+22958	rice bowl with chicken, frozen entree, prepared (includes fried, teriyaki, and sweet and sour varieties)
+18168	cookies, chocolate sandwich, with extra creme filling
+8015	cereals ready-to-eat, post, cocoa pebbles
+18938	toaster pastries, fruit, frosted (include apples, blueberry, cherry, strawberry)
+11578	vegetable juice cocktail, canned
+18248	doughnuts, cake-type, plain (includes unsugared, old-fashioned)
+19370	candies, mars snackfood us, skittles original bite size candies
+18033	bread, italian
+1125	egg, yolk, raw, fresh
+27044	soup, chicken noodle, reduced sodium, canned, ready-to-serve
+15084	fish, salmon, pink, canned, total can contents
+15087	fish, salmon, sockeye, canned, drained solids
+10182	pork, cured, ham, boneless, extra lean and regular, unheated
+10141	pork, cured, ham, center slice, country-style, separable lean only, raw
+6749	soup, beef and vegetables, canned, ready-to-serve
+19034	snacks, popcorn, air-popped
+15077	fish, salmon, chinook, smoked
+4027	salad dressing, mayonnaise, imitation, soybean
+8383	cereals ready-to-eat, kellogg, kellogg's special k red berries
+9436	mango nectar, canned
+8082	cereals ready-to-eat, general mills, wheat chex
+1096	milk, canned, evaporated, with added vitamin d and without added vitamin a
+4609	animal fat, bacon grease
+4002	lard
+13020	beef, retail cuts, separable fat, cooked
+4575	fat, turkey
+10165	pork, cured, salt pork, raw
+9195	olives, pickled, canned or bottled, green
+19858	candies, sugar-coated almonds
+43017	salad dressing, green goddess, regular
+16107	sausage, meatless
+11546	tomato products, canned, paste, without salt added (includes foods for usda's food distribution program)
+9011	apples, dried, sulfured, uncooked
+15068	fish, pompano, florida, raw
+27048	sauce, steak, tomato based
+43404	beverages, cranberry-apple juice drink, low calorie, with vitamin c added
+9442	pomegranate juice, bottled
+16056	chickpeas (garbanzo beans, bengal gram), mature seeds, raw
+2012	spices, coriander leaf, dried
+2014	spices, cumin seed
+13812	beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8" fat, choice, cooked, braised
+6159	soup, tomato, canned, condensed
+10066	pork, fresh, loin, top loin (chops), boneless, separable lean only, raw
+10948	pork, fresh, loin, top loin (chops), boneless, separable lean only, with added solution, raw
+16225	soymilk, original and vanilla, light, with added calcium, vitamins a and d
+8560	cereals ready-to-eat, kashi go lean crunch!, honey almond flax
+16010	beans, baked, canned, with pork and sweet sauce
+1186	cheese, cream, fat free
+43274	cheese, cream, low fat
+6183	soup, chicken broth, less/reduced sodium, ready to serve
+14202	beverages, coffee, brewed, espresso, restaurant-prepared, decaffeinated
+42148	candies, mars snackfood us, m&m's peanut butter chocolate candies
+14155	beverages, carbonated, tonic water
+27002	soup, wonton, chinese restaurant
+7908	luncheon meat, pork with ham, minced, canned, includes spam (hormel)
+9081	cranberry sauce, canned, sweetened
+8065	cereals ready-to-eat, kellogg, kellogg's rice krispies
+6971	sauce, worcestershire
+6176	sauce, oyster, ready-to-serve
+9273	pineapple juice, canned or bottled, unsweetened, without added ascorbic acid
+43570	cereals ready-to-eat, post, honey bunches of oats, honey roasted
+19163	chewing gum
+43060	chewing gum, sugarless
+16230	soymilk (all flavors), nonfat, with added calcium, vitamins a and d
+6172	soup, stock, chicken, home-prepared
+19049	snacks, m&m mars, combos snacks cheddar cheese pretzel
+6004	soup, bean with pork, canned, condensed
+16028	beans, kidney, all types, mature seeds, cooked, boiled, without salt
+19003	snacks, corn-based, extruded, chips, plain
+2027	spices, oregano, dried
+43479	alcoholic beverage, rice (sake)
+10123	pork, cured, bacon, unprepared
+19108	candies, jellybeans
+8011	cereals ready-to-eat, quaker, cap'n crunch with crunchberries
+14461	beverages, coca-cola, powerade, lemon-lime flavored, ready-to-drink
+11281	okra, frozen, cooked, boiled, drained, without salt
+8531	cereals ready-to-eat, kellogg, special k, fruit & yogurt
+6174	soup, stock, fish, home-prepared
+10084	pork, fresh, shoulder, (boston butt), blade (steaks), separable lean only, raw
+10946	pork, fresh, shoulder, (boston butt), blade (steaks), separable lean only, with added solution, raw
+10023	pork, fresh, loin, whole, separable lean and fat, cooked, roasted
+11669	seaweed, wakame, raw
+16168	soymilk, chocolate, with added calcium, vitamins a and d
+43260	beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted
+8089	cereals ready-to-eat, general mills, wheaties
+11888	tomato products, canned, puree, with salt added
+43137	vegetarian meatloaf or patties
+2020	spices, garlic powder
+18304	pie, banana cream, prepared from recipe
+19136	candies, hershey's skor toffee bar
+18192	cookies, shortbread, commercially prepared, plain
+4582	oil, canola
+14553	beverages, wine, non-alcoholic
+9277	plantains, yellow, raw
+2043	spices, turmeric, ground
+19814	snacks, pretzels, hard, plain, made with enriched flour, unsalted
+18027	bread, egg
+8038	cereals ready-to-eat, post, grape-nuts cereal
+8061	cereals ready-to-eat, post raisin bran cereal
+8030	cereals ready-to-eat, kellogg, kellogg's froot loops
+7025	frankfurter, turkey
+27049	sauce, tartar, ready-to-serve
+16424	soy sauce made from soy and wheat (shoyu), low sodium
+19014	snacks, fruit leather, rolls
+19013	snacks, fruit leather, pieces
+18190	cookies, peanut butter sandwich, regular
+6149	soup, chicken mushroom, canned, condensed
+43021	salad dressing, caesar, low calorie
+43382	cranberry juice, unsweetened
+4044	oil, soybean, salad or cooking
+19135	candies, mars snackfood us, milky way bar
+36012	restaurant, family style, fried mozzarella sticks
+9206	orange juice, raw (includes foods for usda's food distribution program)
+22906	chicken pot pie, frozen entree, prepared
+22961	hot pockets, meatballs & mozzarella stuffed sandwich, frozen
+1209	cheese, mexican, blend, reduced fat
+15036	fish, halibut, atlantic and pacific, raw
+18973	focaccia, italian flatbread, plain
+15167	mollusks, oyster, eastern, wild, raw
+6009	soup, beef noodle, canned, condensed
+19249	candies, hershey, reesesticks crispy wafers, peanut butter, milk chocolate
+43020	salad dressing, blue or roquefort cheese, low calorie
+19350	syrups, corn, light
+10871	pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted
+10879	pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted
+10883	pork, cured, ham with natural juices, whole, boneless, separable lean only, heated, roasted
+43476	tofu yogurt
+1215	cheese product, pasteurized process, american, reduced fat, fortified with vitamin d
+18351	rolls, hamburger or hotdog, mixed-grain
+42280	frankfurter, meat and poultry, low fat
+10049	pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, braised
+19127	candies, milk chocolate coated raisins
+22953	egg rolls, pork, refrigerated, heated
+19100	candies, fudge, chocolate, prepared-from-recipe
+25048	snacks, nutri-grain fruit and nut bar
+11101	brussels sprouts, frozen, cooked, boiled, drained, without salt
+8546	rice and wheat cereal bar
+22976	ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and light entrees
+19140	candies, mars snackfood us, m&m's peanut chocolate candies
+21487	fast foods, taco with chicken, lettuce and cheese, soft
+14192	beverages, cocoa mix, powder
+19142	candies, mounds candy bar
+11264	mushrooms, canned, drained solids
+6045	soup, onion, canned, condensed
+2025	spices, nutmeg, ground
+43589	cheese, swiss, low fat
+18245	danish pastry, cheese
+19106	candies, gumdrops, starch jelly pieces
+36403	restaurant, latino, empanadas, beef, prepared
+18088	cake, angelfood, dry mix, prepared
+42157	creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, fat-free
+8200	cereals, quaker, quaker multigrain oatmeal, dry
+18308	pie, cherry, commercially prepared
+2011	spices, cloves, ground
+14415	alcoholic beverage, liqueur, coffee with cream, 34 proof
+19151	candies, reese's pieces candy
+18191	cookies, raisin, soft-type
+18176	cookies, marshmallow, chocolate-coated (includes marshmallow pies)
+8380	cereals ready-to-eat, kellogg, kellogg's, raisin bran crunch
+11507	sweet potato, raw, unprepared (includes foods for usda's food distribution program)
+14350	strawberry-flavor beverage mix, powder
+11138	cauliflower, frozen, cooked, boiled, drained, without salt
+20089	wild rice, cooked
+15101	fish, snapper, mixed species, raw
+18171	cookies, fortune
+13368	beef, brisket, whole, separable lean only, trimmed to 0" fat, all grades, cooked, braised
+11952	radicchio, raw
+18015	biscuits, plain or buttermilk, refrigerated dough, higher fat, baked
+23631	beef, chuck, arm pot roast, separable lean only, trimmed to 1/8" fat, select, raw
+18335	pie crust, standard-type, frozen, ready-to-bake, enriched, baked
+36618	restaurant, chinese, general tso's chicken
+11974	grape leaves, raw
+16050	beans, white, mature seeds, cooked, boiled, without salt
+23616	beef, round, eye of round, roast, separable lean only, trimmed to 1/8" fat, choice, raw
+11540	tomato juice, canned, with salt added
+18217	crackers, matzo, plain
+1180	sour cream, fat free
+27051	sauce, cocktail, ready-to-serve
+17169	game meat, goat, cooked, roasted
+10173	pork, fresh, variety meats and by-products, feet, cooked, simmered
+22899	ravioli, cheese-filled, canned
+9123	grapefruit juice, white, canned or bottled, unsweetened
+21129	fast foods, hush puppies
+21485	fast food, pizza chain, 14" pizza, pepperoni topping, thin crust
+10075	pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, braised
+18175	cookies, ladyfingers, with lemon juice and rind
+18317	pie, egg custard, commercially prepared
+15164	mollusks, mussel, blue, raw
+15157	mollusks, clam, mixed species, raw
+19076	candies, caramels, chocolate-flavor roll
+13364	beef, composite of trimmed retail cuts, separable lean only, trimmed to 0" fat, all grades, cooked
+18023	bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs
+19159	candies, mars snackfood us, 3 musketeers bar
+19109	candies, kit kat wafer bar
+19026	snacks, granola bars, soft, coated, milk chocolate coating, peanut butter
+43405	cheese, swiss, low sodium
+23625	beef, top sirloin, steak, separable lean only, trimmed to 1/8" fat, choice, raw
+19041	snacks, pork skins, plain
+18373	leavening agents, cream of tartar
+7906	luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes spam, 25% less sodium
+21064	fast foods, burrito, with beans, cheese, and beef
+21020	fast foods, english muffin, with cheese and sausage
+16086	peas, split, mature seeds, cooked, boiled, without salt
+25053	snacks, granola bar, general mills nature valley, sweet&salty nut, peanut
+11044	mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt
+9253	pears, canned, water pack, solids and liquids
+19283	frozen novelties, ice type, pop
+18353	rolls, hard (includes kaiser)
+21024	fast foods, french toast sticks
+16110	soybeans, mature seeds, roasted, salted
+2026	spices, onion powder
+4543	oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed
+23090	beef, chuck for stew, separable lean and fat, all grades, cooked, braised
+6230	soup, clam chowder, new england, canned, prepared with equal volume low fat (2%) milk
+10078	pork, fresh, shoulder, arm picnic, separable lean only, cooked, braised
+10169	pork, cured, shoulder, arm picnic, separable lean only, roasted
+15033	fish, haddock, raw
+10080	pork, fresh, shoulder, (boston butt), blade (steaks), separable lean and fat, raw
+10953	pork, fresh, shoulder, (boston butt), blade (steaks), separable lean and fat,with added solution, raw
+14646	beverages, fruit flavored drink containing less than 3% fruit juice, with high vitamin c
+9048	blackberries, frozen, unsweetened
+19160	candies, mars snackfood us, twix caramel cookie bars
+10085	pork, fresh, shoulder, (boston butt), blade (steaks), separable lean only, cooked, braised
+2054	capers, canned
+11955	tomatoes, sun-dried
+21305	fast foods, griddle cake sandwich, egg, cheese, and sausage
+19038	snacks, popcorn, caramel-coated, with peanuts
+4706	dressing, honey mustard, fat-free
+20019	corn flour, masa, unenriched, white
+18283	muffins, oat bran
+21483	fast food, pizza chain, 14" pizza, sausage topping, thin crust
+6016	soup, cream of chicken, canned, condensed
+19184	puddings, chocolate, dry mix, instant
+10073	pork, fresh, shoulder, whole, separable lean only, cooked, roasted
+19087	candies, white chocolate
+18220	crackers, melba toast, plain
+8409	cereals ready-to-eat, malt-o-meal, frosted flakes
+19218	puddings, tapioca, ready-to-eat
+21224	pizza, cheese topping, regular crust, frozen, cooked
+19111	candies, nestle, baby ruth bar
+18200	cookies, oatmeal, commercially prepared, special dietary
+18097	cake, pudding-type, chocolate, dry mix
+19823	potato chips, without salt, reduced fat
+6402	soup, black bean, canned, prepared with equal volume water
+15152	crustaceans, shrimp, mixed species, canned
+18229	crackers, standard snack-type, regular
+10002	pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder), separable lean only, raw
+13348	beef, cured, corned beef, canned
+6050	soup, pea, split with ham, canned, chunky, ready-to-serve
+22908	beef, corned beef hash, with potato, canned
+11735	beets, canned, no salt added, solids and liquids
+9078	cranberries, raw
+9128	grapefruit juice, white, raw
+25036	snacks, granola bites, mixed flavors
+22905	beef stew, canned entree
+21022	fast foods, english muffin, with egg, cheese, and sausage
+18295	pancakes, buckwheat, dry mix, incomplete
+21007	fast foods, biscuit, with egg, cheese, and bacon
+18338	phyllo dough
+21482	fast food, pizza chain, 14" pizza, sausage topping, thick crust
+16109	soybeans, mature cooked, boiled, without salt
+15166	mollusks, octopus, common, raw
+27000	soup, egg drop, chinese restaurant
+9125	grapefruit juice, white, frozen concentrate, unsweetened, undiluted
+19173	gelatin desserts, dry mix, prepared with water
+15016	fish, cod, atlantic, cooked, dry heat
+43398	cheese, pasteurized process, cheddar or american, low sodium
+8012	cereals ready-to-eat, quaker, cap'n crunch's peanut butter crunch
+6023	soup, chicken with rice, canned, condensed
+43299	soybean, curd cheese
+22901	tortellini, pasta with cheese filling, fresh-refrigerated, as purchased
+1165	cheese, mexican, queso anejo
+18320	pie, lemon meringue, commercially prepared
+14130	carbonated beverage, cream soda
+4691	margarine, regular, 80% fat, composite, stick, with salt, with added vitamin d
+18963	garlic bread, frozen
+25026	popcorn, microwave, regular (butter) flavor, made with palm oil
+23567	beef, ground, 85% lean meat / 15% fat, raw (includes foods for usda's food distribution program)
+23572	beef, ground, 80% lean meat / 20% fat, raw
+23577	beef, ground, 75% lean meat / 25% fat, raw
+23562	beef, ground, 90% lean meat / 10% fat, raw
+23557	beef, ground, 95% lean meat / 5% fat, raw
+11590	waterchestnuts, chinese, canned, solids and liquids
+11303	peas, edible-podded, frozen, cooked, boiled, drained, without salt
+11391	potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil
+14034	alcoholic beverage, creme de menthe, 72 proof
+19114	ice creams, chocolate, light
+19265	ice creams, chocolate, light, no sugar added
+9267	pineapple, canned, water pack, solids and liquids
+9237	peaches, canned, water pack, solids and liquids
+4698	oil, industrial, canola, high oleic
+4701	oil, industrial, soy, fully hydrogenated
+4699	oil, industrial, soy, low linolenic
+4700	oil, industrial, soy, ultra low linolenic
+14639	beverages, rice milk, unsweetened
+5015	chicken, broilers or fryers, skin only, raw
+20125	pasta, whole-wheat, cooked (includes foods for usda's food distribution program)
+14649	beverages, tea, hibiscus, brewed
+14148	beverages, carbonated, cola, regular
+14224	beverages, coffee, instant, mocha, sweetened
+1292	milk, chocolate, fat free, with added vitamin a and vitamin d
+14627	beverages, energy drink, monster, fortified with vitamins c, b2, b3, b6, b12
+14154	beverages, energy drink, red bull
+1115	whey, sweet, dried
+14353	beverages, tea, instant, decaffeinated, unsweetened
+14376	beverages, tea, instant, lemon, diet
+14370	beverages, tea, instant, lemon, sweetened, powder
+14368	beverages, tea, instant, lemon, unsweetened
+8147	cereals ready-to-eat, post, shredded wheat, original big biscuit
+27052	dip, salsa con queso, cheese and salsa- medium
+7043	roast beef, deli style, prepackaged, sliced
+7954	sausage, breakfast sausage, beef, pre-cooked, unprepared
+11149	chayote, fruit, raw
+11116	cabbage, chinese (pak-choi), raw

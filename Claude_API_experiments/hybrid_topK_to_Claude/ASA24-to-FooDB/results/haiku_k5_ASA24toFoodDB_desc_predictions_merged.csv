@@ -1,0 +1,171 @@
+input_desc,match_claude,input_id,target_desc,target_id,is_match
+"salt, table, iodized","salt, table, iodized",2047,"salt, table, iodized",,1
+"garlic, raw","garlic, raw",11215,"garlic, raw",,1
+"ginger root, raw","ginger root, raw",11216,"ginger root, raw",,1
+"celery, raw","celery, raw",11143,"celery, raw",,1
+"cassava, raw","cassava, raw",11134,"cassava, raw",,1
+"cookies, animal crackers (includes arrowroot, tea biscuits)","cookies, animal crackers (includes arrowroot, tea biscuits)",28399,"cookies, animal crackers (includes arrowroot, tea biscuits)",,1
+"broccoli, raw","broccoli, raw",11090,"broccoli, raw",,1
+"peas, green, raw","peas, green, raw",11304,"peas, green, raw",,1
+"pancakes, whole wheat, dry mix, incomplete","pancakes, whole-wheat, dry mix, incomplete",28324,"pancakes, whole-wheat, dry mix, incomplete",,1
+"pumpkin, raw","pumpkin, raw",11422,"pumpkin, raw",,1
+"chard, swiss, raw","chard, swiss, raw",11147,"chard, swiss, raw",,1
+"beverages, almond milk, unsweetened, shelf stable","beverages, almond milk, unsweetened, shelf stable",14091,"beverages, almond milk, unsweetened, shelf stable",,1
+honey,honey,19296,honey,,1
+"cabbage, red, raw","cabbage, red, raw",11112,"cabbage, red, raw",,1
+"rhubarb, raw","rhubarb, raw",9307,"rhubarb, raw",,1
+"spinach, raw","spinach, raw",11457,"spinach, raw",,1
+"bread, multi-grain (includes whole-grain)","bread, multi-grain (includes whole-grain)",28397,"bread, multi-grain (includes whole-grain)",,1
+"watermelon, raw","watermelon, raw",9326,"watermelon, raw",,1
+"mangos, raw","mangos, raw",9176,"mangos, raw",,1
+"pomegranates, raw","pomegranates, raw",9286,"pomegranates, raw",,1
+"carrot juice, canned","carrot juice, canned",11655,"carrot juice, canned",,1
+"chives, raw","chives, raw",11156,"chives, raw",,1
+"alfalfa seeds, sprouted, raw","alfalfa sprouts, raw",11001,"alfalfa seeds, sprouted, raw",,0
+"brussels sprouts, raw","brussels sprouts, raw",11098,"brussels sprouts, raw",,1
+"lemon peel, raw","lemon peel, raw",9156,"lemon peel, raw",,1
+"figs, raw","figs, raw",9089,"figs, raw",,1
+"marmalade, orange","marmalade, orange",19303,"marmalade, orange",,1
+potato flour,potato flour,11413,potato flour,,1
+"watercress, raw","watercress, raw",11591,"watercress, raw",,1
+"kumquats, raw","kumquats, raw",9149,"kumquats, raw",,1
+"beverages, coconut milk, sweetened, fortified with calcium, vitamins a, b12, d2","soymilk, chocolate and other flavors, light, with added calcium, vitamins a and d",14171,"beverages, coconut milk, sweetened, fortified with calcium, vitamins a, b12, d2",,0
+"chicken breast, deli, rotisserie seasoned, sliced, prepackaged","chicken, breast, boiled, sliced",7961,"chicken, breast, boiled, sliced",,1
+"chicken, broiler, rotisserie, bbq, drumstick, meat only","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5319,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"chicken, broiler, rotisserie, bbq, drumstick, meat and skin","chicken, flesh and skin, grilled",5359,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,0
+"chicken, broiler, rotisserie, bbq, breast, meat only","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5000,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"cheese, cheddar, reduced fat (includes foods for usda's food distribution program)","usda commodity, cheese, cheddar, reduced fat",1260,"cheese, cheddar (includes foods for usda's food distribution program)",,0
+"chicken, broiler, rotisserie, bbq, wing, meat and skin","chicken, flesh and skin, grilled",5362,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,0
+"chicken, broiler or fryers, breast, skinless, boneless, meat only, raw","chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",5062,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,0
+"turkey, whole, meat only, with added solution, roasted","turkey, whole, meat only, raw",5705,"turkey, whole, meat only, raw",,1
+"turkey, whole, meat only, cooked, roasted","turkey, whole, meat only, raw",5168,"turkey, whole, meat only, raw",,1
+"bread, naan, whole wheat, commercially prepared, refrigerated","bread, whole-wheat, commercially prepared",28287,"bread, whole-wheat, commercially prepared, toasted",,0
+"chicken, broiler, rotisserie, bbq, thigh, meat only","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5334,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"orange juice, frozen concentrate, unsweetened, undiluted, with added calcium","orange juice, frozen concentrate, unsweetened, undiluted",9213,"orange juice, frozen concentrate, unsweetened, diluted with 3 volume water",,0
+"duck, domesticated, meat and skin, cooked, roasted","duck, domesticated, meat and skin, raw",5140,"duck, domesticated, meat and skin, raw",,1
+"restaurant, chinese, vegetable chow mein, without meat or noodles","restaurant, chinese, vegetable chow mein, without meat or noodles",36624,"restaurant, chinese, fried rice, without meat",,0
+"potatoes, mashed, ready-to-eat","fast foods, potato, mashed",31036,"potatoes, hashed brown, home-prepared",,0
+"cabbage, kimchi",cabbage,11118,"cabbage, cooked",,0
+"guava nectar, with sucralose, canned","guava nectar, canned",9519,"guava nectar, canned",,1
+"cake, snack cakes, not chocolate, with icing or filling, low-fat, with added fiber","cake, snack cakes, creme-filled, sponge",28297,"cake, snack cakes, cupcakes, chocolate, with frosting, low-fat",,0
+"blueberries, dried, sweetened","blueberries, frozen, sweetened",9163,"blueberries, frozen, sweetened",,1
+"pizza, cheese topping, thin crust, frozen, cooked","pizza, cheese topping, regular crust, frozen, cooked",21505,"pizza, cheese topping, regular crust, frozen, cooked",,1
+"strawberries, frozen, unsweetened (includes foods for usda's food distribution program)","strawberries, frozen, unsweetened",9318,"strawberries, frozen, unsweetened",,1
+"bread, wheat, sprouted","bread, wheat, sprouted",28316,"bread, wheat with rye",,0
+"fast foods, fried chicken, wing, meat and skin and breading","fast foods, chicken fillet sandwich, plain",21472,"chicken, wing, flesh and skin, raw",,0
+"chicken patty, frozen, cooked","chicken, breast, boiled, sliced",5324,"chicken pot pie, frozen entree, prepared",,0
+"crackers, cheese, whole grain","crackers, whole-wheat",28303,"crackers, cheese, reduced fat",,0
+"fast foods, chicken tenders","fast foods, chicken fillet sandwich, plain",21401,"fast foods, chicken fillet sandwich, with cheese",,0
+"turkey breast, sliced, prepackaged","turkey breast, low salt, prepackaged or deli, luncheon meat",7081,"turkey, breast, boiled/smoked, sliced",,0
+"fast foods, fried chicken, drumstick, meat and skin with breading","fast foods, shrimp, breaded and fried",21470,"chicken, drumstick, flesh and skin, raw",,0
+"turkey, ground, cooked","turkey, flesh only, raw",5306,"turkey sausage, fresh, cooked",,0
+"beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, all grades, raw","beef, round, eye of round roast, separable lean only, trimmed to 0"" fat, all grades, raw",23360,"beef, round, eye of round, roast, separable lean only, trimmed to 1/8"" fat, all grades, raw",,0
+"restaurant, chinese, chicken and vegetables","restaurant, chinese, chicken chow mein",36626,"restaurant, chinese, chicken chow mein",,1
+"jams, preserves, marmalade, reduced sugar",jams and preserves,43344,"jams and preserves, apricot",,0
+"fast food, biscuit","fast foods, biscuit, with egg",21142,"fast foods, biscuit, with ham",,0
+"tortillas, ready-to-bake or -fry, whole wheat","tortillas, ready-to-bake or -fry, whole wheat",28295,"tortillas, ready-to-bake or -fry, flour, shelf stable",,0
+"cereals ready-to-eat, nature's path, organic flax plus flakes","cereals ready-to-eat, nature's path, organic flax plus flakes",8656,"cereals ready-to-eat, nature's path, optimum",,0
+"bacon, turkey, microwaved","turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwaved",7973,"pork, cured, bacon, cooked, microwaved",,0
+"cookies, sugar wafer, chocolate-covered","cookies, sugar wafers with creme filling, regular",28311,"cookies, sugar wafers with creme filling, regular",,1
+"restaurant, family style, coleslaw","restaurant, family style, coleslaw",36035,"restaurant, family style, sirloin steak",,0
+"sauce, enchilada, red, mild, ready to serve","sauce, salsa, ready-to-serve",27063,"sauce, salsa, verde, ready-to-serve",,0
+"rolls, dinner, sweet","rolls, dinner, wheat",28348,"rolls, dinner, rye",,0
+"soup, beef barley, ready to serve","soup, beef with vegetables and barley, canned, condensed, single brand",27062,"soup, beef broth or bouillon canned, ready-to-serve",,0
+"restaurant, chinese, orange chicken","restaurant, chinese, sweet and sour chicken",36629,"restaurant, chinese, lemon chicken",,0
+"beverages, chocolate powder, no sugar added","cocoa mix, no sugar added, powder",14063,"beverage, instant breakfast powder, chocolate, not reconstituted",,0
+"snacks, potato chips, lightly salted","snacks, potato chips, plain, salted",25064,"snacks, potato chips, plain, unsalted",,0
+"lamb, ground, cooked, broiled","lamb, leg, defatted, raw",17225,"lambs quarters, cooked, boiled, drained, with salt",,0
+"cookies, coconut macaroon","archway home style cookies, coconut macaroon",28309,"archway home style cookies, coconut macaroon",,1
+"jellies, no sugar (with sodium saccharin), any flavors","jams and preserves, dietetic (with sodium saccharin), any flavor",43027,"jams and preserves, dietetic (with sodium saccharin), any flavor",,1
+"peppers, hot pickled, canned","peppers, chili, green, canned",31034,"peppers, chili, green, canned",,1
+"beef, round, top round roast, boneless, separable lean and fat, trimmed to 0"" fat, all grades, cooked, roasted","beef, round, top round roast, separable lean and fat, trimmed to 0"" fat, all grades, cooked, roasted",23348,"beef, round, tip round, roast, separable lean and fat, trimmed to 0"" fat, all grades, cooked, roasted",,0
+"salad dressing, mayonnaise-type, light","salad dressing, mayonnaise-like, fat-free",4709,"salad dressing, mayonnaise, light",,0
+"frankfurter, meat and poultry, unheated","frankfurter, meat, unheated",7962,"frankfurter, meat, heated",,0
+"bread, cinnamon","bread, wheat",28315,"bread, oat bran",,0
+"canadian bacon, cooked, pan-fried","pork, cured, bacon, cooked, pan-fried",10998,"pork, cured, bacon, cooked, pan-fried",,1
+"cookies, brownies, commercially prepared, reduced fat, with added fiber","cookies, brownies, commercially prepared",28298,"cookies, brownies, commercially prepared",,1
+"mayonnaise, reduced fat, with olive oil","mayonnaise, reduced-calorie or diet, cholesterol-free",4708,"mayonnaise, reduced-calorie or diet, cholesterol-free",,1
+"kielbasa, fully cooked, grilled","kielbasa, polish, turkey and beef, smoked",7968,"kielbasa, polish, turkey and beef, smoked",,1
+"beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0"" fat, all grades, raw","beef, short loin, top loin, steak, separable lean only, trimmed to 1/8"" fat, all grades, raw",23369,"beef, loin, top sirloin cap steak, boneless, separable lean and fat, trimmed to 1/8"" fat, all grades, raw",,0
+"bread, french or vienna, whole wheat",whole wheat bread,28318,"bread, french or vienna (includes sourdough)",,0
+"game meat, bison, separable lean only, cooked, roasted","game meat, deer, cooked, roasted",17157,"game meat, deer, loin, separable lean only, 1"" steak, cooked, broiled",,0
+"fast foods, submarine sandwich, turkey breast on white bread with lettuce and tomato","fast foods, submarine sandwich, with turkey breast on white bread with lettuce and tomato",21155,"fast foods, submarine sandwich, with roast beef",,0
+"macaroni or noodles with cheese, microwaveable, unprepared","macaroni and cheese, canned, microwavable",32016,"macaroni and cheese dinner with dry sauce mix, boxed, uncooked",,0
+"sweet potatoes, french fried, frozen as packaged, salt added in processing","potatoes, french fried, all types, salt added in processing, frozen, unprepared",31023,"potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, as purchased",,0
+"turkey, all classes, light meat, cooked, roasted","turkey, whole, meat only, raw",5186,"turkey, whole, meat only, raw",,1
+"chicken, broilers or fryers, wing, meat and skin, cooked, roasted","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5103,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"chicken, broilers or fryers, thigh, meat and skin, cooked, roasted","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5094,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"chicken, broiler, rotisserie, bbq, thigh, meat and skin","chicken, flesh and skin, grilled",5361,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,0
+"chicken, broiler, rotisserie, bbq, breast, meat and skin","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5358,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5069,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"chicken, broilers or fryers, thigh, meat only, cooked, roasted","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5098,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted","chicken, drumstick, flesh and skin, raw",5073,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,0
+"chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised","chicken, drumstick, flesh and skin, raw",5676,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,0
+"syrup, nestle, chocolate","syrups, chocolate, fudge-type",19924,"syrups, chocolate, fudge-type",,1
+"chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5672,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"chicken, broilers or fryers, drumstick, meat only, cooked, braised","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5671,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"beverages, tropical punch, ready-to-drink","fruit punch drink, frozen concentrate, prepared with water",14276,"beverages, tea, hibiscus, brewed",,0
+"chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5677,"chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",,1
+"beverages, aloe vera juice drink, fortified with vitamin c","beverages, fruit juice drink, reduced sugar, with vitamin e added",14216,"beverages, fruit juice drink, reduced sugar, with vitamin e added",,1
+"chicken, broilers or fryers, thigh, meat and skin, raw","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",5091,"chicken, breast, flesh and skin, raw",,0
+"bologna, meat and poultry","bologna, chicken, pork, beef",7971,"bologna, beef, low fat",,0
+"fast foods, submarine sandwich, sweet onion chicken teriyaki on white bread with lettuce, tomato and sweet onion sauce","fast foods, submarine sandwich, with cold cuts",21151,"fast foods, submarine sandwich, with cold cuts",,1
+"lamb, rib, separable lean only, trimmed to 1/4"" fat, choice, cooked, broiled","beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/8""fat, choice, cooked, broiled",17033,"beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/8""fat, choice, cooked, broiled",,1
+"turkey, whole, neck, meat only, cooked, simmered","turkey, whole, meat only, raw",5180,"turkey, whole, meat only, raw",,1
+"fast foods, fried chicken, breast, meat only, skin and breading removed","chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",21464,"chicken, flesh and skin, battered, deepfried",,0
+"sausage, egg and cheese breakfast biscuit","fast foods, biscuit, with egg and sausage",32032,"fast foods, biscuit, with egg and sausage",21005,1
+"taquitos, frozen, beef and cheese, oven-heated","fast foods, taco with beef, cheese and lettuce, hard shell",32007,"burrito, bean and cheese, frozen",22918,0
+"beverages, coconut water, ready-to-drink, unsweetened","nuts, coconut water (liquid from coconuts)",14090,"nuts, coconut water (liquid from coconuts)",12119,1
+"reduced sodium: ham, sliced, pre-packaged, deli meat (96%fat free, water added)","ham, sliced, prepackaged (96% fat free, water added)",907028,"ham, sliced, prepackaged (96% fat free, water added)",7028,1
+"beverages, protein powder whey based","protein supplement, milk based, muscle milk, powder",14066,"whey, sweet, dried",514,0
+"beverages, the coca-cola company, nos energy drink, original, grape, loaded cherry, charged citrus, fortified with vitamins b6 and b12","energy drink, vault, citrus flavor",14030,"energy drink, red bull, sugar free, with added caffeine, niacin, pantothenic acid, vitamins b6 and b12",14156,0
+"alcoholic beverage, malt beer, hard lemonade","alcoholic beverage, beer, regular, all",14239,"alcoholic beverage, beer, regular, all",14003,1
+"candies, m&m mars pretzel chocolate candies","candies, mars snackfood us, m&m's peanut chocolate candies",19917,"candies, mars snackfood us, m&m's milk chocolate candies",19141,0
+"cookie, with peanut butter filling, chocolate-coated","cookies, peanut butter, commercially prepared, soft-type",28290,"cookies, peanut butter, refrigerated dough",18187,0
+"beverages, abbott, ensure, nutritional shake, ready-to-drink","ensure plus, liquid nutrition",14062,"ensure plus, liquid nutrition",43528,1
+"lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4"" fat, choice, cooked, roasted","lamb, leg, defatted, raw",17014,"lamb, leg with fat, raw",,0
+"sweetener, herbal extract powder from stevia leaf","sweeteners, tabletop, sucralose, splenda packets",19918,"sweeteners, tabletop, fructose, dry, powder",43216,0
+"beverages, cytosport, muscle milk, ready-to-drink","protein supplement, milk based, muscle milk, powder",14036,"protein supplement, milk based, muscle milk light, powder",1224,0
+vitamin d as ingredient,"milk, whole, 3.25% milkfat, with added vitamin d",999328,,,0
+"beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, all grades, raw","beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, all grades, raw",23357,"beef, round, tip round, roast, separable lean only, trimmed to 0"" fat, all grades, raw",23651,0
+"beverages, abbott, eas whey protein powder","protein supplement, milk based, muscle milk, powder",14033,"protein supplement, milk based, muscle milk, powder",1223,1
+"beverages, nestle, boost plus, nutritional drink, ready-to-drink",nutritional drink,14041,"meal supplement drink, nestle, supligen, canned, peanut flavor",14632,0
+"beverages, protein powder soy based",soy protein isolate,14067,"soy, milk powder",959,0
+"beverages, slimfast, meal replacement,  high protein shake, ready-to-drink, 3-2-1 plan","shake, fast food, chocolate",14044,"ensure plus, liquid nutrition",43528,0
+"beverages, whey protein powder isolate",whey,14058,"chocolate-flavored drink, whey and milk based",43369,0
+"beverages, yellow green colored citrus soft drink with caffeine","carbonated beverage, lemon-lime soda, contains caffeine",14079,"carbonated beverage, lemon-lime soda, contains caffeine",14144,1
+"bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca","bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca",28337,"bread, rice bran",18059,0
+"bread, roll, mexican, bollilo","bread, roll, mexican, bollilo",28288,"bread, white, roll",1131,0
+"candies, toblerone, milk chocolate with honey and almond nougat","candies, milk chocolate, with almonds",19001,"candies, milk chocolate, with almonds",19132,1
+"cereals ready-to-eat, nature's path, organic flax plus, pumpkin granola","cereals ready-to-eat, nature's path, organic flax plus, pumpkin granola",8571,"cereals ready-to-eat, nature's path, optimum",8502,0
+"cookie, butter or sugar, with chocolate icing or filling","cookies, chocolate chip, prepared from recipe, made with butter",28293,"cookies, chocolate sandwich, with creme filling, regular, chocolate-coated",18167,0
+"cookie, chocolate, with icing or coating","cookies, chocolate wafers",28294,"cookies, chocolate sandwich, with creme filling, regular, chocolate-coated",18167,0
+"crackers, multigrain","crackers, saltines, whole wheat (includes multi-grain)",28292,"crackers, whole-wheat",18235,0
+"crackers, water biscuits","crackers, crispbread, rye",28327,"crackers, wheat, low salt",18428,0
+"dip, bean, original flavor","dip, cheese with chili peppers, ready-to-serve",27065,"soup, black bean, canned, condensed",6002,0
+"fast foods, breadstick, soft, prepared with garlic and parmesan cheese","fast foods, taco with chicken, lettuce and cheese, soft",21520,"garlic bread, frozen",18963,0
+"fast foods, breakfast burrito, with egg, cheese, and sausage","fast foods, burrito, with egg, cheese, and sausage",21519,"fast foods, bagel, with egg, sausage patty, cheese, and condiments",21410,0
+"fast foods, chicken, breaded and fried, boneless pieces, plain","fast foods, chicken fillet sandwich, plain",21229,"chicken, flesh and skin, deepfried",,0
+"fast foods, fried chicken, breast, meat and skin and breading","fast foods, fried chicken, breast, meat and skin and breading",21469,"chicken, flesh and skin, deepfried",,0
+"fast foods, fried chicken, drumstick, meat only, skin and breading removed","chicken, flesh only, raw",21465,"chicken, flesh and skin, deepfried",,0
+"fast foods, fried chicken, thigh, meat and skin and breading","fast foods, chicken fillet sandwich, plain",21471,"chicken, flesh and skin, deepfried",,0
+"fast foods, fried chicken, thigh, meat only, skin and breading removed","fast foods, salad, vegetable, tossed, without dressing, with chicken",21466,"chicken, flesh and skin, battered, deepfried",,0
+"ice cream bar, stick or nugget, with crunch coating","ice cream, bar or stick, chocolate covered",1264,"ice cream, bar or stick, chocolate covered",1237,1
+"jams, preserves, marmalades, sweetened with fruit juice",jams and preserves,19920,jams and preserves,19297,1
+"lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4"" fat, choice, cooked","beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8"" fat, choice, cooked",17002,"lambsquarters, cooked, boiled, drained, without salt",11245,0
+"lamb, loin, separable lean only, trimmed to 1/4"" fat, choice, cooked, broiled","beef, tenderloin, steak, separable lean only, trimmed to 1/8"" fat, choice, cooked, broiled",17027,"lamb, loin, raw",,0
+"lamb, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4"" fat, choice, cooked, roasted","lamb, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4"" fat, choice, cooked, roasted",17042,"lamb, shoulder, raw",,0
+"mango, dried, sweetened",mango,9178,mango,600,1
+"pizza rolls, frozen, unprepared","pizza napolitana, frozen",32012,"pizza, frozen, average values",500,0
+"potsticker or wonton, pork and vegetable, frozen, unprepared","peas and onions, frozen, unprepared",32013,"dumplings, average values",1003,0
+"reduced sodium: chicken breast, deli, rotisserie seasoned, sliced, prepackaged","soup, chicken broth, low sodium, canned",907961,"turkey breast, low salt, prepackaged or deli, luncheon meat",7046,0
+"rice and vermicelli mix, rice pilaf flavor, unprepared","rice, parboiled, raw",32002,"rice, parboiled, raw",223,1
+rice crackers,"rice cake, cracker (include hain mini rice cakes)",25071,"rice cake, cracker (include hain mini rice cakes)",42204,1
+"sauce, horseradish","horseradish, prepared",27066,horseradish,115,0
+"sauce, peanut, made from peanut butter, water, soy sauce","peanut, butter",27059,soy sauce,950,0
+"sausage, pork, chorizo, link or ground, cooked, pan-fried","sausage, italian, pork, cooked",100173,"smoked link sausage, pork",7074,0
+"schiff,tiger's milk bar","chocolate, milk",19000,"snacks, clif bar, mixed flavors",25051,0
+"syrup, fruit flavored","syrup, fruit flavored",19030,syrup,,0
+"turkey from whole, light meat, meat only, with added solution, cooked, roasted","turkey, breast, boiled/smoked, sliced",5697,"turkey, breast, boiled/smoked, sliced",,1
+"turkey ham, sliced, extra lean, prepackaged or deli-sliced","pork, cured, ham, extra lean (approximately 4% fat), canned, unheated",42128,"turkey breast, low salt, prepackaged or deli, luncheon meat",7046,0
+"yellow rice with seasoning, dry packet mix, unprepared","rice, white, long-grain, parboiled, unenriched, dry",32011,"rice, white, long-grain, precooked or instant, enriched, prepared",20049,0

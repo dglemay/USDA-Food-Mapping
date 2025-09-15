@@ -1,0 +1,1 @@
+python3 -u semantic_topK_accuracy.py ../data/processed/input_desc_ASA24toFooDB.txt ../data/processed/target_desc_FooDB.txt ../data/processed/groundtruth_ASA24toFoodB.txt > ../results/output_ASA24toFoodB_topK_accuracy.txt

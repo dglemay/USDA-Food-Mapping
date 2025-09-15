@@ -1,0 +1,54 @@
+cheese, cheddar (includes foods for usda's food distribution program)	cheese, cheddar
+yogurt, plain, skim milk	yogurt, plain, skim milk, 13 grams protein per 8 ounce
+egg, white, raw, fresh	egg, white, raw, fresh
+cream, sour, cultured	cream, sour, cultured
+milk, buttermilk, dried	milk, buttermilk, dried
+cheese product, pasteurized process, american, vitamin d fortified	cheese product, pasteurized process, american, vitamin d fortified
+butter, salted	butter, salted
+yogurt, plain, low fat	yogurt, plain, low fat, 12 grams protein per 8 ounce
+cheese, monterey	cheese, monterey
+ice cream, bar or stick, chocolate covered	ice cream, bar or stick, chocolate covered
+yogurt, plain, whole milk	yogurt, plain, whole milk, 8 grams protein per 8 ounce
+cream, fluid, heavy whipping	cream, fluid, heavy whipping
+cheese, parmesan, grated	cheese, parmesan, grated
+milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d	milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d
+cream, fluid, half and half	cream, fluid, half and half
+sour cream, light	sour cream, light
+milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)	milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)
+cream substitute, powdered	cream substitute, powdered
+spices, chili powder	spices, chili powder
+cheese, cream	cheese, cream
+cheese, blue	cheese, blue
+cheese, fresh, queso fresco	cheese, fresh, queso fresco
+cream, whipped, cream topping, pressurized	cream, whipped, cream topping, pressurized
+milk, whole, 3.25% milkfat, with added vitamin d	milk, whole, 3.25% milkfat, with added vitamin d
+cheese, colby	cheese, colby
+cheese, feta	cheese, feta
+egg, whole, dried	egg, whole, dried
+milk, dry, nonfat, regular, without added vitamin a and vitamin d	milk, dry, nonfat, regular, without added vitamin a and vitamin d
+eggnog	eggnog
+cheese, cottage, lowfat, 2% milkfat	cheese, cottage, lowfat, 2% milkfat
+cheese spread, pasteurized process, american	cheese spread, pasteurized process, american
+cheese, gouda	cheese, gouda
+cheese, swiss	cheese, swiss
+protein supplement, milk based, muscle milk light, powder	protein supplement, milk based, muscle milk light, powder
+cheese, brick	cheese, brick
+milk, chocolate, fluid, commercial, reduced fat, with added vitamin a and vitamin d	milk, chocolate, fluid, commercial, reduced fat, with added vitamin a and vitamin d
+cheese, pasteurized process, american, without added vitamin d	cheese, pasteurized process, american, without added vitamin d
+cheese, ricotta, part skim milk	cheese, ricotta, part skim milk
+cheese, gruyere	cheese, gruyere
+cheese, cottage, nonfat, uncreamed, dry, large or small curd	cheese, cottage, nonfat, uncreamed, dry, large or small curd
+cream substitute, liquid, with hydrogenated vegetable oil and soy protein	cream substitute, liquid, with hydrogenated vegetable oil and soy protein
+cheese, brie	cheese, brie
+cheese, muenster	cheese, muenster
+cheese, cottage, creamed, large or small curd	cheese, cottage, creamed, large or small curd
+milk, dry, nonfat, regular, with added vitamin a and vitamin d	milk, dry, nonfat, regular, with added vitamin a and vitamin d
+cream, fluid, light (coffee cream or table cream)	cream, fluid, light (coffee cream or table cream)
+dessert topping, semi solid, frozen	dessert topping, semi solid, frozen
+cheese, mexican, queso asadero	cheese, mexican, queso asadero
+cheese, goat, semisoft type	cheese, goat, semisoft type
+milk, chocolate, lowfat, with added vitamin a and vitamin d	milk, chocolate, fluid, commercial, lowfat, with added vitamin a and vitamin d
+milk, canned, condensed, sweetened	milk, canned, condensed, sweetened
+butter oil, anhydrous	butter oil, anhydrous
+spices, celery seed	spices, celery seed
+milk, buttermilk, fluid, cultured, lowfat	milk, buttermilk, fluid, cultured, lowfat

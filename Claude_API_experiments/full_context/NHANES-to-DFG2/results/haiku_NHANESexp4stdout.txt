@@ -1,0 +1,35 @@
+Loading dataframes
+
+Loading input file
+Loading target file
+Loading truth file
+Number of unique inputs 1304
+Number of unique targets 256
+Number of unique input items in ground truth table 1304
+Number of perfect matches of food text descriptions: 1 or 0.07668711656441718%
+Dataframes loaded
+
+Length of ground truth table 1304
+Length of ground truth table 1304
+Ground truth number of 0s (nones): 611
+Ground truth number of 1s (match exists): 693
+
+Length of claude table 1304
+claude number of predicted 0s (none) 624
+max POSSIBLE accuracy IF every match WAS correct 0.5214723926380368
+
+If this next part is 0, we did not hallucinate any inputs
+Number of claude inputs not in ground truth: 0
+
+Check that every output from Claude actually existed in the target database
+
+If this next part is 0, we did not hallucinate any responses not in target database
+Number of claude outputs not in target database: 0
+
+Percent accuracy from first 100 matches: 58
+Percent accuracy (whole dataset) 48.466257668711656
+
+merged_df_label_0_only number of rows:  611
+Percent accuracy when only checking label == 0 ('None' is the valid match): 55.15548281505729
+merged_df_label_1_only number of rows:  693
+Percent accuracy when only checking label == 1 (a valid match does exist): 42.56854256854257

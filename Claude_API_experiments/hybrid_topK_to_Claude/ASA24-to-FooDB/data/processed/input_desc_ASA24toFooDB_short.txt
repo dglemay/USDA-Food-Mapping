@@ -1,0 +1,6 @@
+input_id	input_desc
+2047	salt, table, iodized
+11215	garlic, raw
+11216	ginger root, raw
+11143	celery, raw
+11134	cassava, raw

@@ -1,0 +1,1318 @@
+ingred_desc,ingred_code,simple_name,label
+"Butter, salted",1001,Unsalted butter,1
+"Cheese, cheddar",1009,Sharp Chedder Cheese,1
+"Cream, fluid, half and half",1049,half and half,1
+"Cream, sour, cultured",1056,Sour cream,1
+"Milk, whole, 3.25% milkfat, with added vitamin D",1077,Whole milk,1
+"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",1079,Whole milk,1
+"Egg, whole, raw, fresh",1123,Whole brown egg,1
+"Egg, yolk, raw, fresh",1125,Brown egg yolk,1
+"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",5062,Chicken breast,1
+"Soup, chicken broth, ready-to-serve",6194,Low sodium chicken broth,1
+"Garlic, raw",11215,Garlic,1
+"Mushrooms, white, raw",11260,Steamed whole white mushrooms,1
+"Mushrooms, canned, drained solids",11264,Steamed whole white mushrooms,1
+"Onions, raw",11282,Onion,1
+"Peppers, sweet, green, raw",11333,Steamed whole green bell pepper w/o seed,1
+"Tomatoes, red, ripe, raw, year round average",11529,Whole Green house (large) tomato,1
+"Tomatoes, red, ripe, canned, packed in tomato juice",11531,Muir's diced tomatoes,1
+"Seaweed, wakame, raw",11669,Roasted seaweed,1
+"Peppers, jalapeno, raw",11979,Jalapeno,1
+"Beverages, coffee, brewed, prepared with tap water",14209,brewed coffee,1
+"Refried beans, canned, traditional style",16103,Refried Beans,1
+"Soy flour, defatted",16117,Soy flour,1
+"Cocoa, dry powder, unsweetened",19165,Cocoa powder,1
+"Sugars, granulated",19335,Table sugar,1
+"Barley, pearled, raw",20005,Whole grain pearl barley,1
+Cornstarch,20027,Corn Starch,1
+"Rice, white, long-grain, regular, raw, enriched",20044,Enriched long white rice (Mahatma),1
+"Wheat flour, white, all-purpose, enriched, bleached",20081,All purpose flour,1
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, choice, raw",23625,Beef round tip steak,1
+"Celery, raw",11143,Steamed Celery stalk,1
+"Coriander (cilantro) leaves, raw",11165,Cilantro,1
+"Cucumber, with peel, raw",11205,Whole English cucumber,1
+"Tomato products, canned, paste, without salt added",11546,Hunt's Tomato paste,1
+"Beverages, carbonated, cola, regular",14148,Coca cola,1
+"Rice, white, long-grain, regular, enriched, cooked",20045,Enriched long white rice (Mahatma),1
+"Wheat bran, crude",20077,Wheat bran cereal,1
+"Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",23563,Beef round tip steak,1
+"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",23568,Beef round tip steak,1
+"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",23573,Beef round tip steak,1
+"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",23578,Beef round tip steak,1
+"Egg, white, raw, fresh",1124,Brown egg white,1
+"Cheese product, pasteurized process, American, vitamin D fortified",1252,American Cheese,1
+"Turkey, Ground, cooked",5306,ground turkey,1
+"Cabbage, raw",11109,Purple cabbage,1
+"Tomato products, canned, sauce",11549,Hunt's Tomato sauce,1
+"Beef, top sirloin, steak, separable lean and fat, trimmed to 0"" fat, all grades, cooked, broiled",13451,Beef round tip steak,1
+"Beef, top sirloin, steak, separable lean only, trimmed to 0"" fat, all grades, cooked, broiled",13454,Beef round tip steak,1
+"Beef, round, top round steak, boneless, separable lean only, trimmed to 0"" fat, all grades, cooked, grilled",13491,Beef round tip steak,1
+"Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0"" fat, all grades, cooked, grilled",13959,Beef round tip steak,1
+"Beverages, carbonated, SPRITE, lemon-lime, without caffeine",14145,Sprite,1
+"Beverages, coffee, instant, decaffeinated, powder",14218,brewed coffee,1
+"Beans, black, mature seeds, cooked, boiled, without salt",16015,Canned black beans (S&W),1
+"Beans, pinto, mature seeds, cooked, boiled, without salt",16043,Canned low sodium pinto bean,1
+"Sugars, brown",19334,Table sugar,1
+"Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)",19905,Chocolate,1
+"Beef, short loin, top loin, steak, separable lean only, trimmed to 1/8"" fat, all grades, cooked, broiled",23606,Beef round tip steak,1
+"Cheese spread, pasteurized process, American",1048,American Cheese,1
+"Lettuce, iceberg (includes crisphead types), raw",11252,Steamed Iceberg lettuce,1
+"Chicken, broiler, rotisserie, BBQ, breast, meat only",5000,Chicken breast,1
+"Orange juice, chilled, includes from concentrate",9209,Pulp free orange juice,1
+"Mung beans, mature seeds, sprouted, raw",11043,Bean Sprouts,1
+"Onions, young green, tops only",11292,Green onion,1
+"Nuts, almonds",12061,roasted almonds,1
+"Nuts, walnuts, english",12155,Walnuts,1
+"Beverages, carbonated, cola, without caffeine",14147,Coca cola,1
+"Beverages, coffee, brewed, prepared with tap water, decaffeinated",14201,brewed coffee,1
+"Beverages, tea, black, brewed, prepared with tap water",14355,Black tea,1
+"Cornmeal, degermed, enriched, yellow",20022,Cornmeal,1
+"Cheese, mozzarella, low moisture, part-skim",1029,Low Moisture part Skim Mozarella cheese,1
+"Cheese product, pasteurized process, American, reduced fat, fortified with vitamin D",1215,American Cheese,1
+"Cheese, pasteurized process, American, without added vitamin D",1253,American Cheese,1
+"Cheese spread, American or Cheddar cheese base, reduced fat",1259,American Cheese,1
+"Cheese, cheddar, reduced fat",1260,Sharp Chedder Cheese,1
+"Cranberries, dried, sweetened",9079,Cranberry,1
+"Orange juice, chilled, includes from concentrate, with added calcium and vitamin D",9210,Pulp free orange juice,1
+"Orange juice, chilled, includes from concentrate, with added calcium",9211,Pulp free orange juice,1
+"Spinach, canned, regular pack, drained solids",11461,Spinach leaves,1
+"Beans, kidney, red, mature seeds, raw",16032,Canned Kidney beans,1
+"Beans, kidney, red, mature seeds, canned, solids and liquids",16034,Canned Kidney beans,1
+"Snacks, popcorn, air-popped",19034,Popcorn,1
+"Cheese, cream, low fat",43274,cream cheese,1
+"Sausage, pork, chorizo, link or ground, cooked, pan-fried",100173,ground pork,1
+"Cheese, cottage, creamed, large or small curd",1012,Cottage cheese,1
+"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",5098,Chicken breast,1
+"Cabbage, red, raw",11112,Purple cabbage,1
+"Potatoes, boiled, cooked without skin, flesh, without salt",11367,Steamed russet potato flesh only,1
+"Nuts, pecans",12142,Pecan,1
+"Beverages, coffee, instant, regular, powder",14214,brewed coffee,1
+Honey,19296,Honey,1
+"Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",20080,Whole wheat flour,1
+"Pineapple, canned, water pack, solids and liquids",9267,Gold (golden) pineapple,1
+"Potatoes, baked, flesh, without salt",11363,Steamed russet potato flesh only,1
+"Pickle relish, sweet",11945,Pickles,1
+"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",5319,Chicken breast,1
+"Parsley, fresh",11297,Parsley,1
+"Sweet potato, cooked, baked in skin, flesh, without salt",11508,Steamed whole sweet potato,1
+"Lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, without salt",11038,Lima Beans,1
+"Cauliflower, raw",11135,Steamed Cauliflower florets and stalk,1
+"Seeds, sunflower seed kernels, dry roasted, without salt",12037,Sunflower seeds,1
+"Asparagus, raw",11011,Frozen Whole Baby Asparagus,1
+"Blueberries, raw",9050,Whole blueberry,1
+"Peppers, sweet, green, cooked, boiled, drained, without salt",11334,Steamed whole green bell pepper w/o seed,1
+"Nuts, cashew nuts, dry roasted, without salt added",12085,Cashew,1
+"Beef, round, top round steak, separable lean and fat, trimmed to 1/8"" fat, all grades, cooked, broiled",13893,Beef round tip steak,1
+"Peanuts, all types, raw",16087,Peanuts,1
+"Peanuts, all types, dry-roasted, with salt",16090,Peanuts,1
+"Egg, whole, cooked, hard-boiled",1129,Whole brown egg,1
+"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",23570,Beef round tip steak,1
+"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",23575,Beef round tip steak,1
+"Butter, whipped, with salt",1002,Unsalted butter,1
+"Yogurt, plain, whole milk",1116,Yogurt,1
+"Apple juice, canned or bottled, unsweetened, without added ascorbic acid",9016,Apple juice,1
+"Apricots, raw",9021,Whole apricot,1
+"Blackberries, raw",9042,Whole blackberry,1
+"Grapes, red or green (European type, such as Thompson seedless), raw",9132,Red seedless grape,1
+"Peaches, yellow, raw",9236,Whole yellow peach (Prima Farms),1
+"Raspberries, raw",9302,Whole raspberry,1
+"Strawberries, raw",9316,Whole strawberry,1
+"Blueberries, frozen, unsweetened",9054,Frozen whole blueberry,1
+"Pears, raw",9252,Whole Bartlett pear w/o seed,1
+"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",16057,Canned garbanzo beans,1
+"Turkey, all classes, light meat, cooked, roasted",5186,ground turkey,1
+"Onions, cooked, boiled, drained, without salt",11283,Onion,1
+"Squash, summer, all varieties, cooked, boiled, drained, without salt",11642,Steamed yellow neck squash,1
+"Cheese, cottage, lowfat, 2% milkfat",1015,Cottage cheese,1
+"Pineapple, raw, all varieties",9266,Gold (golden) pineapple,1
+"Seaweed, laver, raw",11446,Roasted seaweed,1
+"Beverages, coffee, brewed, espresso, restaurant-prepared",14210,brewed coffee,1
+"Soy sauce made from soy and wheat (shoyu), low sodium",16424,Soy sauce,1
+"Syrups, maple",19353,Maple syrup,1
+"Oat bran, raw",20033,cooked oat bran,1
+"Rice, white, glutinous, unenriched, cooked",20055,Enriched long white rice (Mahatma),1
+"Cherries, sweet, raw",9070,Whole sweet cherry,1
+"Grapefruit, raw, pink and red, all areas",9112,Deep red grapefruit,1
+"Lime juice, raw",9160,Lime juice,1
+"Melons, cantaloupe, raw",9181,Cantaloupe melon,1
+"Beans, great northern, mature seeds, canned",16026,Great Northern Beans,1
+"Butter, without salt",1145,Unsalted butter,1
+"Broccoli, frozen, chopped, cooked, boiled, drained, without salt",11093,Frozen broccoli florets,1
+"Carrots, frozen, cooked, boiled, drained, without salt",11131,Steamed whole carrots,1
+"Squash, summer, crookneck and straightneck, raw",11467,Steamed yellow neck squash,1
+"Squash, summer, zucchini, includes skin, raw",11477,Steamed green zuchini,1
+"Cheese, cream",1017,cream cheese,1
+"Bacon, turkey, microwaved",7973,ground turkey,1
+"Cranberry sauce, canned, sweetened",9081,Cranberry,1
+"Apple juice, canned or bottled, unsweetened, with added ascorbic acid",9400,Apple juice,1
+"Beans, snap, green, frozen, cooked, boiled, drained without salt",11061,Frozen whole green beans,1
+"Sugars, powdered",19336,Table sugar,1
+"Plums, raw",9279,Whole red plum,1
+"Peanuts, all types, dry-roasted, without salt",16390,Peanuts,1
+"Turkey from whole, light meat, meat only, with added solution, cooked, roasted",5697,ground turkey,1
+"Tangerines, (mandarin oranges), canned, juice pack",9219,Pixie tangerine,1
+"Spinach, raw",11457,Spinach leaves,1
+"Beef, round, tip round, roast, separable lean only, trimmed to 0"" fat, all grades, cooked, roasted",13424,Beef round tip steak,1
+"Barley, pearled, cooked",20006,Whole grain pearl barley,1
+"Butter oil, anhydrous",1003,Unsalted butter,1
+"Salad dressing, mayonnaise, light",4641,Mayonnaise,1
+"Snacks, popcorn, cheese-flavor",19040,Popcorn,1
+"Peppers, sweet, red, raw",11821,Steamed whole red bell pepper w/o seed,1
+"Mustard greens, raw",11270,Steamed Curely mustard greens,1
+"Beverages, almond milk, unsweetened, shelf stable",14091,Unsweetened almond milk,1
+"Beverages, coconut milk, sweetened, fortified with calcium, vitamins A, B12, D2",14171,coconut milk,1
+"Crustaceans, shrimp, mixed species, cooked, moist heat (may have been previously frozen)",15151,Shrimp,1
+Soy sauce made from soy and wheat (shoyu),16123,Soy sauce,1
+"Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)",16127,Soft Silken Tofu,1
+"Beans, snap, green, raw",11052,Steamed Green beans,1
+"Mushrooms, white, cooked, boiled, drained, without salt",11261,Steamed whole white mushrooms,1
+"Sweet potato, cooked, boiled, without skin",11510,Steamed whole sweet potato,1
+"Orange juice, raw",9206,Pulp free orange juice,1
+"Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt",11179,Frozen Golden Corn Kernels (Siganture Select),1
+"Cowpeas, common (blackeyes, crowder, southern), mature seeds, cooked, boiled, without salt",16063,Black-eyed Peas,1
+"Turkey, whole, meat only, cooked, roasted",5168,ground turkey,1
+"Turkey, whole, meat only, with added solution, roasted",5705,ground turkey,1
+"Carrots, cooked, boiled, drained, without salt",11125,Steamed whole carrots,1
+"Beverages, PEPSICO QUAKER, Gatorade, G performance O 2, ready-to-drink.",14460,Gatorade,1
+"Cabbage, cooked, boiled, drained, without salt",11110,Purple cabbage,1
+"Cauliflower, frozen, cooked, boiled, drained, without salt",11138,Steamed Cauliflower florets and stalk,1
+"Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt",11474,Steamed yellow neck squash,1
+"Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, without salt",11480,Steamed green zuchini,1
+"Seeds, pumpkin and squash seed kernels, roasted, without salt",12016,Pumpkin seeds,1
+"Nuts, almonds, dry roasted, without salt added",12063,roasted almonds,1
+"Nuts, brazilnuts, dried, unblanched",12078,Brazil nuts,1
+"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",12117,coconut milk,1
+"Nuts, pistachio nuts, dry roasted, without salt added",12152,Pistachio (Fiddyment Farm),1
+"Lentils, mature seeds, cooked, boiled, without salt",16070,Whole grain brown lentils,1
+"Collards, raw",11161,Steamed Collard greens leaves and stalk,1
+"Peas, split, mature seeds, cooked, boiled, without salt",16086,Green split peas,1
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, all grades, cooked, broiled",23610,Beef round tip steak,1
+"Yogurt, plain, low fat",1117,Yogurt,1
+"Tomato products, canned, puree, with salt added",11888,Hunt's Tomato sauce,1
+"Beans, kidney, red, mature seeds, cooked, boiled, without salt",16033,Canned Kidney beans,1
+"Beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0"" fat, all grades, raw",23369,Beef round tip steak,1
+"Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0"" fat, all grades, raw",23339,Beef round tip steak,1
+"Melons, honeydew, raw",9184,Honeydew melon,1
+"Lettuce, red leaf, raw",11257,Romaine lettuce,1
+"Okra, frozen, cooked, boiled, drained, without salt",11281,Frozen whole okra,1
+"Beef, round, full cut, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, broiled",13865,Beef round tip steak,1
+"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",23580,Beef round tip steak,1
+"Strawberries, frozen, unsweetened",9318,Whole strawberry,1
+"Tangerines, (mandarin oranges), raw",9218,Pixie tangerine,1
+"Snacks, banana chips",19400,Banana chips,1
+"Turkey, dark meat, meat only, with added solution, cooked, roasted",5695,ground turkey,1
+"Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt",11464,Frozen Chopped Spinach (Green Giant),1
+"Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",15149,Shrimp,1
+"Beef, round, top round steak, boneless, separable lean only, trimmed to 0"" fat, all grades, raw",23354,Beef round tip steak,1
+"Beans, black turtle, mature seeds, cooked, boiled, without salt",16017,Canned black beans (S&W),1
+"Cauliflower, cooked, boiled, drained, without salt",11136,Steamed Cauliflower florets and stalk,1
+"Peppers, sweet, red, cooked, boiled, drained, without salt",11823,Steamed whole red bell pepper w/o seed,1
+"Nuts, almonds, blanched",12062,roasted almonds,1
+"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",16056,Canned garbanzo beans,1
+"Applesauce, canned, sweetened, without salt",9020,Original apple sauce (Tree top),1
+"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, all grades, raw",23357,Beef round tip steak,1
+"Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0"" fat, all grades, raw",23327,Beef round tip steak,1
+"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, all grades, raw",23360,Beef round tip steak,1
+"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",5671,Chicken breast,1
+"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",5672,Chicken breast,1
+"Turkey, all classes, wing, meat and skin, cooked, roasted",5196,ground turkey,1
+"Turkey, wing, from whole bird, meat only, with added solution, roasted",5730,ground turkey,1
+"Beef, cured, breakfast strips, cooked",13345,Beef round tip steak,1
+"Nuts, macadamia nuts, dry roasted, with salt added",12632,Macadamia (Sunfood Superfood),1
+"Grapefruit, sections, canned, water pack, solids and liquids",9119,Deep red grapefruit,1
+"Brussels sprouts, raw",11098,Steamed Whole brussel sprouts,1
+"Cocoa, dry powder, unsweetened, processed with alkali",19166,Cocoa powder,1
+"Beverages, coffee, brewed, espresso, restaurant-prepared, decaffeinated",14202,brewed coffee,1
+"Crustaceans, shrimp, mixed species, canned",15152,Shrimp,1
+"Alfalfa seeds, sprouted, raw",11001,alfalfa,1
+"Turkey, whole, meat only, raw",5167,ground turkey,1
+"Chives, raw",11156,chives,1
+"Beef, ground, 95% lean meat / 5% fat, raw",23557,Beef round tip steak,1
+"Beef, ground, 90% lean meat / 10% fat, raw",23562,Beef round tip steak,1
+"Beef, ground, 80% lean meat / 20% fat, raw",23572,Beef round tip steak,1
+"Beef, ground, 75% lean meat / 25% fat, raw",23577,Beef round tip steak,1
+"Beets, raw",11080,"Peeled, steamed beetroot",1
+"Carrot juice, canned",11655,Carrot juice,1
+"Frankfurter, turkey",7025,ground turkey,1
+"Nectarines, raw",9191,Whole yellow nectarine,1
+"Watermelon, raw",9326,Seedless watermelon,1
+"Okra, cooked, boiled, drained, without salt",11279,Frozen whole okra,1
+"Plums, dried (prunes), stewed, without added sugar",9292,Unsweetened pitted prunes,1
+"Turkey, thigh, from whole bird, meat only, with added solution, roasted",5728,ground turkey,1
+"Turkey, thigh, from whole bird, meat only, roasted",5741,ground turkey,1
+"Milk, chocolate, fat free, with added vitamin A and vitamin D",1292,Lowfat chocolate milk,1
+"Kiwifruit, green, raw",9148,Kiwi,1
+"Lettuce, cos or romaine, raw",11251,Romaine lettuce,1
+"Seeds, pumpkin and squash seed kernels, dried",12014,Pumpkin seeds,1
+"Lima beans, large, mature seeds, cooked, boiled, without salt",16072,Lima Beans,1
+"Beans, snap, yellow, frozen, cooked, boiled, drained, without salt",11732,Frozen whole green beans,1
+"Collards, cooked, boiled, drained, without salt",11162,Steamed Collard greens leaves and stalk,1
+"Kale, cooked, boiled, drained, without salt",11234,Kale,1
+"Pumpkin, cooked, boiled, drained, without salt",11423,canned pumpkin,1
+"Seeds, flaxseed",12220,Golden flaxseed,1
+"Beef, round, eye of round, roast, separable lean only, trimmed to 1/8"" fat, choice, raw",23616,Beef round tip steak,1
+"Beans, snap, green, cooked, boiled, drained, without salt",11053,Steamed Green beans,1
+"Cherries, sour, red, canned, water pack, solids and liquids",9064,Whole sweet cherry,1
+"Artichokes, (globe or french), cooked, boiled, drained, without salt",11008,Canned Artichoke hearts,1
+"Spinach, cooked, boiled, drained, without salt",11458,Spinach leaves,1
+"Squash, winter, all varieties, cooked, baked, without salt",11644,Steamed butternut squash,1
+"Wild rice, raw",20088,Wild blend rice,1
+"Kale, raw",11233,Kale,1
+"Mushrooms, shiitake, cooked, without salt",11269,Steamed whole shiitake mushrooms,1
+"Seaweed, kelp, raw",11445,Roasted seaweed,1
+"Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, without salt",11911,Frozen Golden Corn Kernels (Siganture Select),1
+"Turkey, whole, neck, meat only, cooked, simmered",5180,ground turkey,1
+"Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt",11196,Black-eyed Peas,1
+"Sausage, meatless",16107,beyond sausage,1
+"Apricots, dried, sulfured, uncooked",9032,Dried apricots,1
+"Mango, dried, sweetened",9178,Freeze dried mango flesh,1
+"Bulgur, dry",20012,Red whole grain bulgur,1
+"Beverages, Wine, non-alcoholic",14553,Cabernet Sauvignon wine,1
+"Chard, swiss, cooked, boiled, drained, without salt",11148,Steamed Red chard leaves and stalk (Cal-Organic),1
+"Seaweed, agar, dried",11663,Roasted seaweed,1
+"Beef, round, top round, separable lean and fat, trimmed to 1/8"" fat, all grades, cooked, braised",13892,Beef round tip steak,1
+"Cherries, sweet, canned, pitted, heavy syrup pack, solids and liquids",9074,Whole sweet cherry,1
+"Pumpkin, canned, without salt",11424,canned pumpkin,1
+"Sour cream, light",1179,Sour cream,1
+"Beans, pinto, mature seeds, raw",16042,Canned low sodium pinto bean,1
+"Papayas, raw",9226,Tai nung papaya,1
+"Basil, fresh",2044,Basil,1
+"Nuts, pine nuts, dried",12147,Pine nut,1
+"Asparagus, canned, drained solids",11015,Frozen Whole Baby Asparagus,1
+"Beverages, ABBOTT, EAS soy protein powder",14035,Protein powder,1
+"Dates, deglet noor",9087,Dates,1
+"Okra, raw",11278,Frozen whole okra,1
+"Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",5314,Chicken breast,1
+"Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",11192,Black-eyed Peas,1
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, choice, cooked, broiled",23629,Beef round tip steak,1
+"Beef, round, full cut, separable lean and fat, trimmed to 1/8"" fat, choice, raw",13864,Beef round tip steak,1
+"Cheese, pasteurized process, American, fortified with vitamin D",1042,American Cheese,1
+"Peanuts, all types, oil-roasted, with salt",16089,Peanuts,1
+"Chicken, broilers or fryers, meat only, stewed",5014,Chicken breast,1
+"Beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked",23581,Beef round tip steak,1
+"Marmalade, orange",19303,Orange jam (Bonne Maman),1
+"Broccoli, frozen, chopped, unprepared",11092,Frozen broccoli florets,1
+"Cauliflower, frozen, unprepared",11137,Steamed Cauliflower florets and stalk,1
+"Corn, sweet, yellow, frozen, kernels cut off cob, unprepared",11178,Frozen Golden Corn Kernels (Siganture Select),1
+"Peppers, sweet, red, frozen, chopped, unprepared",11917,Steamed whole red bell pepper w/o seed,1
+"Wild rice, cooked",20089,Wild blend rice,1
+"Mangos, raw",9176,Yellow mango,1
+"Beverages, ABBOTT, EAS whey protein powder",14033,Protein powder,1
+"Yambean (jicama), raw",11603,Jicama,1
+"Couscous, cooked",20029,Toasted Pearl couscous,1
+"Turkey, all classes, leg, meat and skin, cooked, roasted",5194,ground turkey,1
+"Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt",11044,Bean Sprouts,1
+"Eggplant, cooked, boiled, drained, without salt",11210,Eggplant,1
+"Sweet potato, canned, vacuum pack",11512,Steamed whole sweet potato,1
+"Turkey, whole, light meat, meat and skin, cooked, roasted",5182,ground turkey,1
+"Turkey from whole, light meat, meat and skin, with added solution, cooked, roasted",5703,ground turkey,1
+"Soup, chicken broth, canned, condensed",6013,Low sodium chicken broth,1
+"Brussels sprouts, frozen, cooked, boiled, drained, without salt",11101,Steamed Whole brussel sprouts,1
+"Rice, white, long-grain, regular, cooked, enriched, with salt",20345,Enriched long white rice (Mahatma),1
+"Rice noodles, cooked",20134,Stir fry rice noodle,1
+"Peanuts, all types, oil-roasted, without salt",16389,Peanuts,1
+"Chicken, broilers or fryers, light meat, meat only, cooked, stewed",5042,Chicken breast,1
+"Eggplant, raw",11209,Eggplant,1
+"Soy flour, full-fat, raw",16115,Soy flour,1
+"Pork, cured, salt pork, raw",10165,ground pork,1
+"Limes, raw",9159,Lime juice,1
+"Celery, cooked, boiled, drained, without salt",11144,Steamed Celery stalk,1
+"Butter, light, stick, with salt",4601,Unsalted butter,1
+"Squash, summer, crookneck and straightneck, canned, drained, solid, without salt",11471,Steamed yellow neck squash,1
+"Cheese spread, cream cheese base",43276,cream cheese,1
+"Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",11507,Steamed whole sweet potato,1
+"Beverages, Protein powder soy based",14067,Protein powder,1
+"Pork, fresh, ground, cooked",10220,ground pork,1
+"Bacon, meatless",16104,plant based bacon strip,1
+"Blueberries, frozen, sweetened",9055,Frozen whole blueberry,1
+"Beverages, coffee, instant, regular, half the caffeine",14203,brewed coffee,1
+"Beef, flank, steak, separable lean only, trimmed to 0"" fat, choice, raw",13068,Beef round tip steak,1
+"Cheese, mozzarella, whole milk",1026,Low Moisture part Skim Mozarella cheese,1
+"Chicken, broilers or fryers, breast, meat only, cooked, roasted",5064,Chicken breast,1
+"Wheat flour, white, all-purpose, unenriched",20481,All purpose flour,1
+"Beef, round, tip round, roast, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, roasted",13886,Beef round tip steak,1
+"Rice, white, long-grain, regular, unenriched, cooked without salt",20445,Enriched long white rice (Mahatma),1
+"Lime juice, canned or bottled, unsweetened",9161,Lime juice,1
+"Lima beans, immature seeds, cooked, boiled, drained, without salt",11032,Lima Beans,1
+"Beef, round, tip round, roast, separable lean and fat, trimmed to 1/8"" fat, select, cooked, roasted",13888,Beef round tip steak,1
+"Blueberries, canned, heavy syrup, solids and liquids",9052,Whole blueberry,1
+"Pomegranates, raw",9286,Pomegranate w/ seeds,1
+"Turkey, drumstick, from whole bird, meat only, with added solution, roasted",5725,ground turkey,1
+"Turkey, drumstick, from whole bird, meat only, roasted",5739,ground turkey,1
+"Cocoa, dry powder, hi-fat or breakfast, processed with alkali",19860,Cocoa powder,1
+"Sour cream, reduced fat",1178,Sour cream,1
+"Bulgur, cooked",20013,Red whole grain bulgur,1
+Soy protein isolate,16122,Protein powder,1
+"Cherries, sweet, canned, water pack, solids and liquids",9071,Whole sweet cherry,1
+"Turkey, light or dark meat, smoked, cooked, skin and bone removed",43391,ground turkey,1
+"Turkey, light or dark meat, smoked, cooked, with skin, bone removed",43390,ground turkey,1
+"Asparagus, cooked, boiled, drained",11012,Frozen Whole Baby Asparagus,1
+"Artichokes, (globe or french), frozen, cooked, boiled, drained, without salt",11010,Canned Artichoke hearts,1
+"Asparagus, frozen, cooked, boiled, drained, without salt",11019,Frozen Whole Baby Asparagus,1
+"Squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt",11493,Steamed spaghetti squash,1
+"Beef, round, tip round, roast, separable lean and fat, trimmed to 1/8"" fat, all grades, cooked, roasted",13884,Beef round tip steak,1
+"Seaweed, spirulina, dried",11667,Roasted seaweed,1
+"Cheese, pasteurized process, cheddar or American, low sodium",43398,American Cheese,1
+"Grapefruit, sections, canned, light syrup pack, solids and liquids",9121,Deep red grapefruit,1
+"Milk, reduced fat, fluid, 2% milkfat, without added vitamin A and vitamin D",1174,Whole milk,1
+"Egg, whole, cooked, fried",1128,Whole brown egg,1
+"Turkey, whole, dark meat, cooked, roasted",5188,ground turkey,1
+"Arugula, raw",11959,arugula,1
+"Beans, kidney, all types, mature seeds, cooked, boiled, without salt",16028,Canned Kidney beans,1
+"Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",1211,Whole milk,1
+"Apricots, dried, sulfured, stewed, without added sugar",9033,Dried apricots,1
+"Chicken, cornish game hens, meat only, cooked, roasted",5310,Chicken breast,1
+"Chard, swiss, raw",11147,Steamed Red chard leaves and stalk (Cal-Organic),1
+"Turkey, whole, wing, meat only, cooked, roasted",5228,ground turkey,1
+"Cherries, sweet, canned, juice pack, solids and liquids",9072,Whole sweet cherry,1
+"Turkey, wing, smoked, cooked, with skin, bone removed",43366,ground turkey,1
+"Snacks, popcorn, cakes",19036,Popcorn,1
+"Turkey, whole, meat and skin, cooked, roasted",5166,ground turkey,1
+"Turkey, whole, meat and skin, with added solution, roasted",5707,ground turkey,1
+"Beans, black, mature seeds, raw",16014,Canned black beans (S&W),1
+"Turkey, whole, giblets, cooked, simmered",5172,ground turkey,1
+"Mustard greens, cooked, boiled, drained, without salt",11271,Steamed Curely mustard greens,1
+"Cauliflower, green, cooked, no salt added",11967,Steamed Cauliflower florets and stalk,1
+"Peanuts, all types, cooked, boiled, with salt",16088,Peanuts,1
+"Tangerines, (mandarin oranges), canned, juice pack, drained",9383,Pixie tangerine,1
+"Cherries, sour, red, frozen, unsweetened",9068,Whole sweet cherry,1
+"Brussels sprouts, cooked, boiled, drained, without salt",11099,Steamed Whole brussel sprouts,1
+"Nuts, almond butter, plain, with salt added",12695,Almond Butter (Justin's),1
+"Grapefruit, raw, pink and red and white, all areas",9111,Deep red grapefruit,1
+"Turkey, dark meat from whole, meat and skin, with added solution, cooked, roasted",5701,ground turkey,1
+"Kale, frozen, cooked, boiled, drained, without salt",11236,Kale,1
+"Cheese, low-sodium, cheddar or colby",1169,Sharp Chedder Cheese,1
+"Beverages, Protein powder whey based",14066,Protein powder,1
+"Pie fillings, blueberry, canned",44158,Whole blueberry,1
+"Cabbage, red, cooked, boiled, drained, without salt",11113,Purple cabbage,1
+"Buckwheat groats, roasted, cooked",20010,Hot cereal whole grain creamy buckwheat,1
+"Blackberries, frozen, unsweetened",9048,Whole blackberry,1
+"Cheese, mozzarella, nonfat",42304,Low Moisture part Skim Mozarella cheese,1
+"Nuts, almonds, oil roasted, without salt added",12065,roasted almonds,1
+"Plantains, cooked",9278,Plantain banana (steamed 10 in),1
+"Soymilk (all flavors), nonfat, with added calcium, vitamins A and D",16230,Soy milk,1
+"Egg, whole, cooked, scrambled",1132,Whole brown egg,1
+"Protein supplement, milk based, Muscle Milk, powder",1223,Protein powder,1
+"Tomatoes, red, ripe, canned, packed in tomato juice, no salt added",11885,Muir's diced tomatoes,1
+"Turkey, back, from whole bird, meat and skin, with added solution, roasted",5745,ground turkey,1
+"Turkey, retail parts, thigh, meat and skin, cooked, roasted",5743,ground turkey,1
+"Protein supplement, milk based, Muscle Milk Light, powder",1224,Protein powder,1
+"Refried beans, canned, fat-free",16172,Refried Beans,1
+"Turkey, whole, dark meat, meat and skin, cooked, roasted",5184,ground turkey,1
+"Turkey, drumstick, smoked, cooked, with skin, bone removed",43367,ground turkey,1
+"Cheese, mozzarella, part skim milk",1028,Low Moisture part Skim Mozarella cheese,1
+"Turkey, whole, meat and skin, raw",5165,ground turkey,1
+"Turkey, retail parts, breast, meat and skin, with added solution, raw",5727,ground turkey,1
+"Beans, mature, red kidney, canned, solids and liquid, low sodium",16337,Canned Kidney beans,1
+"Nuts, cashew butter, plain, with salt added",12588,Cashew,1
+"Cheese, American, nonfat or fat free",1061,American Cheese,1
+"Cherries, tart, dried, sweetened (Includes foods for USDA's Food Distribution Program)",9044,Whole sweet cherry,1
+"Lentils, raw",16069,Whole grain brown lentils,1
+"Quinoa, cooked",20137,Quinoa,1
+"Cheese, pasteurized process, American, low fat",43275,American Cheese,1
+"Babyfood, fruit, applesauce, strained",3116,Original apple sauce (Tree top),1
+"Beans, black turtle, mature seeds, canned",16018,Canned black beans (S&W),1
+"Mushrooms, shiitake, dried",11268,Steamed whole shiitake mushrooms,1
+"Cheese, mozzarella, low sodium",43597,Low Moisture part Skim Mozarella cheese,1
+"Beverages, tea, black, ready-to-drink, lemon, sweetened",14199,Black tea,1
+"Beverages, tea, black, ready to drink",14247,Black tea,1
+"Yogurt, Greek, plain, lowfat",1287,Yogurt,1
+"Yogurt, Greek, plain, whole milk",1293,Yogurt,1
+"Beverages, tea, black, ready to drink, decaffeinated",14281,Black tea,1
+"Apple juice, canned or bottled, unsweetened, with added ascorbic acid, calcium, and potassium",9517,Apple juice,1
+"Beverages, tea, black, ready-to-drink, lemon, diet",14211,Black tea,1
+"Beans, pinto, mature seeds, canned, solids and liquids, low sodium",16347,Canned low sodium pinto bean,1
+"Edamame, frozen, prepared",11212,Frozen edamame,1
+"Beverages, tea, black, ready to drink, decaffeinated, diet",14280,Black tea,1
+"Yogurt, Greek, vanilla, lowfat",1297,Yogurt,1
+"Beverages, Cocoa mix, no sugar added, powder",14196,Cocoa powder,1
+"Babyfood, cereal, barley, dry fortified",3181,Whole grain pearl barley,1
+"Babyfood, cereal, barley, dry fortified",3181,Whole grain pearl barley,1
+"Refried beans, canned, traditional, reduced sodium",16403,Refried Beans,1
+"Cauliflower, green, raw",11965,Steamed Cauliflower florets and stalk,1
+"Cauliflower, green, raw",11965,Steamed Cauliflower florets and stalk,1
+"Blackberries, canned, heavy syrup, solids and liquids",9046,Whole blackberry,1
+"Cherries, sweet, canned, light syrup pack, solids and liquids",9073,Whole sweet cherry,1
+"Babyfood, cookies",3213,Vanilla cookies,1
+"Egg, whole, cooked, poached",1131,Whole brown egg,1
+"Chicken breast, deli, rotisserie seasoned, sliced, prepackaged",7961,Chicken breast,1
+"Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids, low sodium",16360,Canned garbanzo beans,1
+"Babyfood, cereal, rice, dry fortified",3194,Rice cereal (Gerber),1
+"Broccoli, frozen, spears, cooked, boiled, drained, without salt",11095,Frozen broccoli florets,1
+"REDUCED SODIUM: Chicken breast, deli, rotisserie seasoned, sliced, prepackaged",907961,Chicken breast,1
+"Pork sausage, link/patty, reduced fat, cooked, pan-fried",7966,ground pork,1
+"Apples, raw, without skin",9004,Whole Golden Del apple w/o seed,1
+"Pork, cured, bacon, pre-sliced, cooked, pan-fried",10862,ground pork,1
+"Peppers, hot chili, red, raw",11819,Jalapeno,1
+"Beef, chuck, blade roast, separable lean only, trimmed to 0"" fat, all grades, cooked, braised",13382,Beef round tip steak,1
+"Corn flour, masa, unenriched, white",20019,Dried corn grits/polenta,1
+"Frankfurter, beef, unheated",7022,Beef round tip steak,1
+"Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, raw",10062,ground pork,1
+"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, raw",10080,ground pork,1
+"Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, with added solution, raw",10949,ground pork,1
+"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat,with added solution, raw",10953,ground pork,1
+"Carrots, raw",11124,Steamed whole carrots,1
+"Potatoes, baked, flesh and skin, without salt",11674,Steamed whole russet potato,1
+Catsup,11935,Tomato Ketchup,1
+"Beans, white, mature seeds, cooked, boiled, without salt",16050,Cannellini Beans,1
+"Snacks, potato chips, plain, salted",19411,Steamed russet potato flesh only,1
+"Rice flour, white, unenriched",20061,Rice cereal (Gerber),1
+"Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder), separable lean only, raw",10002,ground pork,1
+"Tomato products, canned, puree, without salt added",11547,Hunt's Tomato paste,1
+"Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, grilled",13912,Beef round tip steak,1
+"Beef, rib eye steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, all grades, cooked, grilled",23100,Beef round tip steak,1
+"Beef, rib eye steak, boneless, lip-on, separable lean and fat, trimmed to 1/8"" fat, all grades, cooked, grilled",23197,Beef round tip steak,1
+"Pork, cured, ham, boneless, regular (approximately 11% fat), roasted",10136,ground pork,1
+"Pork, cured, ham, boneless, extra lean and regular, roasted",10183,ground pork,1
+"Pork, cured, ham -- water added, whole, boneless, separable lean and fat, heated, roasted",10917,ground pork,1
+"Pork, cured, ham and water product, whole, boneless, separable lean and fat, heated, roasted",10922,ground pork,1
+"Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted",10928,ground pork,1
+"Lettuce, green leaf, raw",11253,Steamed Iceberg lettuce,1
+"Cereals, oats, regular and quick, not fortified, dry",8120,Rolled oats,1
+"Oranges, raw, all commercial varieties",9200,Navel orange,1
+"Alcoholic beverage, wine, table, all",14084,Cabernet Sauvignon wine,1
+"Pasta, cooked, enriched, without added salt",20121,Spaghetti,1
+"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",7028,ground pork,1
+"Pork sausage, link/patty, cooked, pan-fried",7064,ground pork,1
+"Sausage, turkey, breakfast links, mild, raw",7919,ground turkey,1
+"Pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted",10879,ground pork,1
+"Pickles, cucumber, dill or kosher dill",11937,Pickles,1
+"Beverages, tea, black, brewed, prepared with tap water, decaffeinated",14352,Black tea,1
+"Soymilk, original and vanilla, with added calcium, vitamins A and D",16139,Soy milk,1
+"Pineapple, canned, juice pack, drained",9354,Gold (golden) pineapple,1
+"Corn, sweet, yellow, raw",11167,Frozen Golden Corn Kernels (Siganture Select),1
+"Potatoes, boiled, cooked in skin, flesh, without salt",11365,Steamed whole russet potato,1
+"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",12109,Dried coconut strips,1
+"Beans, baked, canned, plain or vegetarian",16006,Navy beans,1
+"Wheat flour, white, bread, enriched",20083,All purpose flour,1
+"Apples, raw, with skin",9003,Whole Golden Del apple w/o seed,1
+"Broccoli, raw",11090,Steamed Crown broccoli florets and stalk,1
+"Fish, tuna, light, canned in water, drained solids",15121,Albacore white tuna,1
+"Chicken, broiler, rotisserie, BBQ, thigh, meat only",5334,Chicken breast,1
+"Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw",10066,ground pork,1
+"Pork, fresh, loin, top loin (chops), boneless, separable lean only, with added solution, raw",10948,ground pork,1
+"Pork, fresh, variety meats and by-products, feet, cooked, simmered",10173,ground pork,1
+"Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8"" fat, all grades, cooked, roasted",13840,Beef round tip steak,1
+"Corn, sweet, yellow, cooked, boiled, drained, without salt",11168,Frozen Golden Corn Kernels (Siganture Select),1
+"Onions, frozen, chopped, cooked, boiled, drained, without salt",11288,Onion,1
+"Corn, sweet, white, cooked, boiled, drained, without salt",11901,Frozen Golden Corn Kernels (Siganture Select),1
+"Cheese, colby",1011,Sharp Chedder Cheese,1
+"Sausage, Italian, pork, cooked",7089,ground pork,1
+"Apples, dried, sulfured, uncooked",9011,Freeze dried apple rings,1
+"Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)",16098,Creamy peanut butter (Skippy),1
+"Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",12166,Tahini spread (365 Whole Foods Market),1
+"Bananas, raw",9040,Yellow banana flesh only,1
+"Corn, sweet, yellow, canned, whole kernel, drained solids",11172,Frozen Golden Corn Kernels (Siganture Select),1
+"Pork, fresh, spareribs, separable lean and fat, cooked, braised",10089,ground pork,1
+"Orange juice, frozen concentrate, unsweetened, undiluted",9214,Pulp free orange juice,1
+"Beef, ground, patties, frozen, cooked, broiled",13317,Beef round tip steak,1
+"Carrots, canned, regular pack, drained solids",11128,Steamed whole carrots,1
+"Cream, fluid, heavy whipping",1053,half and half,1
+"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, all grades, cooked, roasted",23378,Beef round tip steak,1
+"Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0"" fat, all grades, cooked, roasted",23348,Beef round tip steak,1
+"Onions, spring or scallions (includes tops and bulb), raw",11291,Green onion,1
+"Potatoes, flesh and skin, raw",11352,Steamed whole russet potato,1
+"Pumpkin, raw",11422,canned pumpkin,1
+"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, choice, raw",23612,Beef round tip steak,1
+"Cereals, corn grits, white, regular and quick, enriched, dry",8090,Dried corn grits/polenta,1
+"Beans, snap, green, canned, regular pack, drained solids",11056,Steamed Green beans,1
+"Alcoholic beverage, wine, table, red",14096,Cabernet Sauvignon wine,1
+"Rice, brown, long-grain, cooked",20037,Brown rice (Mahatma),1
+"Pork, fresh, loin, whole, separable lean only, cooked, roasted",10027,ground pork,1
+"Alcoholic beverage, beer, regular, all",14003,Budweiser,1
+"Pickles, cucumber, sour, low sodium",11946,Pickles,1
+"Sausage, breakfast sausage, beef, pre-cooked, unprepared",7954,Beef round tip steak,1
+"Applesauce, canned, unsweetened, without added ascorbic acid (includes USDA commodity)",9019,Original apple sauce (Tree top),1
+"Pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, braised",10049,ground pork,1
+"Peas, green, frozen, cooked, boiled, drained, without salt",11313,Frozen Whole Sweet Green Peas (Flav R Pac),1
+"Fish, tuna, fresh, yellowfin, raw",15127,Albacore white tuna,1
+"Beverages, tea, instant, decaffeinated, unsweetened",14353,Black tea,1
+"Peaches, canned, water pack, solids and liquids",9237,Whole yellow peach (Prima Farms),1
+"Soup, stock, chicken, home-prepared",6172,Low sodium chicken broth,1
+"Pasta, dry, enriched",20120,Spaghetti,1
+"Beverages, tea, instant, lemon, unsweetened",14368,Black tea,1
+"Plantains, yellow, raw",9277,Plantain banana (steamed 10 in),1
+"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, cooked, braised",10085,ground pork,1
+"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",11391,Steamed whole russet potato,1
+"Beef, cured, corned beef, brisket, cooked",13347,Beef round tip steak,1
+"Pie fillings, apple, canned",19312,Original apple sauce (Tree top),1
+"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",9017,Apple juice,1
+"Pork, cured, ham, whole, separable lean only, roasted",10153,ground pork,1
+"Pork, cured, ham, extra lean and regular, canned, roasted",10185,ground pork,1
+"Pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted",10935,ground pork,1
+"Pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, braised",10075,ground pork,1
+"Pears, canned, water pack, solids and liquids",9253,Whole Bartlett pear w/o seed,1
+"Pickles, cucumber, sour",11941,Pickles,1
+"Beans, snap, green, canned, no salt added, drained solids",11729,Steamed Green beans,1
+"Potato puffs, frozen, unprepared",11398,Steamed russet potato flesh only,1
+"Peas, green, raw",11304,Frozen Whole Sweet Green Peas (Flav R Pac),1
+"Breakfast bar, corn flake crust with fruit",43595,snack bar (blueberry),1
+"Nuts, coconut meat, raw",12104,Dried coconut chips,1
+"Pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted",10871,ground pork,1
+"Pork, cured, ham with natural juices, whole, boneless, separable lean only, heated, roasted",10883,ground pork,1
+"Cabbage, chinese (pak-choi), raw",11116,Steamed Baby Bok Choy leaves and stalk,1
+"Plums, dried (prunes), uncooked",9291,Unsweetened pitted prunes,1
+"Broccoli, cooked, boiled, drained, without salt",11091,Steamed Crown broccoli florets and stalk,1
+"Orange juice, frozen concentrate, unsweetened, undiluted, with added calcium",9213,Pulp free orange juice,1
+"Turkey breast, sliced, prepackaged",7081,ground turkey,1
+"Beets, canned, no salt added, solids and liquids",11735,"Peeled, steamed beetroot",1
+"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, all grades, cooked, braised",23602,Beef round tip steak,1
+"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, all grades, cooked, braised",13810,Beef round tip steak,1
+"Pork, fresh, composite of trimmed retail cuts (leg, loin, and shoulder), separable lean only, cooked",10093,ground pork,1
+"Roast beef, deli style, prepackaged, sliced",7043,Beef round tip steak,1
+"Cream, fluid, light (coffee cream or table cream)",1050,half and half,1
+"Buckwheat flour, whole-groat",20011,Hot cereal whole grain creamy buckwheat,1
+"Corn flour, masa, enriched, white",20017,Dried corn grits/polenta,1
+"Peppers, hot chili, green, raw",11670,Jalapeno,1
+"Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program)",23567,Beef round tip steak,1
+"Beef, rib, shortribs, separable lean only, choice, cooked, braised",13150,Beef round tip steak,1
+"Pork, cured, ham, boneless, extra lean and regular, unheated",10182,ground pork,1
+"Beets, pickled, canned, solids and liquids",11609,"Peeled, steamed beetroot",1
+"Beverages, tea, instant, decaffeinated, lemon, diet",14356,Black tea,1
+"Peas, green, cooked, boiled, drained, without salt",11305,Frozen Whole Sweet Green Peas (Flav R Pac),1
+"Peas, green (includes baby and lesuer types), canned, drained solids, unprepared",11308,Frozen Whole Sweet Green Peas (Flav R Pac),1
+"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, raw",10084,ground pork,1
+"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, with added solution, raw",10946,ground pork,1
+"Mustard greens, frozen, cooked, boiled, drained, without salt",11273,Steamed Curely mustard greens,1
+"Peas, green, canned, no salt added, solids and liquids",11812,Frozen Whole Sweet Green Peas (Flav R Pac),1
+"Beef, cured, corned beef, canned",13348,Beef round tip steak,1
+"Beverages, tea, instant, lemon, diet",14376,Black tea,1
+"Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",20125,Whole wheat spaghetti,1
+"Peas, edible-podded, raw",11300,Steamed whole snow peas,1
+"Nuts, almond paste",12071,Almond Butter (Justin's),1
+"Tomatoes, red, ripe, cooked",11530,Muir's diced tomatoes,1
+"Soup, vegetable with beef broth, canned, prepared with equal volume water",6472,Chunky vegetable soup,1
+"Pork, fresh, loin, whole, separable lean only, cooked, braised",10025,ground pork,1
+"Broccoli, chinese, raw",11994,Steamed Crown broccoli florets and stalk,1
+"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, braised",13812,Beef round tip steak,1
+"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, choice, cooked, braised",23614,Beef round tip steak,1
+"Pork, fresh, loin, tenderloin, separable lean and fat, raw",10218,ground pork,1
+"Pork, fresh, loin, tenderloin, separable lean and fat, with added solution, raw",10951,ground pork,1
+"Kielbasa, fully cooked, grilled",7968,ground pork,1
+"Potatoes, baked, skin, without salt",11364,Steamed whole russet potato,1
+"Beets, canned, drained solids",11084,"Peeled, steamed beetroot",1
+"Milk, imitation, non-soy",43543,Unsweetened almond milk,1
+"Beef, round, bottom round , roast, separable lean only, trimmed to 1/8"" fat, select, cooked, roasted",23590,Beef round tip steak,1
+"Pork, cured, bacon, unprepared",10123,ground pork,1
+"Beef, cured, pastrami",13355,Beef round tip steak,1
+"Beef, brisket, whole, separable lean only, trimmed to 0"" fat, all grades, cooked, braised",13368,Beef round tip steak,1
+"Beef, brisket, whole, separable lean and fat, trimmed to 0"" fat, all grades, cooked, braised",13367,Beef round tip steak,1
+"Pork, fresh, shoulder, whole, separable lean only, cooked, roasted",10073,ground pork,1
+"Corn, sweet, yellow, canned, no salt added, solids and liquids",11771,Frozen Golden Corn Kernels (Siganture Select),1
+"Peas, edible-podded, boiled, drained, without salt",11301,Steamed whole snow peas,1
+"Collards, frozen, chopped, cooked, boiled, drained, without salt",11164,Steamed Collard greens leaves and stalk,1
+"Apples, dried, sulfured, stewed, without added sugar",9012,Freeze dried apple rings,1
+"Ice creams, chocolate, rich",43541,Vanilla bean ice cream,1
+"Whey, sweet, dried",1115,Protein powder,1
+"Pork, cured, ham, center slice, country-style, separable lean only, raw",10141,ground pork,1
+"Carrots, frozen, unprepared",11130,Steamed whole carrots,1
+"Peas, green, frozen, unprepared",11312,Frozen Whole Sweet Green Peas (Flav R Pac),1
+"Canadian bacon, cooked, pan-fried",10998,ground pork,1
+"Beef, cured, dried",13350,Beef round tip steak,1
+"Beverages, tea, instant, unsweetened, powder",14366,Black tea,1
+"Pork, fresh, loin, whole, separable lean only, raw",10024,ground pork,1
+"Apples, raw, without skin, cooked, microwave",9006,Whole Golden Del apple w/o seed,1
+"Turkey, whole, breast, meat only, cooked, roasted",5220,ground turkey,1
+"Tomatoes, red, ripe, canned, stewed",11533,Muir's diced tomatoes,1
+"Pork, fresh, shoulder, arm picnic, separable lean only, cooked, braised",10078,ground pork,1
+"Pork, cured, shoulder, arm picnic, separable lean only, roasted",10169,ground pork,1
+"Peppers, hot chili, red, canned, excluding seeds, solids and liquids",11820,Jalapeno,1
+"Cheese, brick",1005,Sharp Chedder Cheese,1
+"Rice, brown, long-grain, raw",20036,Brown rice (Mahatma),1
+"Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/8""fat, choice, cooked, broiled",23626,Beef round tip steak,1
+"Orange juice, canned, unsweetened",9207,Pulp free orange juice,1
+"Beef, rib, shortribs, separable lean and fat, choice, cooked, braised",13148,Beef round tip steak,1
+"Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water",9215,Pulp free orange juice,1
+"Beets, cooked, boiled, drained",11081,"Peeled, steamed beetroot",1
+"Carrots, canned, no salt added, solids and liquids",11758,Steamed whole carrots,1
+"Pork, fresh, variety meats and by-products, chitterlings, cooked, simmered",10099,ground pork,1
+"Apricots, canned, light syrup pack, with skin, solids and liquids",9026,Whole apricot,1
+"Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted",10009,ground pork,1
+"Soymilk, chocolate, with added calcium, vitamins A and D",16168,Soy milk,1
+"Beef, chuck for stew, separable lean and fat, all grades, cooked, braised",23090,Beef round tip steak,1
+"Peas, edible-podded, frozen, cooked, boiled, drained, without salt",11303,Steamed whole snow peas,1
+"Beans, snap, yellow, cooked, boiled, drained, without salt",11724,Steamed Green beans,1
+"Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8"" fat, choice, cooked, roasted",13829,Beef round tip steak,1
+"Pineapple, canned, juice pack, solids and liquids",9268,Gold (golden) pineapple,1
+"Pork, fresh, loin, whole, separable lean and fat, cooked, roasted",10023,ground pork,1
+"Onions, frozen, whole, cooked, boiled, drained, without salt",11290,Onion,1
+"Pork, fresh, loin, tenderloin, separable lean only, raw",10060,ground pork,1
+"Pork, fresh, enhanced, loin, tenderloin, separable lean only, raw",10944,ground pork,1
+"Pork, cured, ham, extra lean and regular, canned, unheated",10184,ground pork,1
+"Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, unheated",10900,ground pork,1
+"Pork, cured, ham and water product, whole, boneless, separable lean and fat, unheated",10905,ground pork,1
+"Pork, cured, ham -- water added, whole, boneless, separable lean and fat, unheated",10909,ground pork,1
+"Apricots, canned, heavy syrup pack, with skin, solids and liquids",9027,Whole apricot,1
+"Ham, sliced, regular (approximately 11% fat)",7029,ground pork,1
+"Apricots, canned, juice pack, with skin, solids and liquids",9024,Whole apricot,1
+"Pears, asian, raw",9340,Whole Shingo pear w/o seed,1
+Vegetarian fillets,43134,plant based fish fillet,1
+"Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0"" fat, all grades, cooked",13364,Beef round tip steak,1
+"Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted",10061,ground pork,1
+"Cream, fluid, light whipping",1052,half and half,1
+"Whey, acid, dried",1113,Protein powder,1
+"Pork, cured, shoulder, arm picnic, separable lean and fat, roasted",10168,ground pork,1
+"Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), separable lean and fat, cooked",10188,ground pork,1
+"Apples, dehydrated (low moisture), sulfured, uncooked",9009,Freeze dried apple rings,1
+"Tofu, fried",16129,Firm Tofu (Wildwood),1
+"Pork, fresh, leg (ham), whole, separable lean only, cooked, roasted",10011,ground pork,1
+"Beverages, COCA-COLA, POWERADE, lemon-lime flavored, ready-to-drink",14461,Gatorade,1
+"Corn, sweet, white, canned, whole kernel, drained solids",11905,Frozen Golden Corn Kernels (Siganture Select),1
+"Chicken, canned, no broth",5311,Chicken breast,1
+"Turkey, fryer-roasters, meat and skin, cooked, roasted",5200,ground turkey,1
+"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",43378,ground pork,1
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, select, cooked, broiled",23588,Beef round tip steak,1
+"Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, pan-fried",13933,Beef round tip steak,1
+"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, select, raw",23631,Beef round tip steak,1
+"Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt",11117,Steamed Baby Bok Choy leaves and stalk,1
+"Chicken patty, frozen, cooked",5324,Chicken strips,1
+"Apricots, canned, water pack, with skin, solids and liquids",9022,Whole apricot,1
+"Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8"" fat, all grades, cooked",13796,Beef round tip steak,1
+"Pork, cured, ham, whole, separable lean only, unheated",10152,ground pork,1
+"Pork, cured, ham and water product, whole, boneless, separable lean only, unheated",10872,ground pork,1
+"Pork, cured, ham -- water added, whole, boneless, separable lean only, unheated",10880,ground pork,1
+"Pork, cured, ham with natural juices, whole, boneless, separable lean only, unheated",10884,ground pork,1
+"Pork, fresh, shoulder, whole, separable lean and fat, raw",10070,ground pork,1
+"Pork, cured, ham, extra lean (approximately 4% fat), canned, unheated",10137,ground pork,1
+"Nuts, coconut meat, dried (desiccated), sweetened, shredded",12179,Dried coconut strips,1
+"Catsup, low sodium",11949,Tomato Ketchup,1
+"Beans, snap, yellow, canned, regular pack, drained solids",11932,Steamed Green beans,1
+"Pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted",10071,ground pork,1
+"Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8"" fat, all grades, cooked, braised",13816,Beef round tip steak,1
+"Ham, chopped, not canned",7027,ground pork,1
+"Beans, baked, canned, no salt added",43449,Navy beans,1
+"Beans, black, mature seeds, canned, low sodium",16316,Canned black beans (S&W),1
+"Babyfood, fortified cereal bar, fruit filling",3964,snack bar (blueberry),1
+"Fish, tuna, light, canned in oil, drained solids",15119,Albacore white tuna,1
+"Pork, fresh, spareribs, separable lean and fat, raw",10088,ground pork,1
+"Pork, fresh, spareribs, separable lean and fat, raw",10088,ground pork,1
+"Sausage, chicken or turkey, Italian style,  lower sodium",7976,Chicken breast,1
+"Bacon, turkey, low sodium",7974,ground turkey,1
+"Beverages, tea, ready-to-drink, lemon, diet",14207,Black tea,1
+"Broccoli, chinese, cooked",11969,Steamed Crown broccoli florets and stalk,1
+"Beverages, tea, Oolong, brewed",14185,Black tea,1
+"Beverages, chocolate powder, no sugar added",14063,Cocoa powder,1
+"REDUCED SODIUM: Turkey breast, sliced, prepackaged",907081,ground turkey,1
+"Potatoes, canned, drained solids, no salt added",43311,Steamed russet potato flesh only,1
+"Cabbage, japanese style, fresh, pickled",43143,Purple cabbage,1
+"Cheese, monterey",1025,cream cheese,0
+"Cream substitute, powdered",1069,Protein powder,0
+"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",1082,Lowfat chocolate milk,0
+"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",1085,Lowfat chocolate milk,0
+"Spices, cinnamon, ground",2010,ground pork,0
+"Spices, paprika",2028,Dried apricots,0
+"Spices, pepper, black",2030,Black tea,0
+"Spices, turmeric, ground",2043,ground turkey,0
+"Salt, table, iodized",2047,Table sugar,0
+"Oil, soybean, salad or cooking",4044,Soy milk,0
+"Oil, olive, salad or cooking",4053,chives,0
+"Oil, cottonseed, salad or cooking",4502,Cottage cheese,0
+"Oil, sunflower, linoleic, (approx. 65%)",4506,Sunflower seeds,0
+"Oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)",4511,Commercial Mac and Cheese,0
+"Oil, corn, industrial and retail, all purpose salad or cooking",4518,All purpose flour,0
+"Oil, canola",4582,Granola,0
+"Margarine, regular, 80% fat, composite, stick, with salt",4610,Whole Green house (large) tomato,0
+"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",4613,Vegetable chips,0
+"Margarine, regular, 80% fat, composite, stick, with salt, with added vitamin D",4691,Steamed Red chard leaves and stalk (Cal-Organic),0
+"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",4694,Vegetable chips,0
+"Potatoes, mashed, dehydrated, flakes without milk, dry form",11378,Potato bread,0
+"Alcoholic beverage, beer, light",14006,Righteous rye bread,0
+"Beverages, carbonated, ginger ale",14136,Rice cereal (Gerber),0
+"Water, tap, drinking",14411,Freeze dried apple rings,0
+"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",18369,Canned low sodium pinto bean,0
+"Syrups, corn, light",19350,Maple syrup,0
+"Noodles, egg, enriched, cooked",20110,Chicken Noodle Soup,0
+"Chewing gum, sugarless",43060,Table sugar,0
+"Cream substitute, liquid, with hydrogenated vegetable oil and soy protein",1067,Vegetable juice,0
+"Spices, basil, dried",2003,Basil,0
+"Spices, coriander leaf, dried",2012,Spinach leaves,0
+"Spices, ginger, ground",2021,ground pork,0
+"Spices, marjoram, dried",2023,Dried orange slices,0
+"Spices, onion powder",2026,Onion,0
+"Spices, sage, ground",2038,ground pork,0
+"Vinegar, distilled",2053,Tortilla chips,0
+"Lemon juice, raw",9152,Lime juice,0
+"Cassava, raw",11134,Cashew,0
+Potato flour,11413,Potato bread,0
+"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",14037,Whole wheat tortilla,0
+"Cheese, mexican, queso asadero",1166,American Cheese,0
+Lard,4002,Steamed Collard greens leaves and stalk,0
+"Oil, peanut, salad or cooking",4042,Peanuts,0
+"Oil, sesame, salad or cooking",4058,American Cheese,0
+"Fat, turkey",4575,ground turkey,0
+"Turkey, skin from whole, (light and dark), with added solution, roasted",5699,ground turkey,0
+"Raisins, seedless",9298,Red seedless grape,0
+"Beverages, tea, instant, lemon, sweetened, powder",14370,Unsweetened almond milk,0
+"Fat, chicken",4542,Chicken breast,0
+"Grape juice, canned or bottled, unsweetened, with added ascorbic acid",9130,Unsweetened pitted prunes,0
+"Soybeans, mature seeds, sprouted, cooked, steamed",11453,Steamed Green beans,0
+"Waterchestnuts, chinese, (matai), raw",11588,Commercial Mac and Cheese,0
+"Sweeteners, tabletop, sucralose, SPLENDA packets",19868,Frozen Whole Sweet Green Peas (Flav R Pac),0
+"Sweeteners, tabletop, saccharin (sodium saccharin)",43158,Canned low sodium pinto bean,0
+"Cheese, provolone",1035,cream cheese,0
+"Cheese, swiss",1040,cream cheese,0
+"Spices, chili powder",2009,Cocoa powder,0
+"Mustard, prepared, yellow",2046,Steamed Curely mustard greens,0
+"Chicken, broilers or fryers, skin only, raw",5015,Chicken breast,0
+"Beef, retail cuts, separable fat, cooked",13020,cooked oat bran,0
+"Beverages, Lemonade fruit juice drink light, fortified with vitamin E and C",14174,Vegetable juice,0
+"Vinegar, cider",2048,Garlic,0
+"Oil, coconut",4047,coconut milk,0
+"Shortening, vegetable, household, composite",4615,Vegetable chips,0
+"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",5073,Chicken breast,0
+"Tamarinds, raw",9322,Orange jam (Bonne Maman),0
+"Juice, apple and grape blend, with added ascorbic acid",9443,Apple juice,0
+"Leavening agents, yeast, baker's, active dry",18375,chives,0
+"Vanilla extract, imitation, no alcohol",2052,Vanilla cookies,0
+"Beverages, lemonade-flavor drink, powder",14296,Cocoa powder,0
+"Water, tap, municipal",14429,Steamed Red chard leaves and stalk (Cal-Organic),0
+"Fish, salmon, pink, raw",15083,roasted almonds,0
+Molasses,19304,Steamed Whole brussel sprouts,0
+"Ginger root, raw",11216,Pixie tangerine,0
+"Fish, haddock, raw",15033,plant based fish fillet,0
+"Noodles, egg, dry, enriched",20109,Stir fry rice noodle,0
+"Salad dressing, ranch dressing, regular",4639,Raisin bran cereal,0
+"Radishes, raw",11429,Gatorade,0
+"Fat, beef tallow",4001,Whole yellow nectarine,0
+"Beverages, yellow green colored citrus soft drink with caffeine",14079,Whole yellow nectarine,0
+"Beverages, carbonated, root beer",14157,"Peeled, steamed beetroot",0
+"Cranberry juice, unsweetened",43382,Cranberry,0
+"Cheese, parmesan, grated",1032,cream cheese,0
+"Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, without caffeine",14146,Steamed whole red bell pepper w/o seed,0
+"Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine",14416,Steamed whole red bell pepper w/o seed,0
+"Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)",1151,Whole milk,0
+"Grape juice, canned or bottled, unsweetened, without added ascorbic acid",9135,Unsweetened pitted prunes,0
+Vitamin D as ingredient,999328,Steamed Green beans,0
+"Cheese, blue",1004,cream cheese,0
+"Alcoholic beverage, wine, dessert, sweet",14057,Whole sweet cherry,0
+"Rye flour, medium",20064,Soy flour,0
+"Nopales, raw",11963,Kale,0
+"Beverages, chocolate-flavor beverage mix for milk, powder, with added nutrients",14557,Lowfat chocolate milk,0
+"Milk, buttermilk, fluid, whole",1230,Whole milk,0
+"Avocados, raw, all commercial varieties",9037,Commercial Mac and Cheese,0
+"Crustaceans, crab, alaska king, imitation, made from surimi",15138,Saltine Crackers,0
+"Leavening agents, baking soda",18372,Navel orange,0
+"Spices, nutmeg, ground",2025,ground pork,0
+"Grapefruit juice, white, canned or bottled, unsweetened",9123,Deep red grapefruit,0
+"Tangerine juice, raw",9221,Pixie tangerine,0
+"Fish, pollock, raw",15066,plant based fish fillet,0
+"Fish, catfish, channel, farmed, raw",15234,plant based fish fillet,0
+"Fish, tilapia, raw",15261,plant based fish fillet,0
+"Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, honey roasted",43570,Honey nut oat cereal,0
+"Cheese sauce, prepared from recipe",1164,cream cheese,0
+"Margarine,spread, 35-39% fat, tub",4128,Tahini spread (365 Whole Foods Market),0
+"Margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin D",4690,Vegetable chips,0
+"Chicken, broilers or fryers, giblets, cooked, simmered",5022,Chicken breast,0
+"Apricot nectar, canned, with added ascorbic acid",9036,Dried apricots,0
+"Boysenberries, frozen, unsweetened",9057,Frozen whole blueberry,0
+"Lemons, raw, without peel",9150,"Peeled, steamed beetroot",0
+"Passion-fruit juice, purple, raw",9232,Apple juice,0
+"Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid",9273,Unsweetened pitted prunes,0
+"Mango nectar, canned",9436,Yellow mango,0
+"Babyfood, juice, pear",43408,Apple juice,0
+"Beverages, SLIMFAST, Meal replacement,  High Protein Shake, Ready-To-Drink, 3-2-1 plan",14044,Protein powder,0
+"Fish, flatfish (flounder and sole species), raw",15028,plant based fish fillet,0
+"Sweeteners, tabletop, aspartame, EQUAL, packets",19337,Steamed whole sweet potato,0
+"Tomatoes, green, raw",11527,Whole Green house (large) tomato,0
+"Beef, variety meats and by-products, tripe, raw",13341,Dried coconut strips,0
+"Tomatillos, raw",11954,Yellow corn tortilla,0
+"Hominy, canned, white",20030,White bread,0
+"Seeds, sesame seeds, whole, dried",12023,Steamed whole red bell pepper w/o seed,0
+"Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4"" fat, choice, cooked",17002,cooked oat bran,0
+"Soup, beef broth or bouillon canned, ready-to-serve",6008,Canned black beans (S&W),0
+"Whipped topping, frozen, low fat",42135,Frozen Chopped Spinach (Green Giant),0
+"Yogurt, plain, skim milk",1118,Yogurt,0
+"Chicken, broilers or fryers, thigh, meat and skin, raw",5091,Chicken breast,0
+"Tomato juice, canned, with salt added",11540,Muir's diced tomatoes,0
+"Peppers, serrano, raw",11977,Steamed whole red bell pepper w/o seed,0
+"Cheese, ricotta, part skim milk",1037,Cottage cheese,0
+"Alcoholic beverage, malt beer, hard lemonade",14239,Steamed Red chard leaves and stalk (Cal-Organic),0
+"Mollusks, clam, mixed species, canned, drained solids",15160,Canned black beans (S&W),0
+"Beef, variety meats and by-products, liver, cooked, pan-fried",13327,Refried Beans,0
+"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",5103,Chicken breast,0
+"Beverages, tea, herb, other than chamomile, brewed",14381,Great Northern Beans,0
+"Nuts, hazelnuts or filberts",12120,Hazelnut flour,0
+"Leavening agents, yeast, baker's, compressed",18374,Chicken breast tender,0
+"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",5069,Chicken breast,0
+"Gravy, chicken, canned or bottled, ready-to-serve",6119,Chicken breast,0
+"Salad dressing, italian dressing, fat-free",4636,Raisin bran cereal,0
+"Gravy, beef, canned, ready-to-serve",6116,Navy beans,0
+"Yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener",1235,Lowfat chocolate milk,0
+"Spices, garlic powder",2020,Garlic,0
+"Beverages, Coconut water, ready-to-drink, unsweetened",14090,Unsweetened pitted prunes,0
+"Fish, cod, Pacific, raw (may have been previously frozen)",15019,Frozen Whole Sweet Green Peas (Flav R Pac),0
+"Fish, sea bass, mixed species, raw",15091,plant based fish fillet,0
+"Figs, dried, uncooked",9094,Dried apricots,0
+"Waterchestnuts, chinese, canned, solids and liquids",11590,Pine nut,0
+"Fish, perch, mixed species, raw",15060,Pecan,0
+"Olives, ripe, canned (small-extra large)",9193,Whole Green house (large) tomato,0
+"Beverages, carbonated, tonic water",14155,Onion,0
+"Chicken, liver, all classes, raw",5027,Chicken breast,0
+"Animal fat, bacon grease",4609,Animal shaped crackers,0
+"Cheese, feta",1019,cream cheese,0
+"Yogurt, frozen, flavors other than chocolate, lowfat",1298,Lowfat chocolate milk,0
+"Persimmons, japanese, raw",9263,Orange jam (Bonne Maman),0
+"Cheese, fresh, queso fresco",1228,cream cheese,0
+"Fish, salmon, chinook, smoked",15077,roasted almonds,0
+"Cabbage, savoy, raw",11114,Purple cabbage,0
+"Soup, beef broth or bouillon, powder, dry",6075,Protein powder,0
+"Lemon peel, raw",9156,"Peeled, steamed beetroot",0
+"Cheese, ricotta, whole milk",1036,Cottage cheese,0
+"Beverages, orange breakfast drink, ready-to-drink, with added nutrients",14436,Dried orange slices,0
+"Oil, industrial, coconut, confection fat, typical basis for ice cream coatings",4659,Dried coconut strips,0
+"Beverages, carbonated, low calorie, other than cola or pepper,  without caffeine",14143,Steamed whole red bell pepper w/o seed,0
+"Beverages, Energy drink, RED BULL",14154,Red whole grain bulgur,0
+"Spices, pepper, red or cayenne",2031,Steamed whole red bell pepper w/o seed,0
+"Horseradish, prepared",2055,Steamed whole red bell pepper w/o seed,0
+"Frozen yogurts, chocolate, nonfat milk, sweetened without sugar",42185,Lowfat chocolate milk,0
+"Prune juice, canned",9294,Unsweetened pitted prunes,0
+"Beverages, aloe vera juice drink, fortified with Vitamin C",14216,Vegetable juice,0
+"Snacks, pork skins, plain",19041,snack bar (blueberry),0
+"Margarine-like, vegetable oil spread, fat-free, tub",4631,Vegetable chips,0
+"Spices, thyme, dried",2042,Dried orange slices,0
+"Crustaceans, crayfish, mixed species, wild, cooked, moist heat",15146,Low Moisture part Skim Mozarella cheese,0
+"Beverages, PEPSICO QUAKER, Gatorade G2, low calorie",14644,Gatorade,0
+"Beverages, Cocoa mix, powder",14192,Cocoa powder,0
+"Alcoholic beverage, liqueur, coffee with cream, 34 proof",14415,brewed coffee,0
+"Fluid replacement, electrolyte solution (include PEDIALYTE)",43075,Frozen Golden Corn Kernels (Siganture Select),0
+"Cheese, Mexican blend",1251,American Cheese,0
+"Lamb, loin, separable lean only, trimmed to 1/4"" fat, choice, cooked, broiled",17027,cooked oat bran,0
+"Lamb, loin, separable lean and fat, trimmed to 1/4"" fat, choice, cooked, broiled",17024,cooked oat bran,0
+"Spices, cumin seed",2014,Pumpkin seeds,0
+"Spices, oregano, dried",2027,Dried orange slices,0
+"Oil, industrial, canola, high oleic",4698,Granola,0
+"Oil, industrial, soy, low linolenic",4699,Soy milk,0
+"Oil, industrial, soy, ultra low linolenic",4700,Whole grain brown lentils,0
+"Oil, industrial, soy, fully hydrogenated",4701,Soy milk,0
+"Cream, whipped, cream topping, pressurized",1054,Frozen Chopped Spinach (Green Giant),0
+"Snacks, beef jerky, chopped and formed",19002,Frozen Chopped Spinach (Green Giant),0
+"Milk, buttermilk, fluid, cultured, reduced fat",42189,Buttermilk pancake/waffle flour,0
+"Strawberry-flavor beverage mix, powder",14350,Whole strawberry,0
+"Beverages, UNILEVER, SLIMFAST, meal replacement, regular, ready-to-drink,  3-2-1 Plan",14045,Vanilla bean ice cream,0
+"Fish, ocean perch, Atlantic, raw",15057,plant based fish fillet,0
+"Fish, whiting, mixed species, raw",15132,White bread,0
+"Watercress, raw",11591,Seedless watermelon,0
+Orange Pineapple Juice Blend,9452,Apple juice,0
+"Veal, loin, separable lean and fat, raw",17104,Whole grain oat cereal,0
+"Beverages, OVALTINE, chocolate malt powder",14315,Chocolate,0
+"Margarine-like, vegetable oil spread, 20% fat, with salt",4633,Vegetable chips,0
+"Milk, buttermilk, fluid, cultured, lowfat",1088,Lowfat chocolate milk,0
+"Pimento, canned",11943,Canned low sodium pinto bean,0
+"Beverages, orange-flavor drink, breakfast type, powder",14407,Dried orange slices,0
+"Cheese, gruyere",1023,cream cheese,0
+"Bamboo shoots, raw",11026,"Peeled, steamed beetroot",0
+"Noodles, flat, crunchy, Chinese restaurant",20118,Chicken Noodle Soup,0
+"Beverages, rice milk, unsweetened",14639,Unsweetened almond milk,0
+"Turnips, raw",11564,Rainbow Morning O's Cereals,0
+"Mollusks, clam, mixed species, raw",15157,Mixed vegetable burger patty,0
+"Fish, salmon, chum, canned, drained solids with bone",15080,roasted almonds,0
+"Tapioca, pearl, dry",20068,Whole grain pearl barley,0
+"Turnip greens, cooked, boiled, drained, without salt",11569,Green onion,0
+"Margarine-like, vegetable oil spread, fat free, liquid, with salt",4624,Vegetable juice,0
+"Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",11345,Steamed whole red bell pepper w/o seed,0
+"Crustaceans, crab, blue, cooked, moist heat",15140,Wheat crackers (Nabisco),0
+"Mollusks, squid, mixed species, raw",15175,Steamed yellow neck squash,0
+"Cream, half and half, fat free",1199,half and half,0
+"Egg substitute, liquid or frozen, fat free",1226,Frozen whole green beans,0
+"Milk, buttermilk, dried",1094,Soy milk,0
+"Spices, parsley, dried",2029,Parsley,0
+"Oil, PAM cooking spray, original",4679,Original apple sauce (Tree top),0
+"Pineapple juice, canned or bottled, unsweetened, with added ascorbic acid",9409,Apple juice,0
+"Spices, cloves, ground",2011,ground pork,0
+"Parmesan cheese topping, fat free",1185,cream cheese,0
+"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",5094,Chicken breast,0
+"SCHIFF,TIGER'S MILK BAR",19000,Whole milk,0
+"Guavas, common, raw",9139,Commercial Mac and Cheese,0
+"Lamb, ground, raw",17224,ground pork,0
+"Braunschweiger (a liver sausage), pork",7014,beyond sausage,0
+"Turnip greens, canned, no salt added",43387,Steamed Green beans,0
+"Cheese, swiss, low fat",43589,cream cheese,0
+"Sauerkraut, canned, solids and liquids",11439,Soy sauce,0
+"Margarine-like spread with yogurt, approximately 40% fat, tub, with salt",4627,Yogurt,0
+"Veal, loin, separable lean only, cooked, roasted",17109,Roasted seaweed,0
+"Fish, cod, Atlantic, dried and salted",15018,plant based fish fillet,0
+Miso,16112,Soy milk,0
+"Alcoholic beverage, rice (sake)",43479,Brown Rice Rice Cake,0
+"Pepper, banana, raw",11976,Banana chips,0
+"Veal, leg (top round), separable lean only, cooked, pan-fried, not breaded",17102,Refried Beans,0
+"Cheese, brie",1006,cream cheese,0
+"Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised",5676,Chicken breast,0
+"Fish, snapper, mixed species, raw",15101,Steamed whole red bell pepper w/o seed,0
+"Papaya nectar, canned",9229,Tai nung papaya,0
+"Carbonated beverage, cream soda",14130,Sour cream,0
+"Fish, cod, Atlantic, canned, solids and liquid",15017,plant based fish fillet,0
+"Beverages, The COCA-COLA company, Minute Maid, Lemonade",14189,Coca cola,0
+"Fish, croaker, Atlantic, raw",15020,plant based fish fillet,0
+"Fish, shark, mixed species, raw",15095,Sharp Chedder Cheese,0
+"Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised",5677,Chicken breast,0
+"Spices, poultry seasoning",2034,Onion,0
+"Guava sauce, cooked",9143,Soy sauce,0
+"Lemon juice from concentrate, canned or bottled",9153,Carrot juice,0
+"Beverages, tea, green, brewed, decaffeinated",14260,brewed coffee,0
+"Figs, raw",9089,plant based fish fillet,0
+"Chicken, broilers or fryers, wing, meat and skin, cooked, stewed",5104,Chicken breast,0
+"Turnip greens, frozen, cooked, boiled, drained, without salt",11575,Frozen whole green beans,0
+"Beverage, instant breakfast powder, chocolate, not reconstituted",43205,Chocolate,0
+"Pork, fresh, backfat, raw",10004,ground pork,0
+"Beans, pink, mature seeds, raw",16040,Steamed Green beans,0
+"Fish, cod, Atlantic, cooked, dry heat",15016,plant based fish fillet,0
+"Mollusks, scallop, mixed species, raw",15172,Mixed vegetable burger patty,0
+"Cheese, goat, semisoft type",1157,cream cheese,0
+"Pear nectar, canned, without added ascorbic acid",9262,Whole yellow nectarine,0
+"Alcoholic beverage, creme de menthe, 72 proof",14034,Wheat farina cereal/cream of wheat,0
+"Beverages, carbonated, club soda",14121,Canned garbanzo beans,0
+"Cheese, cottage, nonfat, uncreamed, dry, large or small curd",1014,Cottage cheese,0
+"Cheese, cream, fat free",1186,cream cheese,0
+"Fish, trout, rainbow, farmed, raw",15240,Rainbow Morning O's Cereals,0
+"Millet, puffed",43483,plant based fish fillet,0
+"Crustaceans, lobster, northern, cooked, moist heat",15148,Great Northern Beans,0
+"REDUCED SODIUM: Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",907028,Dried orange slices,0
+"Beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine",14151,Steamed whole red bell pepper w/o seed,0
+"Oil, flaxseed, cold pressed",42231,Golden flaxseed,0
+"Frozen yogurts, chocolate",42186,Chocolate,0
+"Radicchio, raw",11952,Muir's diced tomatoes,0
+"Olives, pickled, canned or bottled, green",9195,Pickles,0
+"Cranberries, raw",9078,Cranberry,0
+"Pears, dried, sulfured, uncooked",9259,Dried apricots,0
+"Spices, curry powder",2015,Cocoa powder,0
+"Lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4"" fat, choice, cooked, roasted",17038,Steamed whole red bell pepper w/o seed,0
+"Lamb, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4"" fat, choice, cooked, roasted",17042,Steamed whole red bell pepper w/o seed,0
+"Fish, scup, raw",15090,plant based fish fillet,0
+"Beverages, NESTLE, Boost plus, nutritional drink, ready-to-drink",14041,Dried coconut strips,0
+"Beverages, ABBOTT, ENSURE, Nutritional Shake, Ready-to-Drink",14062,Dried coconut strips,0
+"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",5362,Chicken breast,0
+"Leeks, (bulb and lower leaf-portion), raw",11246,Yellow corn tortilla,0
+"Beans, pink, mature seeds, cooked, boiled, without salt",16041,cooked oat bran,0
+"Cheese, muenster, low fat",42303,cream cheese,0
+"Soybeans, mature cooked, boiled, without salt",16109,cooked oat bran,0
+"Snacks, plantain chips, salted",25027,Plantain banana (steamed 10 in),0
+"Turnips, frozen, cooked, boiled, drained, without salt",11567,Frozen whole green beans,0
+"Beef, variety meats and by-products, tongue, cooked, simmered",13340,cooked oat bran,0
+"Soybeans, mature seeds, roasted, salted",16110,Roasted seaweed,0
+"Game meat, deer, loin, separable lean only, 1"" steak, cooked, broiled",17345,Steamed Green beans,0
+"Salad dressing, thousand island dressing, fat-free",4635,Whole Green house (large) tomato,0
+"Game meat, deer, shoulder clod, separable lean only, cooked, braised",17346,cooked oat bran,0
+"Noodles, chinese, chow mein",20113,Chicken Noodle Soup,0
+"Cheese, muenster",1030,cream cheese,0
+"Mollusks, clam, mixed species, canned, liquid",15162,Pecan,0
+"Oil, industrial, soy (partially hydrogenated), multiuse for non-dairy butter flavor",4651,Multi grain cereal,0
+"Mollusks, mussel, blue, raw",15164,Steamed Whole brussel sprouts,0
+"Chicken, gizzard, all classes, cooked, simmered",5024,Chicken breast,0
+"Milk, dry, nonfat, regular, without added vitamin A and vitamin D",1091,Whole milk,0
+"Fish, cod, Pacific, cooked, dry heat (may contain additives to retain moisture)",15192,Cream of Mushroom Soup (Pacific Foods),0
+"Fish, salmon, pink, canned, total can contents",15084,Canned low sodium pinto bean,0
+Ham salad spread,7031,Nutella spread,0
+"Malt beverage, includes non-alcoholic beer",14305,Whole grain oat cereal,0
+"Game meat, deer, ground, raw",17343,ground pork,0
+"Chicken, broilers or fryers, back, meat and skin, cooked, roasted",5051,Chicken breast,0
+"Nopales, cooked, without salt",11964,cooked oat bran,0
+"Margarine, regular, 80% fat, composite, stick, without salt",4617,Whole Green house (large) tomato,0
+"Margarine, regular, 80% fat, composite, stick, without salt, with added vitamin D",4696,Whole Green house (large) tomato,0
+"Peaches, dried, sulfured, uncooked",9246,Dried coconut chips,0
+"Margarine-like, margarine-butter blend, soybean oil and butter",4585,Peanut butter crackers,0
+"Mung beans, mature seeds, cooked, boiled, without salt",16081,cooked oat bran,0
+"Fish, swordfish, raw",15110,plant based fish fillet,0
+"Leavening agents, baking powder, double-acting, straight phosphate",18370,Rainbow Morning O's Cereals,0
+"Beverages, Propel Zero, fruit-flavored, non-carbonated",14462,Frozen Whole Sweet Green Peas (Flav R Pac),0
+"Beverages, tea, herb, brewed, chamomile",14545,brewed coffee,0
+"Crustaceans, crab, blue, canned",15141,Canned black beans (S&W),0
+"Chicken, feet, boiled",5335,Chicken breast,0
+"Frozen yogurts, flavors other than chocolate",42187,Chocolate,0
+"Veal, sirloin, separable lean and fat, cooked, roasted",17136,Roasted seaweed,0
+"Shortening industrial, soybean (hydrogenated) and cottonseed",4554,Steamed Green beans,0
+"Oil, industrial, soy (partially hydrogenated)  and cottonseed, principal use as a tortilla shortening",4654,Tortilla chips,0
+"Sweeteners, tabletop, fructose, dry, powder",43216,Steamed whole sweet potato,0
+"Rhubarb, raw",9307,Canned garbanzo beans,0
+"Bamboo shoots, canned, drained solids",11028,Canned black beans (S&W),0
+"Cheese, mexican, queso chihuahua",1167,American Cheese,0
+"Chayote, fruit, cooked, boiled, drained, without salt",11150,Deep red grapefruit,0
+"Guava nectar, with sucralose, canned",9519,Whole yellow nectarine,0
+"Milk, dry, nonfat, regular, with added vitamin A and vitamin D",1154,Soy milk,0
+"Baking chocolate, unsweetened, squares",19078,Chocolate,0
+"Cheese, mexican, queso anejo",1165,American Cheese,0
+"Onions, dehydrated flakes",11284,Onion,0
+"Chicken, liver, all classes, cooked, simmered",5028,Chicken breast,0
+"Chicken, cornish game hens, meat and skin, cooked, roasted",5308,Chicken breast,0
+"Game meat, goat, cooked, roasted",17169,cooked oat bran,0
+"Mollusks, oyster, eastern, wild, raw",15167,Wild blend rice,0
+"Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",5361,Low sodium chicken broth,0
+"Milk, dry, whole, with added vitamin D",1090,Whole milk,0
+"Spices, pumpkin pie spice",2035,Pumpkin seeds,0
+"Fish, salmon, sockeye, canned, drained solids",15087,roasted almonds,0
+"Beverages, ABBOTT, ENSURE PLUS, ready-to-drink",43528,Purple cabbage,0
+"Egg, whole, dried",1133,Whole brown egg,0
+"Grapefruit juice, white, frozen concentrate, unsweetened, undiluted",9125,Deep red grapefruit,0
+"Margarine-like vegetable-oil spread, stick/tub/bottle, 60% fat, with added vitamin D",4695,Vegetable juice,0
+"Sour cream, fat free",1180,Sour cream,0
+"Cereals ready-to-eat, wheat germ, toasted, plain",8084,Wheat bran cereal,0
+"Oil, almond",4529,roasted almonds,0
+"Fish, mackerel, Atlantic, raw",15046,plant based fish fillet,0
+"Fish, mackerel, Pacific and jack, mixed species, raw",15050,Cream of Mushroom Soup (Pacific Foods),0
+"Milk, goat, fluid, with added vitamin D",1106,Whole milk,0
+"Spices, celery seed",2007,Steamed Celery stalk,0
+"Duck, domesticated, meat and skin, cooked, roasted",5140,Roasted seaweed,0
+"Chicken, broilers or fryers, neck, meat and skin, cooked simmered",5087,Chicken breast,0
+"Cheese, gouda",1022,cream cheese,0
+"Crustaceans, crayfish, mixed species, wild, raw",15145,Wild blend rice,0
+"Lamb, foreshank, separable lean and fat, trimmed to 1/4"" fat, choice, cooked, braised",17008,cooked oat bran,0
+"Milk, dry, nonfat, instant, with added vitamin A and vitamin D",1092,Soy milk,0
+"Crustaceans, lobster, northern, raw",15147,Great Northern Beans,0
+"Lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4"" fat, choice, cooked, roasted",17012,Steamed whole red bell pepper w/o seed,0
+"Lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4"" fat, choice, cooked, roasted",17014,Steamed whole red bell pepper w/o seed,0
+"Cheese, romano",1038,cream cheese,0
+"Oil, industrial, soy ( partially hydrogenated), all purpose",4652,All purpose flour,0
+"Leavening agents, cream of tartar",18373,Wheat farina cereal/cream of wheat,0
+"Taro, cooked, without salt",11519,cooked oat bran,0
+"Yam, cooked, boiled, drained, or baked, without salt",11602,cooked oat bran,0
+"Rutabagas, raw",11435,Table sugar,0
+"Celeriac, raw",11141,Steamed Celery stalk,0
+"Fish, pompano, florida, raw",15068,plant based fish fillet,0
+"Candies, confectioner's coating, yogurt",19079,Yogurt,0
+"Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, with salt",4614,Vegetable juice,0
+"Chicken, broilers or fryers, separable fat, raw",5047,Chicken breast,0
+"Babyfood, teething biscuits",3216,Wheat crackers (Nabisco),0
+"Fish, sardine, Atlantic, canned in oil, drained solids with bone",15088,Canned low sodium pinto bean,0
+"Nuts, coconut cream, canned, sweetened",12116,coconut milk,0
+"Seeds, sesame seed kernels, dried (decorticated)",12201,Frozen Golden Corn Kernels (Siganture Select),0
+"Cheese, cottage, lowfat, 1% milkfat",1016,Cottage cheese,0
+"Alcoholic beverage, liqueur, coffee, 53 proof",14414,brewed coffee,0
+"Peach nectar, canned, with sucralose, without added ascorbic acid",9251,Whole yellow nectarine,0
+"Turnips, cooked, boiled, drained, without salt",11565,cooked oat bran,0
+"Chicken, broilers or fryers, dark meat, meat only, cooked, roasted",5045,Chicken breast,0
+"Nuts, chestnuts, european, roasted",12167,Peanuts,0
+"Sauce, horseradish",27066,Soy sauce,0
+"Fish, herring, Atlantic, raw",15039,plant based fish fillet,0
+"Cheese, monterey, low fat",42155,cream cheese,0
+"Spices, caraway seed",2005,Carrot juice,0
+"Game meat, bison, separable lean only, cooked, roasted",17157,Steamed Green beans,0
+"Frog legs, raw",80200,Frozen whole green beans,0
+"Beverages, coffee substitute, cereal grain beverage, prepared with water",14237,Whole grain oat cereal,0
+"Fish, mackerel, jack, canned, drained solids",15048,Canned black beans (S&W),0
+"Alcoholic beverage, wine, light",43155,Whole grain oat cereal,0
+"Sweetener, herbal extract powder from Stevia leaf",19918,Frozen Whole Sweet Green Peas (Flav R Pac),0
+"Turtle, green, raw",93600,Whole Bartlett pear w/o seed,0
+"Lamb, ground, cooked, broiled",17225,ground pork,0
+"Game meat, deer, ground, cooked, pan-broiled",17344,ground pork,0
+"Grape leaves, raw",11974,Red seedless grape,0
+"Dandelion greens, cooked, boiled, drained, without salt",11208,Green onion,0
+"Milk, dry, whole, without added vitamin D",1212,Whole milk,0
+"Balsam-pear (bitter gourd), pods, cooked, boiled, drained, without salt",11025,Unsalted butter,0
+"Fish, mullet, striped, raw",15055,plant based fish fillet,0
+"Capers, canned",2054,Canned black beans (S&W),0
+"Margarine, regular, 80% fat, composite, tub, with salt",4611,Whole Green house (large) tomato,0
+"Margarine, regular, 80% fat, composite, tub, with salt, with added vitamin D",4692,Steamed Red chard leaves and stalk (Cal-Organic),0
+"Veal, sirloin, separable lean and fat, raw",17134,Raisin bran cereal,0
+"Pork, fresh, variety meats and by-products, stomach, raw",10119,Hunt's Tomato paste,0
+"Candies, soft fruit and nut squares",19866,Steamed butternut squash,0
+"Fish, herring, Atlantic, pickled",15041,Pickles,0
+"Pate, chicken liver, canned",7053,Chicken breast,0
+"Chicken, broiler, rotisserie, BBQ, breast, meat and skin",5358,Chicken breast,0
+"Beef, variety meats and by-products, liver, cooked, braised",13326,cooked oat bran,0
+"Blackberry juice, canned",9043,Whole blackberry,0
+"Rutabagas, cooked, boiled, drained, without salt",11436,cooked oat bran,0
+"Alcoholic beverage, distilled, rum, 80 proof",14050,Whole wheat tortilla,0
+"Fish, carp, raw",15008,Sharp Chedder Cheese,0
+"Taro, raw",11518,Corn Starch,0
+"Oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed",4543,Whole Bartlett pear w/o seed,0
+"Fish, roe, mixed species, raw",15072,Mixed vegetable burger patty,0
+"Gravy, turkey, canned, ready-to-serve",6125,ground turkey,0
+"Mollusks, oyster, eastern, canned",15170,Steamed butternut squash,0
+"Cheese, parmesan, hard",1033,Sharp Chedder Cheese,0
+"Oil, soybean, salad or cooking, (partially hydrogenated)",4034,Canned Artichoke hearts,0
+"Babyfood, fruit, apple and raspberry, strained",3152,Whole raspberry,0
+"Babyfood, fruit, apple and raspberry, strained",3152,Whole raspberry,0
+"Beverages, coffee, instant, mocha, sweetened",14224,brewed coffee,0
+"Whipped cream substitute, dietetic, made from powdered mix",43268,Steamed whole red bell pepper w/o seed,0
+"Lamb, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4"" fat, cooked, braised",17060,cooked oat bran,0
+"Beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted",43260,Chocolate,0
+"Alcoholic beverage, wine, table, white",14106,White bread,0
+"Water, bottled, generic",14555,Whole Bartlett pear w/o seed,0
+"Escarole, cooked, boiled, drained, no salt added",11214,Rolled oats,0
+"Waxgourd, (chinese preserving melon), cooked, boiled, drained, without salt",11594,Seedless watermelon,0
+"Pork, fresh, separable fat, cooked",10007,cooked oat bran,0
+"Water, non-carbonated, bottles, natural fruit flavors, sweetened with low calorie sweetener",14604,Unsweetened pitted prunes,0
+"Beet greens, cooked, boiled, drained, without salt",11087,Steamed Green beans,0
+"Currants, zante, dried",9085,Dried orange slices,0
+"Grapefruit juice, white, raw",9128,Deep red grapefruit,0
+"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17179,Steamed whole sweet potato,0
+"Cream substitute, flavored, liquid",1205,Sour cream,0
+"Beverages, CYTOSPORT, Muscle Milk, ready-to-drink",14036,Soy milk,0
+"Duck, domesticated, meat only, cooked, roasted",5142,Roasted seaweed,0
+"Broadbeans (fava beans), mature seeds, cooked, boiled, without salt",16053,Bean Sprouts,0
+"Beef, variety meats and by-products, brain, cooked, simmered",13320,cooked oat bran,0
+"Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin",5359,Chicken breast,0
+"Beverages, Water with added vitamins and minerals, bottles, sweetened, assorted fruit flavors",14605,Frozen Whole Sweet Green Peas (Flav R Pac),0
+"Fish, halibut, Atlantic and Pacific, raw",15036,plant based fish fillet,0
+"Parsnips, cooked, boiled, drained, without salt",11299,cooked oat bran,0
+"Beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners",14149,Table sugar,0
+"Veal, ground, cooked, broiled",17143,ground pork,0
+"Spices, mustard seed, ground",2024,Steamed Curely mustard greens,0
+"Beverages, coffee substitute, cereal grain beverage, powder",14236,Whole grain oat cereal,0
+"Taro leaves, raw",11520,Spinach leaves,0
+"Carbonated beverage, chocolate-flavored soda",14552,Chocolate,0
+"Babyfood, apple-banana juice",3167,Banana chips,0
+"Beef, variety meats and by-products, heart, cooked, simmered",13322,Canned Artichoke hearts,0
+"Quail, cooked, total edible",43282,cooked oat bran,0
+"Rhubarb, frozen, uncooked",9309,Frozen whole green beans,0
+"Game meat, boar, wild, cooked, roasted",17159,Roasted seaweed,0
+"Veal, leg (top round), separable lean and fat, cooked, braised",17095,cooked oat bran,0
+"Fish, eel, mixed species, raw",15025,Mixed vegetable burger patty,0
+"Game meat, moose, cooked, roasted",17173,roasted almonds,0
+"Radishes, oriental, cooked, boiled, drained, without salt",11431,Dried corn grits/polenta,0
+"Fish, caviar, black and red, granular",15012,Black tea,0
+"Burdock root, raw",11104,Sourdough bread,0
+"Game meat, raccoon, cooked, roasted",17182,cooked oat bran,0
+"Game meat, raccoon, cooked, roasted",17182,cooked oat bran,0
+"Mollusks, snail, raw",90560,snack bar (blueberry),0
+"Cheese, camembert",1007,American Cheese,0
+"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",1256,Yogurt,0
+"Milk dessert bar, frozen, made from lowfat milk",1244,Lowfat chocolate milk,0
+"Mollusks, scallop, (bay and sea), cooked, steamed",90240,Steamed Collard greens leaves and stalk,0
+"Soymilk, original and vanilla, light, with added calcium, vitamins A and D",16225,Vanilla bean ice cream,0
+"Cheese, Mexican, blend, reduced fat",1209,American Cheese,0
+"Beverages, Energy drink, VAULT, citrus flavor",14640,Frozen Whole Sweet Green Peas (Flav R Pac),0
+"Cream substitute, powdered, light",42136,Protein powder,0
+"Cream substitute, liquid, light",42141,Sour cream,0
+"Beverages, Orange juice, light, No pulp",14064,Pulp free orange juice,0
+"Guanabana nectar, canned",9434,Banana chips,0
+"Beverages, The COCA-COLA company, Hi-C Flashin' Fruit Punch",14065,Coca cola,0
+"Hearts of palm, raw",43392,Canned Artichoke hearts,0
+"Syrups, corn, high-fructose",19351,Maple syrup,0
+"Cheese, swiss, low sodium",43405,Low sodium chicken broth,0
+"Beverages, Energy drink, ROCKSTAR",14629,Steamed Curely mustard greens,0
+"Chicken, broilers or fryers, meat and skin and giblets and neck, roasted",5004,Chicken breast,0
+"Cream substitute, flavored, powdered",1206,Cocoa powder,0
+"Cheese, provolone, reduced fat",1208,cream cheese,0
+"Beverages, Energy drink, RED BULL, sugar free, with added caffeine, niacin, pantothenic acid, vitamins B6 and B12",14156,Steamed Red chard leaves and stalk (Cal-Organic),0
+"Beverages, Energy Drink, Monster, fortified with vitamins C, B2, B3, B6, B12",14627,Steamed Green beans,0
+"Beet greens, raw",11086,Steamed Green beans,0
+"Dandelion greens, raw",11207,Green onion,0
+Natto,16113,Hunt's Tomato paste,0
+"Fennel, bulb, raw",11957,Red whole grain bulgur,0
+"Game meat, bear, cooked, simmered",17147,Steamed Green beans,0
+"Chicken, broilers or fryers, skin only, cooked, roasted",5018,Chicken breast,0
+"Pomegranate juice, bottled",9442,Pomegranate w/ seeds,0
+"Macaroni, vegetable, enriched, cooked",20106,Vegetable chips,0
+"Beverages, Energy drink, ROCKSTAR, sugar free",14630,Table sugar,0
+"Beverages, coffee, instant, with whitener, reduced calorie",43401,brewed coffee,0
+"Veal, composite of trimmed retail cuts, separable lean only, cooked",17091,Steamed Collard greens leaves and stalk,0
+"Fish, pike, northern, raw",15062,Great Northern Beans,0
+"Lotus root, cooked, boiled, drained, without salt",11255,cooked oat bran,0
+"Pokeberry shoots, (poke), cooked, boiled, drained, without salt",11351,cooked oat bran,0
+"Cress, garden, raw",11203,cream cheese,0
+"Lamb, rib, separable lean and fat, trimmed to 1/4"" fat, choice, cooked, broiled",17030,cooked oat bran,0
+"Lamb, rib, separable lean only, trimmed to 1/4"" fat, choice, cooked, broiled",17033,cooked oat bran,0
+"Beverages, Energy drink, AMP",14625,Steamed Iceberg lettuce,0
+"Babyfood, fruit, bananas with tapioca, strained",3129,Banana chips,0
+"Babyfood, fruit, bananas with tapioca, junior",3280,Banana chips,0
+"Soymilk, chocolate and other flavors, light, with added calcium, vitamins A and D",16227,Lowfat chocolate milk,0
+"Fish, sturgeon, mixed species, raw",15104,Mixed vegetable burger patty,0
+"Beverages, Energy drink, AMP, sugar free",14628,Table sugar,0
+"Snacks, sweet potato chips, unsalted",25012,Steamed whole sweet potato,0
+"Milk, fluid, nonfat, calcium fortified (fat free or skim)",42290,Lowfat chocolate milk,0
+"Babyfood, water, bottled, GERBER, without added fluoride",3024,Rice cereal (Gerber),0
+"Millet, cooked",20032,plant based fish fillet,0
+"Litchis, raw",9164,Tomato Ketchup,0
+"Babyfood, dessert, custard pudding, vanilla, strained",3245,Vanilla bean ice cream,0
+"Babyfood, dessert, custard pudding, vanilla, junior",3246,Vanilla cookies,0
+"Beverages, POWERADE, Zero, Mixed Berry",14167,Mixed vegetable burger patty,0
+"Candies, carob, unsweetened",19071,Unsweetened almond milk,0
+"Beverages, tea, hibiscus, brewed",14649,brewed coffee,0
+"Kohlrabi, raw",11241,Wheat crackers (Nabisco),0
+"Pumpkin flowers, cooked, boiled, drained, without salt",11417,canned pumpkin,0
+"Fish, herring, Atlantic, kippered",15042,plant based fish fillet,0
+"Veal, leg (top round), separable lean and fat, cooked, roasted",17098,Beef round tip steak,0
+"Lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4"" fat, choice, raw",17035,Whole yellow peach (Prima Farms),0
+"Veal, composite of trimmed retail cuts, separable lean and fat, cooked",17089,cooked oat bran,0
+"Kumquats, raw",9149,Steamed butternut squash,0
+"Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added",11379,Steamed whole sweet potato,0
+"Figs, dried, stewed",9095,brewed coffee,0
+"Beverages, Acai berry drink, fortified",14056,Cranberry,0
+"Snacks, peas, roasted, wasabi-flavored",25066,Roasted seaweed,0
+"Chayote, fruit, raw",11149,Deep red grapefruit,0
+"Beverages, water, bottled, yumberry, pomegranate with anti-oxidants, zero calories",14031,Pomegranate w/ seeds,0
+"Sweetener, syrup, agave",19912,Maple syrup,0
+"Pears, dried, sulfured, stewed, without added sugar",9260,Table sugar,0
+"Veal, leg (top round), separable lean and fat, cooked, pan-fried, breaded",17096,Refried Beans,0
+"Veal, leg (top round), separable lean and fat, cooked, pan-fried, not breaded",17097,Refried Beans,0
+"Veal, leg (top round), separable lean and fat, cooked, pan-fried, not breaded",17097,Refried Beans,0
+"Beverages, UNILEVER, SLIMFAST Shake Mix, powder, 3-2-1 Plan",14047,Protein powder,0
+"Beverages, KELLOGG'S, SPECIAL K Protein Shake",14059,Protein powder,0
+"Beverages, Energy Drink, sugar free",14061,Table sugar,0
+"Peanut flour, defatted",16099,Peanuts,0
+"Cheese, cheddar, nonfat or fat free",1265,Sharp Chedder Cheese,0
+"Cheese, Swiss, nonfat or fat free",1266,cream cheese,0
+"Beverages, MONSTER energy drink, low carb",14022,Rice cereal (Gerber),0
+"Beverages, THE COCA-COLA COMPANY, NOS energy drink, Original, grape, loaded cherry, charged citrus, fortified with vitamins B6 and B12",14030,Original apple sauce (Tree top),0
+"Beef, variety meats and by-products, kidneys, cooked, simmered",13324,Canned Kidney beans,0
+"Game meat, beaver, cooked, roasted",17151,Steamed Green beans,0
+"Beverages, UNILEVER, SLIMFAST Shake Mix, high protein, whey powder, 3-2-1 Plan,",14055,Protein powder,0
+"Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt",11023,Steamed Collard greens leaves and stalk,0
+"Broccoli raab, raw",11096,Frozen broccoli florets,0
+"Broccoli raab, raw",11096,Frozen broccoli florets,0
+"Loganberries, frozen",9167,Cranberry,0
+"Sour cream, imitation, cultured",1074,Sour cream,0
+"Sour cream, imitation, cultured",1074,Sour cream,0
+"Blueberries, dried, sweetened",9163,Whole blueberry,0
+"Broccoli raab, cooked",11097,Frozen broccoli florets,0
+"Babyfood, dessert, peach yogurt",43536,Yogurt,0
+"Beverages, Energy drink, VAULT Zero, sugar-free, citrus flavor",14641,Frozen Whole Sweet Green Peas (Flav R Pac),0
+"Beverages, Energy drink, VAULT Zero, sugar-free, citrus flavor",14641,Frozen Whole Sweet Green Peas (Flav R Pac),0
+"Babyfood, dinner, pasta with vegetables",3077,Vegetable chips,0
+"Pork, cured, feet, pickled",10132,Pickles,0
+"Pork, cured, feet, pickled",10132,Pickles,0
+"Game meat, squirrel, cooked, roasted",17184,Steamed yellow neck squash,0
+"Duck, domesticated, meat only, raw",5141,Pomegranate w/ seeds,0
+"Yogurt, Greek, strawberry, lowfat",1284,Whole strawberry,0
+"Yogurt, Greek, fruit, whole milk",1294,Yogurt,0
+"Beverages, tea, green, brewed, regular",14278,Steamed Green beans,0
+"Grapefruit juice, pink or red, with added calcium",9127,Deep red grapefruit,0
+"Beverages, AMBER, hard cider",14250,Rice cereal (Gerber),0
+"Grape juice, canned or bottled, unsweetened, with added ascorbic acid and calcium",9512,Unsweetened pitted prunes,0
+"Alcoholic beverages, beer, higher alcohol",14251,Whole sweet cherry,0
+"Egg, quail, whole, fresh, raw",1140,Whole brown egg,0
+"Egg, quail, whole, fresh, raw",1140,Whole brown egg,0
+"Yogurt, Greek, strawberry, nonfat",1285,Whole strawberry,0
+"Beverages, tea, green, ready to drink, unsweetened",14261,Unsweetened pitted prunes,0
+"Alcoholic beverage, beer, light, higher alcohol",14248,Whole wheat spaghetti,0
+"Fish, salmon, sockeye, raw",15085,roasted almonds,0
+Wasabi,27064,Wheat crackers (Nabisco),0
+"Beans, yellow, mature seeds, cooked, boiled, without salt",16048,Yellow mango,0
+"Yogurt, Greek, vanilla, nonfat",1286,Yogurt,0
+"Beverages, coffee, ready to drink, milk based, sweetened",14179,brewed coffee,0
+"Beverages, The COCA-COLA company, Glaceau Vitamin Water, Revive Fruit Punch, fortified",14093,Coca cola,0
+"Beverages, tea, green, ready-to-drink, sweetened",14206,Steamed Green beans,0
+"Kefir, lowfat, plain, LIFEWAY",1289,Lowfat chocolate milk,0
+"Kefir, lowfat, strawberry, LIFEWAY",1290,Whole strawberry,0
+"Alcoholic beverage, beer, light, low carb",14013,Rice cereal (Gerber),0
+"Beverages, tea, green, ready-to-drink, diet",14190,Steamed Green beans,0
+"Beverages, Malted drink mix, natural, powder, dairy based.",14311,Protein powder,0
+"Alcoholic beverages, wine, rose",14253,Organic Frosted Flakes Cereals,0
+"Succotash, (corn and limas), frozen, cooked, boiled, drained, without salt",11502,Frozen broccoli florets,0
+"Cheese, mexican, queso cotija",1267,American Cheese,0
+"Margarine-like, vegetable oil-butter spread, reduced calorie, tub, with salt",42309,Vegetable juice,0
+"Mollusks, octopus, common, raw",15166,Commercial Mac and Cheese,0
+"Beverages, Apple juice drink, light, fortified with vitamin C",14162,Apple juice,0
+"Beverages, KELLOGG'S SPECIAL K20 protein powder",14068,Protein powder,0
+"Mollusks, abalone, mixed species, raw",15155,Mixed vegetable burger patty,0
+"Mollusks, abalone, mixed species, raw",15155,Mixed vegetable burger patty,0
+"Beverages, Powerade Zero Ion4, calorie-free, assorted flavors",14599,Frozen Whole Sweet Green Peas (Flav R Pac),0
+"Peaches, dried, sulfured, stewed, without added sugar",9247,Table sugar,0
+"Beverages, Energy drink, FULL THROTTLE",14626,Cottage cheese,0
+"Potatoes, mashed, home-prepared, whole milk added",11657,Steamed whole sweet potato,0
+"Dove, cooked (includes squab)",43287,Steamed yellow neck squash,0
+"Beverages,  Energy drink, Citrus",14021,Rice cereal (Gerber),0
+"Cereals ready-to-eat, BARBARA'S PUFFINS, original",8657,Whole Original English muffin (Thomas),0
+"Babyfood, cookies",3213,Vanilla cookies,0
+"Babyfood, grape juice, no sugar, canned",44074,Table sugar,0
+"Child formula, ABBOTT NUTRITION, PEDIASURE, ready-to-feed",3860,Multi grain cereal,0
+"Passion-fruit, (granadilla), purple, raw",9231,Purple cabbage,0
+"Noodles, egg, spinach, enriched, cooked",20112,Chicken Noodle Soup,0
+"Sweet potato leaves, cooked, steamed, without salt",11506,Steamed whole sweet potato,0
+"Chicken, broilers or fryers, back, meat and skin, cooked, stewed",5052,Chicken breast,0
+"Beverages, OCEAN SPRAY, Cran-Energy, Cranberry Energy Juice Drink",14038,Cranberry,0
+"Cheese, fontina",1020,cream cheese,0
+"Mollusks, octopus, common, cooked, moist heat",15230,Low Moisture part Skim Mozarella cheese,0
+Carob flour,16055,Soy flour,0
+"Radishes, hawaiian style, pickled",43142,Pickles,0
+"Soup, beef broth, less/reduced sodium, ready to serve",6188,Low sodium chicken broth,0

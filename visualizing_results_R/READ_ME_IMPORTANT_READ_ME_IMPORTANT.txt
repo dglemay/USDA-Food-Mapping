@@ -1,1 +1,0 @@
-Noting that there are some issues with the density plots - particularly during overlays - where heights of density are slightly inconsistent.
