@@ -2,16 +2,16 @@
 
 The FoodMapper application can be found at https://richtext-semantic-food-mapper.hf.space/
 
-This repository contains benchmark data, evaluation methods, and results for the paper, "From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases," under review. Authors = Danielle G. Lemay, Michael P. Strohmeier, Richard B. Stoker, Jules A. Larke, Stephanie M.G. Wilson
+This repository contains ground truth data, evaluation methods, and results for the paper, "Evaluation of Large Language Models for Mapping Dietary Data to Food Databases," under review. Authors = Danielle G. Lemay, Michael P. Strohmeier, Richard B. Stoker, Jules A. Larke, Stephanie M.G. Wilson
 
-- **Benchmark dataset ASA24-to-FoodB** 
+- **Ground truth dataset ASA24-to-FoodB** 
 
   - Input food descriptions = Foods reported via ASA24 dietary recall
   - Target database = FoodB
   - Assumes **every** input food *does* have a valid match in the target set.
   - Goal: Return the single best match for each input food.
 
-- **Benchmark dataset  NHANES-to-DFG2** 
+- **Ground truth dataset  NHANES-to-DFG2** 
 
   - Input food descriptions = Foods reported via 24-hr dietary recall in NHANES
   - Target database = Davis Food Glycopedia 2
