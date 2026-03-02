@@ -1,6 +1,6 @@
 # USDA Food Matching
 
-The FoodMapper application can be found at https://github.com/RichardStoker-USDA/FoodMapper/
+The **FoodMapper application** can be found at https://github.com/RichardStoker-USDA/FoodMapper/ 
 
 This repository contains ground truth data, evaluation methods, and results for the paper, "Evaluation of Large Language Models for Mapping Dietary Data to Food Databases," under review. Authors = Danielle G. Lemay, Michael P. Strohmeier, Richard B. Stoker, Jules A. Larke, Stephanie M.G. Wilson
 
