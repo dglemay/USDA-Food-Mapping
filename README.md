@@ -4,7 +4,7 @@ The **FoodMapper application** can be found at https://FoodMapper.app
 
 This repository contains ground truth data, evaluation methods, and results for the paper, "Evaluation of Large Language Models for Mapping Dietary Data to Food Databases," under review. Authors = Danielle G. Lemay, Michael P. Strohmeier, Richard B. Stoker, Jules A. Larke, Stephanie M.G. Wilson
 
-- **Ground truth dataset ASA24-to-FoodB** 
+- **[Ground truth dataset ASA24-to-FoodB](https://github.com/dglemay/USDA-Food-Mapping/tree/main/benchmark_datasets/ASA24-to-FoodB/dataset)** 
 
   - Input food descriptions = Foods reported via ASA24 dietary recall
   - Target database = FoodB
