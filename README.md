@@ -11,7 +11,7 @@ This repository contains ground truth data, evaluation methods, and results for 
   - Assumes **every** input food *does* have a valid match in the target set.
   - Goal: Return the single best match for each input food.
 
-- **Ground truth dataset  NHANES-to-DFG2** 
+- **[Ground truth dataset  NHANES-to-DFG2](https://github.com/dglemay/USDA-Food-Mapping/tree/main/benchmark_datasets/NHANES-to-DFG2)** 
 
   - Input food descriptions = Foods reported via 24-hr dietary recall in NHANES
   - Target database = Davis Food Glycopedia 2
