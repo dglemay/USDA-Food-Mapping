@@ -1,6 +1,6 @@
 # USDA Food Matching
 
-The **FoodMapper application** can be found at https://github.com/RichardStoker-USDA/FoodMapper/ 
+The **FoodMapper application** can be found at https://FoodMapper.app
 
 This repository contains ground truth data, evaluation methods, and results for the paper, "Evaluation of Large Language Models for Mapping Dietary Data to Food Databases," under review. Authors = Danielle G. Lemay, Michael P. Strohmeier, Richard B. Stoker, Jules A. Larke, Stephanie M.G. Wilson
 
@@ -55,8 +55,6 @@ This dataset assumes that every input description has a corresponding match in t
 - **NHANES**<br>
 ***File***: `nhanes_dfg2_labels.csv`<br>
 In this dataset, each ingredient description (ingred_desc) derived from the dietary data was labeled as either having a valid match (label = 1) or not (label = 0) to the food description (simple_name) in the Davis Food Glycopedia 2.0. Matches were considered to exist if there was a good match for the exact food **or** for a food with similar carbohydrate content, which served as a proxy when no direct match was available.
-
-**Data provenance**   > *[add citation / download URL here]*
 
 ---
 
