@@ -5317,8 +5317,8 @@
 660,"Pastry","21324","McDONALD'S, Baked Apple Pie","mcdonald's baked apple pie","USDA",5316
 660,"Pastry","21388","Fast foods, miniature cinnamon rolls","fast miniature cinnamon rolls","USDA",5317
 660,"Pastry","21408","McDONALD'S, English Muffin","mcdonald's english muffin","USDA",5318
-661,"Dragée","2009","Dragee, average values","dragee average values","DTU",5319
-661,"Dragée","2007","Dragee, liquorice","dragee liquorice","DTU",5320
+661,"DragÃ©e","2009","Dragee, average values","dragee average values","DTU",5319
+661,"DragÃ©e","2007","Dragee, liquorice","dragee liquorice","DTU",5320
 662,"Chewing gum","1237","Chewing gum, no sugar added, all types","chewing gum no sugar added all types","DTU",5321
 662,"Chewing gum","1236","Chewing gum, sugar added, all types","chewing gum sugar added all types","DTU",5322
 662,"Chewing gum","19163","Chewing gum","chewing gum","USDA",5323
@@ -7785,7 +7785,7 @@
 797,"Canola","04678","Oil, vegetable, Natreon canola, high stability, non trans, high oleic (70%)","oil vegetable natreon canola high stability non trans high oleic 70","USDA",7784
 797,"Canola","04698","Oil, industrial, canola, high oleic","oil industrial canola high oleic","USDA",7785
 798,"Babassu palm","04534","Oil, babassu","oil babassu","USDA",7786
-799,"Cupuaçu","04541","Oil, cupu assu","oil cupu assu","USDA",7787
+799,"CupuaÃ§u","04541","Oil, cupu assu","oil cupu assu","USDA",7787
 800,"Shea tree","04536","Oil, sheanut","oil sheanut","USDA",7788
 801,"Oil-seed Camellia","04516","Oil, teaseed","oil teaseed","USDA",7789
 802,"Ucuhuba","04573","Oil, ucuhuba butter","oil ucuhuba butter","USDA",7790
@@ -8406,7 +8406,7 @@
 147,"European plum","65","Plum, prune pure juice","plum prune pure juice","PHENOL EXPLORER",8405
 147,"European plum","66","Plum, prune juice from concentrate","plum prune juice from concentrate","PHENOL EXPLORER",8406
 102,"Mexican oregano","803","Mexican oregano, dried","mexican oregano dried","PHENOL EXPLORER",8407
-626,"Grape wine","138","Wine [Rosé]","wine [rosé]","PHENOL EXPLORER",8408
+626,"Grape wine","138","Wine [RosÃ©]","wine [rosÃ©]","PHENOL EXPLORER",8408
 204,"Common grape","244","Grape [Green], pure juice","grape [green] pure juice","PHENOL EXPLORER",8409
 228,"Fox grape","159","Fox grape [Black]","fox grape [black]","PHENOL EXPLORER",8410
 228,"Fox grape","205","Fox grape [Green], pure juice","fox grape [green] pure juice","PHENOL EXPLORER",8411
@@ -8839,7 +8839,7 @@
 150,"Guava","","Guava, red-fleshed","guava red fleshed","USDA",8838
 150,"Guava","","Guava, white-fleshed","guava white fleshed","USDA",8839
 389,"Jackfruit","","Jackfruit, steamed","jackfruit steamed","USDA",8840
-391,"Java plum","","Jambul (Jambolão), raw (S. cumini)","jambul jambolão raw s. cumini","USDA",8841
+391,"Java plum","","Jambul (JambolÃ£o), raw (S. cumini)","jambul jambolÃ£o raw s. cumini","USDA",8841
 257,"Jostaberry","","Jostaberry, raw","jostaberry raw","USDA",8842
 155,"Blackcurrant","","Juice concentrate, black currant","juice concentrate black currant","USDA",8843
 136,"Black chokeberry","","Juice concentrate, chokeberry","juice concentrate chokeberry","USDA",8844
@@ -8918,8 +8918,8 @@
 35,"Chinese cabbage","","Cabbage, Chinese, raw","cabbage chinese raw","USDA",8917
 253,"Napa cabbage","","Cabbage, napa, raw","cabbage napa raw","USDA",8918
 30,"Common cabbage","","Cabbage, red, pickled","cabbage red pickled","USDA",8919
-661,"Dragée","2007","Drageé, liquorice","drageé liquorice","DTU",8920
-661,"Dragée","2009","Dragée, average values","dragée average values","DTU",8921
+661,"DragÃ©e","2007","DrageÃ©, liquorice","drageÃ© liquorice","DTU",8920
+661,"DragÃ©e","2009","DragÃ©e, average values","dragÃ©e average values","DTU",8921
 15,"Wild celery","","Celery hearts, green","celery hearts green","USDA",8922
 15,"Wild celery","","Celery hearts, white","celery hearts white","USDA",8923
 15,"Wild celery","","Celery, Chinese, raw","celery chinese raw","USDA",8924
@@ -9028,14 +9028,14 @@
 483,"Sheep (Mutton, Lamb)","","Lamb, meat, average values, raw","lamb meat average values raw","DTU",9027
 590,"Anatidae","","Liver, goose, raw","liver goose raw","DTU",9028
 334,"Chicken","","Liver, chicken (hen), raw","liver chicken hen raw","DTU",9029
-630,"Liquor","1073","Liqueur, Crème de Menthe","liqueur crème de menthe","DTU",9030
-270,"Breakfast cereal","","Breakfast cereal, Müsli with added sugar","breakfast cereal müsli with added sugar","DTU",9031
-270,"Breakfast cereal","","Breakfast cereal, Müsli without added sugar","breakfast cereal müsli without added sugar","DTU",9032
-270,"Breakfast cereal","","Breakfast cereal, müsli, average values","breakfast cereal müsli average values","DTU",9033
-626,"Grape wine","1075","Wine, rosé","wine rosé","DTU",9034
-626,"Grape wine","1085","Wine, red, rosé, non-alcoholic","wine red rosé non alcoholic","DTU",9035
-531,"Clupeinae (Herring, Sardine, Sprat)","1294","Bucklingpaté (sweet cured herring, smoked)","bucklingpaté sweet cured herring smoked","DTU",9036
-549,"Domestic pig","5003","Pork, loin (sauté slices), lean, raw","pork loin sauté slices lean raw","DTU",9037
+630,"Liquor","1073","Liqueur, CrÃ¨me de Menthe","liqueur crÃ¨me de menthe","DTU",9030
+270,"Breakfast cereal","","Breakfast cereal, MÃ¼sli with added sugar","breakfast cereal mÃ¼sli with added sugar","DTU",9031
+270,"Breakfast cereal","","Breakfast cereal, MÃ¼sli without added sugar","breakfast cereal mÃ¼sli without added sugar","DTU",9032
+270,"Breakfast cereal","","Breakfast cereal, mÃ¼sli, average values","breakfast cereal mÃ¼sli average values","DTU",9033
+626,"Grape wine","1075","Wine, rosÃ©","wine rosÃ©","DTU",9034
+626,"Grape wine","1085","Wine, red, rosÃ©, non-alcoholic","wine red rosÃ© non alcoholic","DTU",9035
+531,"Clupeinae (Herring, Sardine, Sprat)","1294","BucklingpatÃ© (sweet cured herring, smoked)","bucklingpatÃ© sweet cured herring smoked","DTU",9036
+549,"Domestic pig","5003","Pork, loin (sautÃ© slices), lean, raw","pork loin sautÃ© slices lean raw","DTU",9037
 34,"Broccoli","","Broccoli","broccoli","9416471",9038
 200,"Mung bean","","mung bean, steamed","mung bean steamed","10995351",9039
 85,"Soy bean","","soybean, steamed","soybean steamed","10995351",9040
@@ -9113,7 +9113,7 @@
 205,"Corn","","Sweet corn, cooked","sweet corn cooked","LF. Flora and RC. Wiley. Flora and Wiley., 2007. Sweet corn aroma, chemical components and relative importance in the overall flavor response. J. Food Sci. (1974), 39, 770-773",9112
 189,"Lowbush blueberry","","Wild Blueberry Vaccinium angustifolium","wild blueberry vaccinium angustifolium","Lugemwa, F. N., Lwande, W., Bentley, M. D., Mendel, M. J., and Alford, A. R. (1989). Volatiles of wild blueberry, Vaccinium angustifolium: possible attractants for the blueberry maggot fruit fly, Rhagoletis mendax. J. Agric. Food Chem. 37, 232-233. doi: 10.1021/jf00085a053",9113
 6,"Garden onion","","Onion oil","onion oil","M. H. Brodnitz, C. L. Pollock, and P. P. Vallon. Flavor Components of Onion Oil. J. Agric. Food Chem. 1969, 17(4), 760-763",9114
-6,"Garden onion","","Onion (White Duch onion of family Victoria or Egyptian yellow type (Allium Ãƒâ€” proliferum)), fresh","onion white duch onion of family victoria egyptian yellow type allium ãƒâ€” proliferum fresh","Mans Boelens, Pieter J. de Valois, Henk J. Wobben, and Arne van der Gen. Volatile Flavor Compounds from Onion. J. Agric. FOOD Chem., 1971, 19(5), 984-991",9115
+6,"Garden onion","","Onion (White Duch onion of family Victoria or Egyptian yellow type (Allium ÃƒÂƒÃ¢Â€Â” proliferum)), fresh","onion white duch onion of family victoria egyptian yellow type allium Ã£ÂƒÃ¢Â€Â” proliferum fresh","Mans Boelens, Pieter J. de Valois, Henk J. Wobben, and Arne van der Gen. Volatile Flavor Compounds from Onion. J. Agric. FOOD Chem., 1971, 19(5), 984-991",9115
 6,"Garden onion","","Steam-Distilled Onion Oil (Dutch onions (white type, family Victoria) and Egyptian onions (yellow type))","steam distilled onion oil dutch onions white type family victoria egyptian onions yellow type","Mans Boelens, Pieter J. de Valois, Henk J. Wobben, and Arne van der Gen. Volatile Flavor Compounds from Onion. J. Agric. FOOD Chem., 1971, 19(5), 984-991",9116
 6,"Garden onion","","Onion (White Duch onion of family Victoria or Egyptian yellow type), fresh","onion white duch onion of family victoria egyptian yellow type fresh","Mans Boelens, Pieter J. de Valois, Henk J. Wobben, and Arne van der Gen. Volatile Flavor Compounds from Onion. J. Agric. FOOD Chem., 1971, 19(5), 984-991",9117
 6,"Garden onion","","Onion Oil and Onion Extracts","onion oil onion extracts","Mans Boelens, Pieter J. de Valois, Henk J. Wobben, and Arne van der Gen. Volatile Flavor Compounds from Onion. J. Agric. FOOD Chem., 1971, 19(5), 984-991",9118
@@ -9196,7 +9196,7 @@
 930,"Rabbiteye blueberry","","Rabbiteye blueberries, frozen","rabbiteye blueberries frozen","Sellappan S, Akoh CC, Krewer G. Phenolic Compounds and Antioxidant Capacity of Georgia-Grown Blueberries and Blackberries. 2002. J. Agric. Food Chem. 2002, 50, 2432-2438",9195
 933,"Evergreen blackberry","","Blackberries, frozen","blackberries frozen","Sellappan S, Akoh CC, Krewer G. Phenolic Compounds and Antioxidant Capacity of Georgia-Grown Blueberries and Blackberries. 2002. J. Agric. Food Chem. 2002, 50, 2432-2438",9196
 632,"Milk (Cow)","","Whole milk, vitamin D3","whole milk vitamin d3","USDA",9197
-632,"Milk (Cow)","","Milk with 3.8% fat","milk with 3.8 fat","Patricia Cava-Montesinos, M. Luisa Cervera Agust’n Pastor Miguel de la Guardia. 2005. Room temperature acid sonication ICP-MS multielemental analysis of milk.Analytica Chimica Acta Volume 531, Issue 1, Pages 111-123",9198
+632,"Milk (Cow)","","Milk with 3.8% fat","milk with 3.8 fat","Patricia Cava-Montesinos, M. Luisa Cervera AgustÂ’n Pastor Miguel de la Guardia. 2005. Room temperature acid sonication ICP-MS multielemental analysis of milk.Analytica Chimica Acta Volume 531, Issue 1, Pages 111-123",9198
 632,"Milk (Cow)","","Commercial fresh and pasteurized milk","commercial fresh pasteurized milk","Semaghiul Birghila, Simona Dobrinas, Gabriela Stanciu and Alina Soceanu. Determination of major and minor elements in milk through ICP-AES. Environmental Engineering and Management Journal. November/December 2008, Vol.7, No.6, 805-808",9199
 632,"Milk (Cow)","","Commercial milk","commercial milk","Carbohydrate Polymers 37 (1998) 225-229",9200
 632,"Milk (Cow)","","Commercial milk with low-fat 1.5% fat, Spanish","commercial milk with low fat 1.5 fat spanish","International Dairy Journal; Volume 15, Issue 5, May 2005, Pages 521-526",9201
@@ -9210,7 +9210,7 @@
 632,"Milk (Cow)","","Fresh and pasteurized milk","fresh pasteurized milk","Semaghiul Birghila, Simona Dobrinas, Gabriela Stanciu and Alina Soceanu. Determination of major and minor elements in milk through ICP-AES. Environmental Engineering and Management Journal. November/December 2008, Vol.7, No.6, 805-808",9209
 632,"Milk (Cow)","","Fresh pasteurized milk. Milk fat content not specified, assume this is whole milk.","fresh pasteurized milk. milk fat content not specified assume this is whole milk.","Harper, W. J., Gould, I. A. and Hankinson, C. L. 1961. Observations on the free volatile acids in milk. J. Dairy Sci. 44, 1764-1765",9210
 632,"Milk (Cow)","","Milk","milk","Shin Tsen, Jinyi Siew, Eunice Lau, Farzana A qah Bte Roslee, Hui Chan, Wai Loke  Cow?s milk as a dietary source of equol and phenolic antioxidants: di erential distribution in the milk aqueous and lipid fractions. Dairy Sci. & Technol. (2014) 94:625?632. DOI 10.1007/s13594-014-0183-4",9211
-632,"Milk (Cow)","","Milk with 3.6% fat","milk with 3.6 fat","Park, Y. W; Ju‡rez, Manuela ; Ramos, M.; Haenlein, G. F. W. Physico-chemical characteristics of goat and sheep milk. Small Ruminant Res.(2007) 68:88-113   doi: 10.1016/j.smallrumres.2006.09.013",9212
+632,"Milk (Cow)","","Milk with 3.6% fat","milk with 3.6 fat","Park, Y. W; JuÂ‡rez, Manuela ; Ramos, M.; Haenlein, G. F. W. Physico-chemical characteristics of goat and sheep milk. Small Ruminant Res.(2007) 68:88-113   doi: 10.1016/j.smallrumres.2006.09.013",9212
 632,"Milk (Cow)","","Milk with 4% fat","milk with 4 fat","Pirjo H. Mattila, Vieno I. Piironen, Esko J. Uusi-Rauva, and Pekka E. Koivistoinen. 1995. Contents of Cholecalciferol, Ergocalciferol, and Their 25-Hydroxylated Metabolites in Milk Products and Raw Meat and Liver As Determined by HPLC. J. Agric. Food Chem. 43 (9), pp 2394?2399",9213
 632,"Milk (Cow)","","Pasterurized milk after 14 days of storage. Milk fat content not specified, assume this is whole milk.","pasterurized milk after 14 days of storage. milk fat content not specified assume this is whole milk.","Harper, W. J., Gould, I. A. and Hankinson, C. L. 1961. Observations on the free volatile acids in milk. J. Dairy Sci. 44, 1764-1765",9214
 632,"Milk (Cow)","","Pasterurized milk after 21 days of storage. Milk fat content not specified, assume this is whole milk.","pasterurized milk after 21 days of storage. milk fat content not specified assume this is whole milk.","Harper, W. J., Gould, I. A. and Hankinson, C. L. 1961. Observations on the free volatile acids in milk. J. Dairy Sci. 44, 1764-1765",9215
@@ -9281,8 +9281,8 @@
 268,"Beer","","Fresh beer","fresh beer","Mei Li, Zhaoxia Yang, Mei Yang, Lianju Shan and Jianjun Dong. Determination of Furfural in Beer by High-Performance Liquid Chromatography with Solid-Phase Extraction. J. Inst. Brew. 115(3), 226-231, 2009.  doi: 10.1002/j.2050-0416.2009.tb00373.x",9280
 268,"Beer","","Aged beer","aged beer","Mei Li, Zhaoxia Yang, Mei Yang, Lianju Shan and Jianjun Dong. Determination of Furfural in Beer by High-Performance Liquid Chromatography with Solid-Phase Extraction. J. Inst. Brew. 115(3), 226-231, 2009.  doi: 10.1002/j.2050-0416.2009.tb00373.x",9281
 268,"Beer","","Italian lager beer","italian lager beer","12617582",9282
-268,"Beer","","French beer","french beer","Mändl B., Wullinger F., Wagner D., Binder W., Schneider K., Schlosser A., Piendl A. Comparison of different aged beers (Ger.). Brauwelt. 1971a;111:732-735",9283
-268,"Beer","","Itish porter stout","itish porter stout","Mändl B., Wullinger F., Wagner D., Binder W., Schneider K., Schlosser A., Piendl A. Comparison of different aged beers (Ger.). Brauwelt. 1971a;111:732-735",9284
+268,"Beer","","French beer","french beer","MÃ¤ndl B., Wullinger F., Wagner D., Binder W., Schneider K., Schlosser A., Piendl A. Comparison of different aged beers (Ger.). Brauwelt. 1971a;111:732-735",9283
+268,"Beer","","Itish porter stout","itish porter stout","MÃ¤ndl B., Wullinger F., Wagner D., Binder W., Schneider K., Schlosser A., Piendl A. Comparison of different aged beers (Ger.). Brauwelt. 1971a;111:732-735",9284
 268,"Beer","","Australian beer","australian beer","R. A. Bottomley et al. PRELIMINARY OBSERVATIONS ON THE COMPOSITION OF SOME AUSTRALIAN BOTTLED BEERS. I. Proximate analysis, vitamin content and calorific value. Journal of the Institute of Brewing 64(1), p.50-53",9285
 268,"Beer","","English beer","english beer","R. A. Bottomley et al. PRELIMINARY OBSERVATIONS ON THE COMPOSITION OF SOME AUSTRALIAN BOTTLED BEERS. I. Proximate analysis, vitamin content and calorific value. Journal of the Institute of Brewing 64(1), p.50-53",9286
 268,"Beer","","20% buckwheat malt beer","20 buckwheat malt beer","31154743",9287
@@ -9319,8 +9319,8 @@
 268,"Beer","","Jiaogulan beer","jiaogulan beer","Zhu Yan, Zhang Xingde, and Niu Weijun. Simultaneous Determination of Carbohydrates and Organic Acids in Beer and Wine by Ion Chromatography. Mikrochim. Acta 127, 189-194 (1997)",9318
 943,"Red wine","","Frontenac wine","frontenac wine","26083035",9319
 943,"Red wine","","Cabernet Sauvignon","cabernet sauvignon","Guo Cheng, Ye Liu, Tai-Xin Yue and Zhen-Wen Zhang. Comparison between aroma compounds in wines from four Vitis vinifera grape varieties grown in different shoot positions. Food Sci. Technol, Campinas, 35(2): 237-246, Apr.-Jun. 2015. http://dx.doi.org/10.1590/1678-457X.6438 ",9320
-949,"White wine","","Palomino wine fermented with yeast MO5","palomino wine fermented with yeast mo5","Pablo Estévez,  M Luisa Gil and Elena Falqué. Effects of seven yeast strains on the volatile composition of Palomino wines. International Journal of Food Science & Technology, 2004, 39, Issue 1, p.61-69.  https://doi.org/10.1046/j.0950-5423.2003.00755.x",9321
-949,"White wine","","Palomino wine fermented with yeast KD","palomino wine fermented with yeast kd","Pablo Estévez,  M Luisa Gil and Elena Falqué. Effects of seven yeast strains on the volatile composition of Palomino wines. International Journal of Food Science & Technology, 2004, 39, Issue 1, p.61-69.  https://doi.org/10.1046/j.0950-5423.2003.00755.x",9322
+949,"White wine","","Palomino wine fermented with yeast MO5","palomino wine fermented with yeast mo5","Pablo EstÃ©vez,  M Luisa Gil and Elena FalquÃ©. Effects of seven yeast strains on the volatile composition of Palomino wines. International Journal of Food Science & Technology, 2004, 39, Issue 1, p.61-69.  https://doi.org/10.1046/j.0950-5423.2003.00755.x",9321
+949,"White wine","","Palomino wine fermented with yeast KD","palomino wine fermented with yeast kd","Pablo EstÃ©vez,  M Luisa Gil and Elena FalquÃ©. Effects of seven yeast strains on the volatile composition of Palomino wines. International Journal of Food Science & Technology, 2004, 39, Issue 1, p.61-69.  https://doi.org/10.1046/j.0950-5423.2003.00755.x",9322
 943,"Red wine","","French oak, Shiraz","french oak shiraz","10768504",9323
 949,"White wine","","White wine derived from fermenting yeast Oenoferm Veltliner.","white wine derived from fermenting yeast oenoferm veltliner.","21371950",9324
 949,"White wine","","White wine derived from fermenting yeast Weiss&Komplex.","white wine derived from fermenting yeast weiss&komplex.","21371950",9325
@@ -9334,7 +9334,7 @@
 943,"Red wine","","Third racking. Troia Grape wine.","third racking. troia grape wine.","7576162",9333
 949,"White wine","","Bordeaux white wine","bordeaux white wine","3271892",9334
 949,"White wine","","Riesling white wine","riesling white wine","3271892",9335
-949,"White wine","","Palomino wine","palomino wine","Pablo Estévez,  M Luisa Gil and Elena Falqué. Effects of seven yeast strains on the volatile composition of Palomino wines. International Journal of Food Science & Technology, 2004, 39, Issue 1, p.61-69.  https://doi.org/10.1046/j.0950-5423.2003.00755.x",9336
+949,"White wine","","Palomino wine","palomino wine","Pablo EstÃ©vez,  M Luisa Gil and Elena FalquÃ©. Effects of seven yeast strains on the volatile composition of Palomino wines. International Journal of Food Science & Technology, 2004, 39, Issue 1, p.61-69.  https://doi.org/10.1046/j.0950-5423.2003.00755.x",9336
 943,"Red wine","","California wine","california wine","Leo P. Mccloskey. Gluconic Acid in California Wines. Am J Enol Vitic. January 1974 25: 198-201; published ahead of print January 01, 1974",9337
 949,"White wine","","White wine derived from fermenting yeast Oenoferm Veltliner","white wine derived from fermenting yeast oenoferm veltliner","21371950",9338
 949,"White wine","","White wine derived from fermenting yeast Weiss&Komplex","white wine derived from fermenting yeast weiss&komplex","21371950",9339
@@ -9447,7 +9447,7 @@
 943,"Red wine","","Wine, table, red","wine table red","USDA",9446
 949,"White wine","","Wine, table, white","wine table white","USDA",9447
 951,"Egg yolk","","Eggs, Grade A, Large, egg yolk","eggs grade a large egg yolk","USDA",9448
-952,"Rosé wine","","Wine, table, rose","wine table rose","USDA",9449
+952,"RosÃ© wine","","Wine, table, rose","wine table rose","USDA",9449
 955,"Dessert wine","","Wine, dessert, sweet","wine dessert sweet","USDA",9450
 965,"Mozzarella cheese","","Cheese, mozzarella, low moisture, part-skim","cheese mozzarella low moisture part skim","USDA",9451
 967,"Cheddar Cheese","","Cheese, cheddar (Includes foods for USDA's Food Distribution Program)","cheese cheddar includes for usda's program","USDA",9452
@@ -9502,7 +9502,7 @@
 180,"Tamarind","","Tamarind","tamarind","KNAPSACK",9501
 200,"Mung bean","","Mung bean","mung bean","KNAPSACK",9502
 97,"Sweet bay","","Sweet bay","sweet bay","KNAPSACK",9503
-799,"Cupuaçu","","Cupuaçu","cupuaçu","KNAPSACK",9504
+799,"CupuaÃ§u","","CupuaÃ§u","cupuaÃ§u","KNAPSACK",9504
 391,"Java plum","","Java plum","java plum","KNAPSACK",9505
 173,"Garden tomato (var.)","","Garden tomato (var.)","garden tomato var.","KNAPSACK",9506
 394,"Jute","","Jute","jute","KNAPSACK",9507
@@ -9889,7 +9889,7 @@
 644,"Liquorice","","Liquorice","liquorice","PHYTOHUB",9888
 950,"Sour orange","","Sour orange","sour orange","PHYTOHUB",9889
 951,"Egg yolk","","Egg yolk","egg yolk","PHYTOHUB",9890
-952,"Rosé wine","","Rosé wine","rosé wine","PHYTOHUB",9891
+952,"RosÃ© wine","","RosÃ© wine","rosÃ© wine","PHYTOHUB",9891
 953,"White mulberry","","White mulberry","white mulberry","PHYTOHUB",9892
 945,"Rapeseed oil","","Rapeseed oil","rapeseed oil","PHYTOHUB",9893
 955,"Dessert wine","","Dessert wine","dessert wine","PHYTOHUB",9894
