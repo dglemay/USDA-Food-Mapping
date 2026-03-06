@@ -17,7 +17,7 @@ This repository contains ground truth data, evaluation methods, and results for 
   - Target database = Davis Food Glycopedia 2
   - Some input descriptions may have **no suitable match**.
   - Goal: Return the best match if one exists; otherwise, flag the input as `NO MATCH`.
-
+  - For more details on this dataset see **[here](https://github.com/jalarke/map_nhanes_to_dfg2)**
 ---
 
 ## Setup and Installation
